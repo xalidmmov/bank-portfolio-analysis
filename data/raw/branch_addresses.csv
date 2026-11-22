@@ -1,0 +1,21 @@
+id,branch_id,city,country,postal_code,state,street
+1,18,Atlanta,United States,30337,GA,3106 Eliane Islands
+2,1,Dallas,United States,75206,TX,2269 South Street
+3,11,San Diego,United States,92104,CA,5074 Joanny Flats
+4,6,Atlanta,United States,30303,GA,37483 15th Street
+5,7,Boston,United States,02108,MA,36400 Kshlerin Squares
+6,15,Houston,United States,77088,TX,60010 Beer Pass
+7,20,Detroit,United States,48291,MI,175 Martin Luther King Boulevard
+8,2,Salt Lake City,United States,84104,UT,7744 Kuhic Burgs
+9,9,Philadelphia,United States,19117,PA,22361 Homenick Lakes
+10,3,New York,United States,11419,NY,317 Zechariah Centers
+11,4,Los Angeles,United States,90089,CA,4519 S Franklin Street
+12,17,San Antonio,United States,78285,TX,790 N Franklin Street
+13,14,Dallas,United States,75292,TX,184 Herta Walks
+14,8,San Antonio,United States,78239,TX,716 Ferry Road
+15,5,New York,United States,10400,NY,8010 Veum Wells
+16,13,San Francisco,United States,94144,CA,527 Spencer Meadows
+17,12,Denver,United States,80299,CO,50379 Lake Drive
+18,19,Los Angeles,United States,90042,CA,7461 N Pine Street
+19,16,Philadelphia,United States,19131,PA,48039 N Bridge Street
+20,10,Dallas,United States,75276,TX,5178 Carolyne Fork

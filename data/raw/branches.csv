@@ -1,0 +1,21 @@
+id,email,name,phone,routing_number
+1,mainstreet@bank.example.com,Main Street Branch,(431) 982-3407,032037821
+2,riverside@bank.example.com,Riverside Branch,(627) 324-3599,045715162
+3,oakpark@bank.example.com,Oak Park Branch,(427) 984-7858,079894023
+4,harbor@bank.example.com,Harbor Branch,(602) 895-3379,026429985
+5,unionsquare@bank.example.com,Union Square Branch,(587) 742-7244,020456934
+6,westgate@bank.example.com,Westgate Branch,(464) 745-6978,088129430
+7,northfield@bank.example.com,Northfield Branch,(484) 530-5412,013062830
+8,lakeshore@bank.example.com,Lakeshore Branch,(953) 701-0231,028559962
+9,midtown@bank.example.com,Midtown Branch,(802) 645-6397,036785709
+10,elmgrove@bank.example.com,Elm Grove Branch,(233) 346-1960,005403345
+11,cedarhills@bank.example.com,Cedar Hills Branch,(561) 804-8110,091723924
+12,oldtown@bank.example.com,Old Town Branch,(941) 830-8419,000956569
+13,bayview@bank.example.com,Bayview Branch,(493) 700-2819,066673264
+14,southpoint@bank.example.com,Southpoint Branch,(931) 278-7331,065984859
+15,mapleridge@bank.example.com,Maple Ridge Branch,(309) 857-9575,013871270
+16,pinevalley@bank.example.com,Pine Valley Branch,(615) 596-4882,090495705
+17,marketsquare@bank.example.com,Market Square Branch,(414) 973-0199,008347279
+18,eastwood@bank.example.com,Eastwood Branch,(752) 659-0998,034227606
+19,hillcrest@bank.example.com,Hillcrest Branch,(376) 341-9151,030113751
+20,airportroad@bank.example.com,Airport Road Branch,(443) 376-2426,074042869

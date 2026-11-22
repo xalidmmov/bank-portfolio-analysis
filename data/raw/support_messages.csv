@@ -1,0 +1,1801 @@
+id,message,sender_type,sent_date,ticket_id
+1,"Thanks, that fixed it",customer,2021-12-07 00:12:19,162
+2,Can you check again?,customer,2023-03-16 22:25:10,163
+3,Can you check again?,customer,2021-06-14 07:11:43,247
+4,Can you check again?,customer,2022-11-16 08:48:02,336
+5,We have reissued your card,agent,2023-06-16 01:01:28,383
+6,"Thanks, that fixed it",customer,2022-05-26 02:26:52,30
+7,We have reissued your card,customer,2022-02-06 22:30:21,303
+8,The charge has been reversed,agent,2022-06-24 03:46:44,339
+9,Please verify your identity,customer,2023-05-31 23:43:46,546
+10,Your request is complete,customer,2024-07-30 01:50:00,470
+11,"Thanks, that fixed it",agent,2023-09-20 22:03:22,311
+12,Can you check again?,customer,2023-08-28 03:46:22,391
+13,"Thanks, that fixed it",customer,2025-06-14 01:48:55,548
+14,We have reissued your card,customer,2024-02-05 09:03:26,13
+15,The charge has been reversed,agent,2023-06-17 21:04:47,40
+16,We have reissued your card,customer,2025-04-02 23:37:42,446
+17,The charge has been reversed,agent,2022-11-07 08:59:56,180
+18,Can you check again?,agent,2021-03-27 08:03:17,433
+19,Can you check again?,customer,2023-07-27 23:02:22,237
+20,Please verify your identity,customer,2023-12-21 15:37:32,386
+21,Your request is complete,agent,2025-02-17 16:49:31,591
+22,We have reissued your card,customer,2025-05-08 16:54:36,384
+23,The charge has been reversed,customer,2023-06-30 13:27:22,522
+24,We have reissued your card,agent,2025-11-07 13:14:25,443
+25,"Thanks, that fixed it",customer,2024-04-05 00:13:29,343
+26,The charge has been reversed,agent,2024-04-23 04:06:05,211
+27,"Thanks, that fixed it",customer,2021-12-27 16:51:18,273
+28,We have reissued your card,agent,2023-08-08 08:00:59,6
+29,Your request is complete,customer,2025-10-22 18:42:59,153
+30,The charge has been reversed,customer,2023-05-13 02:23:20,466
+31,Can you check again?,customer,2023-07-12 19:54:11,437
+32,Your request is complete,agent,2022-03-26 17:01:44,417
+33,Please verify your identity,customer,2023-01-07 11:47:15,439
+34,We have reissued your card,agent,2024-02-06 23:58:05,583
+35,"Thanks, that fixed it",customer,2023-02-15 19:32:36,285
+36,The charge has been reversed,agent,2023-08-01 18:16:29,435
+37,Your request is complete,customer,2024-03-23 12:36:31,286
+38,Please verify your identity,agent,2024-01-16 09:28:04,480
+39,Can you check again?,customer,2021-02-21 12:03:24,259
+40,Please verify your identity,customer,2023-05-09 11:47:30,557
+41,Can you check again?,agent,2022-12-08 00:16:13,146
+42,Can you check again?,agent,2024-07-31 08:11:16,470
+43,Your request is complete,customer,2021-04-19 23:48:32,560
+44,Can you check again?,agent,2021-01-23 21:23:30,586
+45,"Thanks, that fixed it",agent,2023-07-31 09:10:52,300
+46,"Thanks, that fixed it",agent,2023-07-07 19:06:52,210
+47,Your request is complete,customer,2025-08-09 13:52:22,18
+48,"Thanks, that fixed it",agent,2021-04-27 21:53:28,581
+49,Please verify your identity,customer,2022-03-25 11:42:15,4
+50,Please verify your identity,agent,2021-07-08 05:48:06,342
+51,The charge has been reversed,agent,2022-06-19 10:51:56,236
+52,"Thanks, that fixed it",agent,2023-03-25 08:56:11,140
+53,Please verify your identity,customer,2023-02-27 05:58:55,20
+54,Your request is complete,customer,2025-03-03 03:16:54,267
+55,We have reissued your card,agent,2023-05-19 23:38:21,165
+56,"Thanks, that fixed it",customer,2025-08-09 21:37:22,18
+57,"Thanks, that fixed it",agent,2025-10-17 21:46:48,113
+58,Your request is complete,agent,2025-02-18 17:19:40,591
+59,Please verify your identity,agent,2024-10-02 11:19:15,152
+60,"Thanks, that fixed it",customer,2021-01-26 23:09:31,333
+61,Your request is complete,agent,2023-08-12 22:48:01,580
+62,The charge has been reversed,agent,2022-11-04 11:36:52,412
+63,Can you check again?,agent,2025-03-01 07:39:24,189
+64,We have reissued your card,customer,2023-03-03 10:43:56,488
+65,The charge has been reversed,agent,2023-05-13 09:25:57,429
+66,Your request is complete,customer,2022-08-29 05:14:43,25
+67,Please verify your identity,customer,2022-02-27 11:19:49,164
+68,Can you check again?,customer,2025-05-30 03:46:19,274
+69,Please verify your identity,customer,2022-07-24 18:24:06,423
+70,Can you check again?,customer,2021-04-05 02:22:32,241
+71,Can you check again?,customer,2025-07-01 10:36:19,106
+72,The charge has been reversed,agent,2021-04-26 07:01:10,581
+73,Please verify your identity,customer,2023-10-11 22:18:38,171
+74,The charge has been reversed,customer,2025-09-02 03:53:28,585
+75,Your request is complete,agent,2025-10-02 02:00:27,496
+76,"Thanks, that fixed it",agent,2022-12-19 04:25:38,198
+77,"Thanks, that fixed it",customer,2025-10-12 23:20:54,292
+78,The charge has been reversed,customer,2023-08-14 13:14:44,580
+79,Your request is complete,customer,2022-04-20 11:53:58,547
+80,The charge has been reversed,customer,2025-10-08 07:28:23,157
+81,Can you check again?,customer,2022-02-25 08:53:24,100
+82,The charge has been reversed,agent,2021-08-18 21:56:02,135
+83,Your request is complete,agent,2024-02-08 22:19:08,98
+84,The charge has been reversed,agent,2022-11-08 23:26:24,430
+85,We have reissued your card,customer,2022-11-19 10:04:31,444
+86,Please verify your identity,customer,2025-09-27 04:10:36,176
+87,Your request is complete,customer,2024-02-17 22:50:13,317
+88,Can you check again?,customer,2021-02-04 02:12:44,565
+89,Your request is complete,agent,2025-09-03 11:47:30,585
+90,We have reissued your card,customer,2022-04-09 18:16:54,465
+91,The charge has been reversed,customer,2024-02-16 23:40:02,231
+92,We have reissued your card,agent,2025-07-04 22:19:46,68
+93,The charge has been reversed,customer,2025-07-17 00:29:52,101
+94,We have reissued your card,agent,2023-08-07 19:18:18,6
+95,Can you check again?,customer,2025-08-24 01:19:46,27
+96,"Thanks, that fixed it",agent,2022-09-02 13:38:15,436
+97,Your request is complete,customer,2022-04-17 13:07:21,207
+98,Can you check again?,agent,2025-03-01 02:45:46,189
+99,We have reissued your card,customer,2021-01-12 10:18:42,74
+100,The charge has been reversed,customer,2025-07-14 11:32:54,19
+101,Please verify your identity,agent,2023-04-07 22:16:01,258
+102,Your request is complete,customer,2021-09-07 20:10:50,22
+103,Your request is complete,customer,2022-10-16 03:34:15,110
+104,Your request is complete,customer,2025-08-04 15:19:17,573
+105,Please verify your identity,customer,2021-04-05 03:48:34,241
+106,"Thanks, that fixed it",agent,2025-07-14 09:10:33,19
+107,Can you check again?,customer,2022-06-15 21:42:17,563
+108,Please verify your identity,agent,2022-03-08 15:43:50,83
+109,Your request is complete,agent,2023-08-16 16:32:15,593
+110,The charge has been reversed,agent,2021-03-27 22:05:35,433
+111,"Thanks, that fixed it",customer,2021-05-26 17:43:17,527
+112,Can you check again?,customer,2021-10-29 22:27:35,88
+113,We have reissued your card,agent,2022-09-01 16:16:33,436
+114,Your request is complete,agent,2021-10-01 13:15:15,86
+115,Your request is complete,agent,2022-06-26 19:06:30,335
+116,"Thanks, that fixed it",agent,2022-07-20 11:00:51,340
+117,Can you check again?,agent,2021-03-07 08:53:20,355
+118,Please verify your identity,agent,2025-03-06 20:48:00,325
+119,Please verify your identity,agent,2022-10-10 18:01:07,281
+120,"Thanks, that fixed it",agent,2021-07-13 20:33:27,504
+121,Can you check again?,agent,2023-04-07 17:59:49,258
+122,"Thanks, that fixed it",customer,2025-03-13 20:41:30,120
+123,The charge has been reversed,agent,2022-05-25 10:12:16,30
+124,Can you check again?,customer,2021-01-08 01:20:15,421
+125,Your request is complete,customer,2021-04-24 11:59:14,537
+126,We have reissued your card,agent,2021-08-29 02:17:34,316
+127,"Thanks, that fixed it",agent,2022-05-06 04:34:38,476
+128,We have reissued your card,agent,2025-09-05 07:42:19,377
+129,Can you check again?,customer,2025-03-18 11:26:42,289
+130,Please verify your identity,agent,2025-06-02 08:53:50,534
+131,Your request is complete,customer,2024-09-13 09:23:16,526
+132,"Thanks, that fixed it",customer,2023-03-01 13:55:50,20
+133,Your request is complete,agent,2023-01-27 10:11:44,78
+134,Please verify your identity,agent,2022-06-19 09:26:14,552
+135,Please verify your identity,agent,2024-12-26 04:24:35,483
+136,Your request is complete,customer,2022-11-22 17:53:33,462
+137,Please verify your identity,customer,2023-05-08 17:57:17,557
+138,We have reissued your card,agent,2021-09-03 00:16:21,283
+139,Can you check again?,agent,2024-06-30 02:58:16,230
+140,"Thanks, that fixed it",agent,2024-07-11 21:51:22,66
+141,Your request is complete,customer,2023-05-03 00:53:16,595
+142,Your request is complete,customer,2022-06-19 13:32:14,236
+143,"Thanks, that fixed it",agent,2025-08-22 12:00:13,318
+144,The charge has been reversed,agent,2021-10-20 04:56:26,592
+145,Please verify your identity,agent,2021-02-02 22:33:03,485
+146,"Thanks, that fixed it",agent,2025-09-11 19:51:13,58
+147,We have reissued your card,agent,2025-05-22 14:43:31,390
+148,We have reissued your card,customer,2023-05-03 10:46:51,595
+149,"Thanks, that fixed it",customer,2024-08-07 13:47:16,313
+150,Your request is complete,agent,2021-12-16 17:46:07,305
+151,Please verify your identity,agent,2023-08-14 14:05:09,580
+152,Please verify your identity,agent,2024-10-02 08:21:44,152
+153,Please verify your identity,agent,2022-09-18 21:47:44,137
+154,Can you check again?,agent,2025-07-01 08:37:51,106
+155,"Thanks, that fixed it",agent,2023-01-29 15:32:58,24
+156,Your request is complete,customer,2021-10-20 09:16:39,34
+157,The charge has been reversed,customer,2022-03-08 23:06:30,454
+158,"Thanks, that fixed it",agent,2025-03-27 04:58:28,128
+159,Your request is complete,agent,2023-03-17 11:11:27,381
+160,We have reissued your card,agent,2025-03-07 20:07:30,448
+161,Your request is complete,customer,2021-01-09 00:50:13,280
+162,The charge has been reversed,agent,2021-09-11 13:37:56,38
+163,Please verify your identity,agent,2021-10-01 18:03:36,86
+164,Your request is complete,customer,2025-09-02 16:24:30,182
+165,The charge has been reversed,agent,2021-08-11 01:30:57,332
+166,"Thanks, that fixed it",agent,2021-07-13 14:41:12,542
+167,"Thanks, that fixed it",agent,2024-03-23 11:09:40,286
+168,"Thanks, that fixed it",agent,2023-08-22 16:41:26,196
+169,"Thanks, that fixed it",agent,2021-08-04 09:52:29,419
+170,"Thanks, that fixed it",customer,2025-09-22 08:31:55,7
+171,We have reissued your card,customer,2022-08-11 22:43:18,185
+172,"Thanks, that fixed it",customer,2024-12-23 19:23:48,385
+173,Your request is complete,customer,2024-02-23 18:59:25,119
+174,The charge has been reversed,agent,2023-06-03 03:58:05,569
+175,Please verify your identity,agent,2025-07-13 16:55:47,295
+176,Your request is complete,agent,2024-05-30 22:24:30,371
+177,Please verify your identity,customer,2022-09-03 09:05:04,244
+178,We have reissued your card,agent,2023-08-03 21:39:09,435
+179,Your request is complete,agent,2024-05-29 19:18:03,80
+180,Can you check again?,agent,2025-08-04 13:46:31,573
+181,Your request is complete,customer,2023-04-13 19:05:29,61
+182,"Thanks, that fixed it",customer,2022-10-10 08:32:31,121
+183,"Thanks, that fixed it",agent,2025-09-04 17:13:40,410
+184,"Thanks, that fixed it",agent,2022-11-22 03:35:09,269
+185,Please verify your identity,customer,2022-09-23 05:58:24,498
+186,We have reissued your card,agent,2021-09-06 02:49:59,22
+187,Please verify your identity,customer,2025-09-01 19:00:57,218
+188,Your request is complete,agent,2021-07-23 12:00:08,481
+189,We have reissued your card,agent,2021-04-08 01:54:29,23
+190,We have reissued your card,agent,2025-09-22 00:38:27,7
+191,"Thanks, that fixed it",agent,2023-11-30 00:27:25,422
+192,Can you check again?,customer,2021-07-21 13:04:10,151
+193,The charge has been reversed,customer,2024-05-31 04:25:26,371
+194,Your request is complete,agent,2023-05-20 11:19:27,165
+195,Please verify your identity,customer,2021-07-06 06:07:30,388
+196,We have reissued your card,customer,2024-02-18 07:55:17,231
+197,The charge has been reversed,agent,2025-09-26 09:16:37,176
+198,Can you check again?,agent,2024-08-12 19:35:54,31
+199,We have reissued your card,agent,2022-11-02 12:29:57,412
+200,Your request is complete,agent,2024-07-13 10:45:11,66
+201,We have reissued your card,agent,2021-06-29 12:55:10,362
+202,The charge has been reversed,agent,2021-01-13 21:53:21,74
+203,We have reissued your card,agent,2024-05-30 17:28:42,371
+204,"Thanks, that fixed it",customer,2025-07-10 17:56:27,59
+205,Can you check again?,customer,2023-07-11 10:48:27,482
+206,We have reissued your card,agent,2025-02-14 10:13:00,507
+207,Can you check again?,agent,2021-12-14 18:50:51,169
+208,Can you check again?,agent,2021-08-31 08:31:58,356
+209,Please verify your identity,agent,2025-06-04 19:38:07,315
+210,"Thanks, that fixed it",agent,2024-02-14 09:22:38,447
+211,"Thanks, that fixed it",customer,2023-03-01 02:53:58,271
+212,Please verify your identity,agent,2025-03-12 23:37:00,120
+213,Please verify your identity,agent,2023-04-15 12:33:54,61
+214,"Thanks, that fixed it",agent,2024-05-10 04:35:47,95
+215,Please verify your identity,customer,2023-04-07 02:52:06,298
+216,Your request is complete,customer,2021-03-02 18:06:06,254
+217,Your request is complete,customer,2024-10-09 20:01:38,491
+218,The charge has been reversed,customer,2024-01-30 03:14:07,62
+219,We have reissued your card,agent,2023-02-21 08:33:42,328
+220,Your request is complete,agent,2021-02-09 14:40:17,263
+221,The charge has been reversed,customer,2025-11-12 23:12:47,415
+222,Can you check again?,agent,2025-03-25 23:53:07,404
+223,"Thanks, that fixed it",customer,2024-01-16 15:52:30,197
+224,"Thanks, that fixed it",customer,2022-11-25 11:11:00,519
+225,We have reissued your card,agent,2023-08-03 07:56:53,524
+226,The charge has been reversed,agent,2023-12-31 02:11:18,1
+227,The charge has been reversed,customer,2025-10-01 19:11:23,496
+228,"Thanks, that fixed it",customer,2021-02-11 12:50:59,263
+229,We have reissued your card,agent,2025-05-02 02:28:38,306
+230,Can you check again?,agent,2021-12-29 06:20:10,597
+231,Please verify your identity,customer,2021-01-13 09:07:22,301
+232,We have reissued your card,customer,2021-09-02 00:13:13,283
+233,"Thanks, that fixed it",customer,2023-12-22 22:12:39,386
+234,Your request is complete,agent,2023-09-06 19:12:40,291
+235,Please verify your identity,customer,2024-01-26 02:04:19,512
+236,Please verify your identity,agent,2021-02-21 10:36:17,259
+237,Please verify your identity,agent,2025-01-22 13:04:05,427
+238,Your request is complete,agent,2025-08-10 19:06:11,18
+239,The charge has been reversed,customer,2022-10-10 16:06:29,281
+240,The charge has been reversed,agent,2021-06-23 22:28:39,373
+241,"Thanks, that fixed it",customer,2021-10-19 21:56:58,592
+242,Can you check again?,agent,2023-09-19 04:29:07,46
+243,We have reissued your card,customer,2022-05-03 07:42:29,133
+244,Your request is complete,agent,2024-05-21 11:19:18,357
+245,The charge has been reversed,customer,2023-07-04 20:56:54,45
+246,Please verify your identity,customer,2025-02-18 05:37:42,591
+247,Can you check again?,customer,2023-10-18 14:42:23,553
+248,"Thanks, that fixed it",agent,2023-12-15 21:28:36,525
+249,Please verify your identity,customer,2025-04-10 12:33:21,584
+250,Can you check again?,agent,2025-06-05 19:20:18,315
+251,The charge has been reversed,customer,2023-01-09 07:20:06,439
+252,The charge has been reversed,customer,2024-07-28 20:10:48,470
+253,We have reissued your card,customer,2025-04-24 14:24:16,322
+254,Please verify your identity,customer,2023-12-09 02:17:31,473
+255,Please verify your identity,agent,2021-03-22 18:33:18,43
+256,Your request is complete,agent,2023-05-01 11:13:55,595
+257,Your request is complete,agent,2022-08-16 16:37:41,139
+258,Your request is complete,customer,2024-09-26 06:25:30,97
+259,The charge has been reversed,customer,2022-01-01 09:42:11,203
+260,Your request is complete,agent,2025-08-25 21:53:35,304
+261,The charge has been reversed,agent,2025-11-14 03:52:02,415
+262,Your request is complete,agent,2022-11-22 02:02:56,269
+263,"Thanks, that fixed it",agent,2023-05-05 10:03:32,63
+264,The charge has been reversed,agent,2022-09-20 13:33:46,137
+265,We have reissued your card,customer,2023-02-21 00:15:01,277
+266,"Thanks, that fixed it",customer,2024-06-28 15:01:58,363
+267,Can you check again?,customer,2022-02-06 16:08:31,303
+268,Your request is complete,customer,2023-05-11 08:52:34,361
+269,The charge has been reversed,customer,2024-12-30 05:25:54,389
+270,The charge has been reversed,agent,2021-03-24 06:39:07,43
+271,Please verify your identity,customer,2025-01-17 12:18:02,575
+272,"Thanks, that fixed it",customer,2025-03-15 13:11:53,120
+273,"Thanks, that fixed it",customer,2023-01-08 22:40:00,439
+274,"Thanks, that fixed it",agent,2021-03-25 15:22:07,54
+275,Your request is complete,agent,2021-12-24 01:20:30,209
+276,We have reissued your card,agent,2025-03-03 13:20:20,267
+277,Please verify your identity,customer,2025-09-14 12:39:08,460
+278,We have reissued your card,agent,2025-01-21 21:30:39,11
+279,Your request is complete,agent,2023-10-07 10:07:01,513
+280,"Thanks, that fixed it",agent,2022-05-05 20:08:33,476
+281,Your request is complete,agent,2022-09-03 18:25:50,244
+282,Your request is complete,agent,2023-11-29 09:14:20,183
+283,Can you check again?,agent,2024-06-02 16:56:40,408
+284,Your request is complete,agent,2025-07-11 18:56:18,19
+285,"Thanks, that fixed it",customer,2025-06-24 17:46:54,144
+286,Your request is complete,agent,2023-09-10 07:55:15,115
+287,We have reissued your card,customer,2022-07-18 03:42:02,493
+288,Can you check again?,agent,2021-11-13 13:47:46,334
+289,"Thanks, that fixed it",customer,2025-01-05 08:41:25,94
+290,The charge has been reversed,agent,2021-03-21 22:17:55,348
+291,Your request is complete,agent,2022-11-29 13:49:17,499
+292,Please verify your identity,customer,2024-10-09 09:21:18,491
+293,"Thanks, that fixed it",agent,2021-03-01 06:06:16,500
+294,The charge has been reversed,customer,2024-04-03 21:50:44,343
+295,Please verify your identity,customer,2025-03-25 22:26:26,520
+296,Your request is complete,agent,2025-04-26 04:08:49,322
+297,"Thanks, that fixed it",customer,2022-08-12 20:16:52,12
+298,Can you check again?,customer,2023-07-30 09:02:14,124
+299,The charge has been reversed,customer,2024-02-17 06:49:16,317
+300,The charge has been reversed,customer,2024-02-09 20:59:52,350
+301,Can you check again?,customer,2023-08-09 04:00:11,323
+302,The charge has been reversed,agent,2024-11-16 01:58:06,431
+303,We have reissued your card,agent,2024-08-02 05:37:09,413
+304,Your request is complete,agent,2025-04-01 07:30:51,577
+305,Please verify your identity,agent,2022-08-10 03:05:33,148
+306,Your request is complete,agent,2022-12-29 00:43:01,455
+307,The charge has been reversed,agent,2024-03-16 12:35:57,376
+308,Your request is complete,agent,2022-06-20 12:13:20,552
+309,Your request is complete,customer,2025-06-04 08:43:48,315
+310,The charge has been reversed,customer,2025-01-17 21:18:17,276
+311,Please verify your identity,customer,2023-05-16 00:59:15,265
+312,Your request is complete,customer,2024-07-29 10:07:48,470
+313,Please verify your identity,customer,2025-02-13 17:20:44,507
+314,We have reissued your card,agent,2021-10-06 00:24:20,492
+315,Please verify your identity,customer,2021-09-14 22:42:47,518
+316,The charge has been reversed,customer,2023-09-10 22:50:20,115
+317,Please verify your identity,customer,2022-08-14 06:30:51,185
+318,"Thanks, that fixed it",customer,2022-02-28 06:01:32,164
+319,We have reissued your card,agent,2024-08-09 13:04:05,313
+320,The charge has been reversed,customer,2021-08-07 23:10:36,77
+321,Can you check again?,customer,2023-03-21 15:16:24,494
+322,Your request is complete,agent,2022-12-18 21:36:43,198
+323,Can you check again?,agent,2023-08-04 02:15:45,524
+324,Your request is complete,customer,2022-03-12 19:08:02,308
+325,Can you check again?,agent,2023-04-24 03:57:42,599
+326,"Thanks, that fixed it",agent,2025-04-01 01:08:33,75
+327,"Thanks, that fixed it",agent,2024-11-30 00:24:45,468
+328,Your request is complete,customer,2021-02-05 00:07:21,485
+329,We have reissued your card,agent,2021-01-26 14:06:27,586
+330,We have reissued your card,agent,2023-01-08 17:56:27,439
+331,"Thanks, that fixed it",agent,2024-02-19 05:41:04,576
+332,Your request is complete,customer,2024-12-26 07:40:28,385
+333,Can you check again?,agent,2022-10-16 17:50:14,110
+334,"Thanks, that fixed it",agent,2025-09-26 02:56:45,176
+335,"Thanks, that fixed it",customer,2025-11-01 07:59:37,117
+336,We have reissued your card,agent,2024-01-19 19:32:54,8
+337,Can you check again?,agent,2024-06-28 09:13:11,531
+338,The charge has been reversed,agent,2022-09-03 03:02:07,566
+339,Your request is complete,customer,2024-09-11 00:55:12,99
+340,Can you check again?,customer,2025-03-18 01:08:24,289
+341,We have reissued your card,agent,2023-01-26 23:31:26,487
+342,Please verify your identity,customer,2025-03-07 16:37:33,458
+343,The charge has been reversed,customer,2025-05-14 23:09:41,160
+344,"Thanks, that fixed it",agent,2022-04-17 18:42:56,246
+345,We have reissued your card,customer,2024-09-11 07:16:00,99
+346,Your request is complete,agent,2022-11-23 06:03:07,559
+347,We have reissued your card,customer,2023-08-05 02:17:36,154
+348,Your request is complete,agent,2025-03-28 00:04:01,404
+349,Your request is complete,agent,2022-02-15 15:39:01,272
+350,Please verify your identity,agent,2021-03-03 15:02:05,254
+351,"Thanks, that fixed it",agent,2024-04-04 01:43:14,343
+352,Your request is complete,customer,2022-03-10 01:55:16,418
+353,Your request is complete,customer,2023-10-16 12:34:34,553
+354,Your request is complete,customer,2024-12-02 01:09:36,509
+355,The charge has been reversed,agent,2023-04-22 17:44:19,201
+356,We have reissued your card,customer,2023-02-08 19:10:02,32
+357,Your request is complete,agent,2021-02-18 00:09:14,511
+358,Your request is complete,customer,2024-03-16 06:07:22,158
+359,We have reissued your card,agent,2023-12-03 13:05:22,406
+360,The charge has been reversed,customer,2024-05-11 05:50:42,95
+361,Can you check again?,customer,2023-06-28 19:52:32,522
+362,Can you check again?,customer,2021-12-14 05:11:40,169
+363,We have reissued your card,agent,2021-03-28 21:14:54,433
+364,We have reissued your card,customer,2021-12-07 23:29:20,399
+365,We have reissued your card,customer,2022-10-12 02:48:55,281
+366,The charge has been reversed,customer,2022-12-30 12:43:47,108
+367,The charge has been reversed,agent,2021-12-05 16:42:32,249
+368,Your request is complete,agent,2024-06-27 00:09:10,363
+369,We have reissued your card,customer,2022-09-04 16:16:06,214
+370,Can you check again?,customer,2022-02-14 11:10:11,272
+371,Can you check again?,customer,2024-09-20 09:22:41,70
+372,"Thanks, that fixed it",agent,2021-03-03 11:05:21,254
+373,Please verify your identity,agent,2025-05-16 12:30:02,160
+374,Can you check again?,agent,2022-02-27 22:54:11,164
+375,Your request is complete,agent,2021-12-07 13:13:27,399
+376,Can you check again?,agent,2021-01-10 21:40:47,280
+377,We have reissued your card,agent,2023-07-20 19:43:05,50
+378,Please verify your identity,agent,2023-01-24 22:20:56,487
+379,Your request is complete,customer,2022-05-21 13:21:32,179
+380,Please verify your identity,customer,2021-12-09 09:46:17,178
+381,Can you check again?,agent,2023-10-18 00:40:47,553
+382,"Thanks, that fixed it",customer,2021-01-10 13:06:51,227
+383,We have reissued your card,customer,2024-11-30 18:16:27,468
+384,Can you check again?,customer,2024-06-12 22:49:43,402
+385,Your request is complete,agent,2023-02-26 07:57:56,114
+386,Your request is complete,agent,2024-06-25 00:51:35,572
+387,Please verify your identity,customer,2023-09-12 08:24:18,115
+388,The charge has been reversed,agent,2023-05-13 13:18:03,181
+389,Please verify your identity,agent,2022-04-18 21:13:57,246
+390,"Thanks, that fixed it",agent,2024-01-14 12:15:45,197
+391,Please verify your identity,customer,2022-04-18 01:42:05,547
+392,We have reissued your card,agent,2023-07-13 07:37:18,47
+393,"Thanks, that fixed it",agent,2025-08-24 11:41:01,304
+394,The charge has been reversed,customer,2022-03-08 10:07:50,454
+395,Please verify your identity,customer,2023-08-17 21:45:22,593
+396,"Thanks, that fixed it",customer,2025-05-27 23:45:00,274
+397,Please verify your identity,customer,2025-06-13 07:20:08,428
+398,Your request is complete,agent,2021-09-11 22:28:53,38
+399,"Thanks, that fixed it",customer,2021-01-11 15:02:27,74
+400,Please verify your identity,agent,2022-12-16 13:41:11,192
+401,Your request is complete,agent,2021-12-05 06:49:10,382
+402,Your request is complete,agent,2022-06-14 01:11:42,563
+403,Can you check again?,agent,2022-08-16 00:45:12,139
+404,The charge has been reversed,customer,2025-04-25 19:25:11,322
+405,Your request is complete,customer,2022-02-16 14:37:22,272
+406,Can you check again?,agent,2022-03-06 15:06:39,125
+407,Please verify your identity,agent,2021-07-05 12:01:13,3
+408,Can you check again?,customer,2025-08-07 05:30:49,573
+409,"Thanks, that fixed it",agent,2024-06-19 18:26:42,239
+410,Can you check again?,agent,2025-10-01 05:56:50,496
+411,We have reissued your card,customer,2024-09-29 16:41:07,152
+412,Your request is complete,agent,2024-11-20 10:13:33,401
+413,Please verify your identity,agent,2025-09-02 12:53:17,585
+414,We have reissued your card,agent,2021-05-12 22:22:14,240
+415,Can you check again?,customer,2022-03-06 01:35:33,359
+416,The charge has been reversed,customer,2021-03-31 09:19:25,545
+417,Your request is complete,agent,2023-07-04 21:18:22,598
+418,Please verify your identity,customer,2023-07-31 07:59:00,300
+419,We have reissued your card,agent,2021-09-08 02:37:24,22
+420,"Thanks, that fixed it",customer,2022-04-08 16:25:14,216
+421,The charge has been reversed,agent,2025-03-10 01:02:30,458
+422,Please verify your identity,agent,2024-02-28 05:09:44,262
+423,"Thanks, that fixed it",agent,2021-05-24 07:10:11,393
+424,The charge has been reversed,agent,2022-02-08 09:48:41,303
+425,We have reissued your card,agent,2024-03-25 03:37:30,251
+426,The charge has been reversed,customer,2021-02-18 06:48:52,310
+427,We have reissued your card,agent,2025-11-22 09:06:49,346
+428,We have reissued your card,customer,2024-10-11 21:47:08,56
+429,We have reissued your card,customer,2025-07-15 17:45:30,295
+430,Please verify your identity,agent,2021-07-14 00:45:18,299
+431,We have reissued your card,customer,2023-04-24 10:36:18,201
+432,Please verify your identity,agent,2021-06-01 03:52:46,440
+433,"Thanks, that fixed it",agent,2025-09-03 14:24:28,182
+434,We have reissued your card,agent,2024-04-09 19:23:09,590
+435,The charge has been reversed,agent,2023-02-28 17:49:54,20
+436,We have reissued your card,customer,2021-07-07 08:08:04,3
+437,Please verify your identity,agent,2022-03-07 13:32:32,83
+438,We have reissued your card,agent,2023-04-25 04:43:29,599
+439,Can you check again?,customer,2021-05-15 17:19:21,407
+440,Your request is complete,agent,2023-07-06 22:12:09,187
+441,Your request is complete,customer,2025-04-01 04:17:05,577
+442,Please verify your identity,customer,2021-07-15 15:13:59,542
+443,Please verify your identity,customer,2022-11-18 04:31:02,336
+444,We have reissued your card,agent,2024-01-14 23:37:53,197
+445,We have reissued your card,customer,2022-12-28 00:45:58,108
+446,Please verify your identity,agent,2022-02-12 21:31:29,341
+447,"Thanks, that fixed it",agent,2022-03-11 05:03:04,213
+448,We have reissued your card,customer,2024-05-08 17:35:18,564
+449,Your request is complete,agent,2024-04-16 22:20:13,36
+450,Can you check again?,customer,2024-05-30 18:31:51,371
+451,The charge has been reversed,agent,2022-11-26 13:32:37,204
+452,Can you check again?,agent,2022-07-20 05:27:58,349
+453,Can you check again?,customer,2025-07-12 07:05:24,59
+454,"Thanks, that fixed it",agent,2025-03-26 04:53:41,404
+455,Can you check again?,agent,2025-08-24 12:59:55,304
+456,The charge has been reversed,agent,2024-02-18 11:49:17,161
+457,Please verify your identity,agent,2022-12-30 03:15:50,108
+458,"Thanks, that fixed it",agent,2024-11-30 19:26:13,468
+459,We have reissued your card,customer,2022-07-18 22:16:11,349
+460,The charge has been reversed,customer,2021-01-22 08:14:15,172
+461,Please verify your identity,customer,2023-06-17 13:42:06,383
+462,Your request is complete,agent,2021-02-20 22:48:49,259
+463,"Thanks, that fixed it",agent,2023-04-28 20:09:17,225
+464,Please verify your identity,customer,2024-07-01 09:11:38,457
+465,Please verify your identity,agent,2021-03-06 05:16:57,355
+466,Can you check again?,agent,2021-08-17 02:20:53,568
+467,Can you check again?,agent,2022-10-18 09:47:43,155
+468,Can you check again?,agent,2023-07-27 00:36:37,237
+469,We have reissued your card,customer,2024-11-14 22:32:22,431
+470,Your request is complete,customer,2023-01-07 11:19:31,439
+471,"Thanks, that fixed it",customer,2021-02-18 02:48:24,511
+472,We have reissued your card,customer,2021-10-27 08:52:40,370
+473,Can you check again?,agent,2022-09-03 16:43:50,521
+474,"Thanks, that fixed it",agent,2021-06-12 01:49:23,260
+475,Can you check again?,customer,2022-06-01 22:49:25,252
+476,Please verify your identity,customer,2024-09-17 14:28:43,190
+477,"Thanks, that fixed it",customer,2022-03-12 00:17:29,418
+478,Can you check again?,agent,2024-07-04 19:47:06,403
+479,We have reissued your card,agent,2023-05-14 18:28:09,466
+480,We have reissued your card,customer,2022-10-01 10:26:39,351
+481,Please verify your identity,agent,2024-08-01 12:27:00,413
+482,Your request is complete,agent,2024-06-08 12:44:20,337
+483,"Thanks, that fixed it",agent,2025-10-30 03:05:50,463
+484,Your request is complete,agent,2024-10-22 22:11:49,215
+485,Your request is complete,agent,2023-11-09 07:52:20,489
+486,Your request is complete,agent,2025-05-26 23:54:27,532
+487,We have reissued your card,agent,2024-04-24 13:56:39,211
+488,We have reissued your card,agent,2021-12-20 09:01:00,571
+489,The charge has been reversed,agent,2021-07-14 17:57:42,299
+490,"Thanks, that fixed it",agent,2023-02-20 17:33:22,177
+491,Can you check again?,agent,2022-08-14 04:44:29,374
+492,Can you check again?,agent,2022-08-31 07:03:22,436
+493,Please verify your identity,customer,2025-09-02 22:53:19,377
+494,Your request is complete,agent,2026-01-02 21:36:51,102
+495,"Thanks, that fixed it",customer,2024-02-02 22:11:57,10
+496,Your request is complete,customer,2021-01-23 15:33:28,586
+497,The charge has been reversed,agent,2023-07-07 09:54:26,187
+498,The charge has been reversed,customer,2023-02-23 15:11:58,328
+499,Please verify your identity,agent,2024-11-05 05:38:25,131
+500,Please verify your identity,customer,2022-04-18 02:51:20,246
+501,Please verify your identity,customer,2024-02-06 10:46:30,13
+502,"Thanks, that fixed it",customer,2025-03-30 14:47:22,302
+503,Please verify your identity,customer,2025-09-27 02:26:10,176
+504,We have reissued your card,customer,2021-03-26 15:30:57,54
+505,Your request is complete,agent,2025-10-06 19:48:42,220
+506,"Thanks, that fixed it",agent,2022-05-22 03:47:40,294
+507,The charge has been reversed,customer,2022-03-07 18:07:54,125
+508,We have reissued your card,agent,2022-03-15 20:50:16,233
+509,We have reissued your card,customer,2021-11-22 11:35:13,538
+510,We have reissued your card,customer,2021-08-26 23:07:49,316
+511,Can you check again?,customer,2025-01-25 09:21:52,352
+512,The charge has been reversed,agent,2024-06-26 11:22:06,188
+513,Please verify your identity,agent,2023-12-16 17:25:17,525
+514,Your request is complete,agent,2021-12-30 20:45:41,203
+515,Your request is complete,agent,2022-06-22 10:23:58,338
+516,"Thanks, that fixed it",agent,2021-01-13 17:50:26,74
+517,Your request is complete,agent,2025-08-08 00:49:30,420
+518,Please verify your identity,agent,2024-03-16 17:39:10,376
+519,"Thanks, that fixed it",customer,2023-09-18 06:48:00,46
+520,Your request is complete,agent,2021-03-26 22:41:39,433
+521,"Thanks, that fixed it",customer,2023-09-18 02:26:23,46
+522,We have reissued your card,agent,2024-09-25 10:25:16,97
+523,Your request is complete,customer,2022-06-20 09:33:28,236
+524,Your request is complete,customer,2024-06-20 04:02:12,239
+525,"Thanks, that fixed it",customer,2024-10-22 20:52:27,297
+526,"Thanks, that fixed it",customer,2021-02-06 00:20:03,565
+527,Please verify your identity,agent,2024-07-30 12:00:15,470
+528,Please verify your identity,customer,2024-07-02 08:14:04,457
+529,"Thanks, that fixed it",agent,2022-08-11 14:14:52,148
+530,"Thanks, that fixed it",customer,2021-04-23 17:07:32,537
+531,We have reissued your card,agent,2023-02-03 00:04:12,582
+532,"Thanks, that fixed it",agent,2022-11-16 08:32:43,336
+533,Your request is complete,customer,2025-09-30 09:04:52,496
+534,The charge has been reversed,agent,2021-05-19 11:01:29,212
+535,"Thanks, that fixed it",agent,2022-11-02 05:01:28,412
+536,The charge has been reversed,agent,2024-05-18 21:05:49,224
+537,Can you check again?,customer,2024-01-18 08:32:31,8
+538,The charge has been reversed,customer,2024-04-06 04:58:55,343
+539,Please verify your identity,agent,2022-06-28 14:13:11,335
+540,Can you check again?,customer,2023-07-04 01:41:45,598
+541,Your request is complete,agent,2022-10-18 09:22:54,561
+542,Can you check again?,customer,2021-03-03 11:43:41,500
+543,"Thanks, that fixed it",agent,2023-03-25 08:27:37,140
+544,"Thanks, that fixed it",customer,2025-03-29 03:45:01,302
+545,Can you check again?,customer,2024-02-07 01:30:28,13
+546,Can you check again?,agent,2025-10-06 15:34:48,220
+547,The charge has been reversed,customer,2022-11-23 04:50:36,462
+548,Can you check again?,customer,2024-02-06 15:16:15,13
+549,The charge has been reversed,customer,2024-12-27 07:58:47,483
+550,Your request is complete,customer,2024-04-24 18:12:59,82
+551,"Thanks, that fixed it",agent,2023-02-01 00:21:40,170
+552,Your request is complete,agent,2024-02-03 00:53:02,10
+553,"Thanks, that fixed it",customer,2022-04-09 00:29:07,465
+554,Please verify your identity,agent,2023-08-06 15:41:28,154
+555,The charge has been reversed,agent,2021-06-14 03:12:42,247
+556,The charge has been reversed,customer,2021-06-22 07:50:54,551
+557,We have reissued your card,customer,2023-03-07 06:22:57,52
+558,The charge has been reversed,agent,2022-07-18 10:22:29,493
+559,Please verify your identity,customer,2023-08-06 12:16:14,6
+560,Your request is complete,agent,2024-04-17 16:13:40,354
+561,The charge has been reversed,customer,2021-04-14 03:51:47,326
+562,The charge has been reversed,customer,2022-08-12 21:03:54,185
+563,Your request is complete,agent,2025-09-03 02:30:33,182
+564,"Thanks, that fixed it",customer,2024-09-19 19:11:06,70
+565,Please verify your identity,agent,2021-07-09 04:28:12,107
+566,The charge has been reversed,customer,2023-12-10 16:04:29,130
+567,We have reissued your card,customer,2023-05-13 23:09:02,466
+568,Your request is complete,customer,2024-04-25 11:32:34,211
+569,We have reissued your card,customer,2023-06-28 17:44:40,522
+570,The charge has been reversed,agent,2023-03-30 03:09:59,90
+571,We have reissued your card,customer,2021-04-04 05:37:38,241
+572,"Thanks, that fixed it",customer,2023-08-13 16:34:44,596
+573,Can you check again?,agent,2023-09-19 13:30:30,311
+574,Your request is complete,customer,2023-07-05 18:31:22,187
+575,"Thanks, that fixed it",agent,2023-01-07 03:19:35,439
+576,Please verify your identity,customer,2024-09-16 12:50:24,424
+577,The charge has been reversed,customer,2021-02-11 04:15:22,263
+578,The charge has been reversed,agent,2025-10-17 13:31:52,113
+579,Your request is complete,agent,2024-10-14 21:16:50,14
+580,Can you check again?,customer,2022-06-18 19:54:18,552
+581,Can you check again?,agent,2025-03-19 13:35:19,289
+582,Your request is complete,customer,2025-02-27 10:28:15,189
+583,Can you check again?,agent,2023-02-14 23:05:19,364
+584,Can you check again?,agent,2024-01-28 05:54:07,512
+585,The charge has been reversed,agent,2022-09-03 01:36:52,566
+586,"Thanks, that fixed it",customer,2022-10-09 05:23:33,398
+587,Please verify your identity,customer,2024-11-18 12:48:16,401
+588,Can you check again?,agent,2022-04-17 22:39:17,246
+589,Your request is complete,agent,2022-03-08 05:38:49,83
+590,We have reissued your card,customer,2022-08-13 20:10:59,374
+591,"Thanks, that fixed it",agent,2021-04-03 12:30:55,241
+592,Please verify your identity,agent,2024-10-24 11:00:49,215
+593,Please verify your identity,agent,2021-04-06 05:47:34,241
+594,The charge has been reversed,customer,2022-08-31 18:56:38,436
+595,The charge has been reversed,customer,2025-07-15 19:32:38,101
+596,Your request is complete,agent,2022-04-03 11:59:02,514
+597,"Thanks, that fixed it",agent,2024-12-25 15:48:27,505
+598,Please verify your identity,customer,2025-08-08 00:27:07,420
+599,We have reissued your card,agent,2021-11-12 18:35:23,250
+600,The charge has been reversed,customer,2025-10-13 15:51:45,238
+601,"Thanks, that fixed it",agent,2025-01-22 02:42:48,11
+602,The charge has been reversed,agent,2025-04-04 07:50:21,446
+603,Please verify your identity,agent,2023-09-28 15:23:14,347
+604,Your request is complete,agent,2023-04-13 20:53:39,61
+605,We have reissued your card,agent,2022-03-16 03:53:39,233
+606,Can you check again?,customer,2024-06-15 17:37:12,506
+607,Your request is complete,agent,2023-01-25 18:12:07,487
+608,Your request is complete,customer,2022-10-20 04:43:15,561
+609,We have reissued your card,customer,2022-11-26 14:36:42,204
+610,"Thanks, that fixed it",customer,2023-03-15 01:12:25,163
+611,"Thanks, that fixed it",agent,2021-04-23 10:12:51,126
+612,Can you check again?,customer,2025-12-31 12:06:20,451
+613,Your request is complete,agent,2021-12-13 16:51:43,169
+614,Can you check again?,customer,2022-02-25 01:06:42,100
+615,Your request is complete,customer,2021-12-16 20:57:13,305
+616,The charge has been reversed,customer,2024-05-09 22:44:45,95
+617,We have reissued your card,customer,2022-10-10 20:47:25,281
+618,"Thanks, that fixed it",customer,2021-11-13 09:30:11,250
+619,We have reissued your card,customer,2023-12-14 01:26:33,150
+620,We have reissued your card,customer,2022-05-25 19:42:02,242
+621,Your request is complete,agent,2023-05-02 04:18:27,26
+622,We have reissued your card,agent,2021-02-04 19:47:18,565
+623,The charge has been reversed,customer,2023-07-03 21:15:02,45
+624,We have reissued your card,customer,2024-06-18 02:19:42,239
+625,We have reissued your card,agent,2023-04-26 13:05:56,268
+626,Your request is complete,customer,2021-12-28 15:09:18,273
+627,Your request is complete,customer,2026-01-03 00:58:00,102
+628,Please verify your identity,agent,2021-04-08 04:47:49,23
+629,Can you check again?,agent,2023-03-28 18:45:31,90
+630,Please verify your identity,agent,2022-03-11 13:44:47,308
+631,"Thanks, that fixed it",customer,2023-07-12 14:23:30,47
+632,"Thanks, that fixed it",customer,2022-11-02 20:29:50,594
+633,Please verify your identity,agent,2023-07-03 08:11:29,598
+634,Can you check again?,agent,2023-12-01 20:21:28,103
+635,Can you check again?,customer,2023-08-30 16:06:45,391
+636,Please verify your identity,agent,2024-02-06 11:08:26,13
+637,We have reissued your card,customer,2025-06-07 03:33:02,479
+638,We have reissued your card,agent,2023-12-05 06:56:27,425
+639,We have reissued your card,customer,2025-07-14 09:42:39,295
+640,The charge has been reversed,customer,2025-03-26 21:55:18,404
+641,We have reissued your card,customer,2025-11-07 12:26:33,331
+642,"Thanks, that fixed it",agent,2025-06-14 01:23:06,548
+643,Your request is complete,customer,2021-03-28 09:28:12,433
+644,The charge has been reversed,customer,2023-02-20 02:37:56,277
+645,Can you check again?,agent,2023-12-23 10:19:24,386
+646,The charge has been reversed,customer,2025-06-24 14:49:00,414
+647,The charge has been reversed,customer,2025-01-21 22:39:26,11
+648,Your request is complete,agent,2022-06-27 06:28:11,65
+649,Can you check again?,customer,2024-09-25 12:49:29,97
+650,Can you check again?,customer,2024-06-02 07:43:23,408
+651,The charge has been reversed,customer,2021-01-08 10:39:22,535
+652,We have reissued your card,agent,2023-07-05 09:07:31,598
+653,Can you check again?,agent,2021-10-01 07:46:02,452
+654,Your request is complete,agent,2023-05-26 20:22:11,194
+655,Your request is complete,customer,2022-05-22 09:39:45,554
+656,Your request is complete,agent,2023-09-19 23:39:43,311
+657,Can you check again?,agent,2023-05-30 22:40:23,91
+658,Your request is complete,agent,2023-03-02 10:11:46,271
+659,Your request is complete,agent,2025-06-24 14:37:26,414
+660,Your request is complete,customer,2024-02-16 06:47:29,447
+661,Can you check again?,customer,2021-02-19 10:14:07,259
+662,We have reissued your card,agent,2022-03-26 12:17:35,4
+663,Can you check again?,agent,2023-09-06 01:19:56,291
+664,We have reissued your card,customer,2025-07-17 02:12:51,101
+665,Your request is complete,customer,2023-08-07 02:00:31,323
+666,"Thanks, that fixed it",customer,2021-07-08 00:42:47,107
+667,"Thanks, that fixed it",agent,2021-09-11 00:31:37,38
+668,"Thanks, that fixed it",agent,2021-04-13 03:28:17,441
+669,We have reissued your card,agent,2023-04-30 22:37:01,26
+670,Please verify your identity,customer,2022-05-07 23:34:00,118
+671,"Thanks, that fixed it",customer,2023-03-31 03:49:47,90
+672,Can you check again?,agent,2024-01-16 09:50:45,197
+673,Can you check again?,agent,2024-03-28 06:33:11,312
+674,"Thanks, that fixed it",customer,2025-04-30 05:28:53,306
+675,"Thanks, that fixed it",agent,2023-04-12 03:59:49,409
+676,Please verify your identity,customer,2021-09-03 06:00:52,283
+677,The charge has been reversed,customer,2023-09-05 14:02:50,291
+678,Please verify your identity,customer,2021-11-20 03:20:44,309
+679,We have reissued your card,customer,2021-12-08 09:31:21,399
+680,We have reissued your card,customer,2025-01-23 21:03:51,352
+681,Can you check again?,customer,2021-12-30 09:30:36,203
+682,Can you check again?,agent,2022-06-19 17:41:20,552
+683,We have reissued your card,customer,2022-08-14 22:12:29,374
+684,The charge has been reversed,customer,2024-03-29 16:23:07,193
+685,"Thanks, that fixed it",agent,2023-07-28 11:08:49,237
+686,"Thanks, that fixed it",agent,2022-12-28 18:55:46,108
+687,Please verify your identity,customer,2024-05-18 18:29:51,93
+688,"Thanks, that fixed it",customer,2021-09-24 18:42:15,555
+689,"Thanks, that fixed it",customer,2024-08-01 08:18:26,413
+690,Your request is complete,agent,2022-09-02 04:53:11,436
+691,Can you check again?,agent,2023-09-20 07:14:58,311
+692,Your request is complete,customer,2025-03-06 17:15:45,325
+693,Your request is complete,agent,2022-08-19 18:02:09,330
+694,"Thanks, that fixed it",customer,2024-05-31 06:26:45,80
+695,We have reissued your card,customer,2022-12-28 23:50:36,191
+696,Please verify your identity,customer,2025-10-31 21:00:54,117
+697,Can you check again?,agent,2024-02-16 21:24:13,317
+698,Please verify your identity,agent,2025-12-03 18:20:36,264
+699,We have reissued your card,agent,2022-07-18 04:08:35,493
+700,Can you check again?,agent,2021-08-18 18:43:32,568
+701,Please verify your identity,agent,2022-05-05 16:40:10,476
+702,Please verify your identity,agent,2022-09-15 20:06:33,397
+703,Can you check again?,customer,2025-05-15 02:18:02,160
+704,Please verify your identity,customer,2023-05-09 02:42:08,234
+705,Please verify your identity,agent,2022-03-09 01:23:20,261
+706,The charge has been reversed,agent,2022-06-20 00:26:48,552
+707,We have reissued your card,customer,2025-07-17 06:58:38,550
+708,"Thanks, that fixed it",customer,2022-09-04 18:43:09,521
+709,The charge has been reversed,customer,2023-02-12 05:50:09,145
+710,We have reissued your card,customer,2024-09-14 20:25:05,424
+711,The charge has been reversed,agent,2023-07-19 23:06:31,39
+712,"Thanks, that fixed it",customer,2021-09-16 03:48:55,518
+713,Can you check again?,agent,2023-05-20 12:32:18,508
+714,Can you check again?,customer,2023-01-15 03:05:03,186
+715,We have reissued your card,customer,2025-05-09 03:27:03,541
+716,We have reissued your card,agent,2023-06-22 21:42:35,33
+717,"Thanks, that fixed it",customer,2025-08-06 20:38:52,420
+718,The charge has been reversed,customer,2023-04-09 18:37:54,345
+719,"Thanks, that fixed it",agent,2023-02-28 09:02:09,271
+720,Can you check again?,agent,2021-09-29 12:53:12,86
+721,The charge has been reversed,customer,2023-09-18 10:55:27,79
+722,The charge has been reversed,agent,2021-02-20 07:48:23,310
+723,"Thanks, that fixed it",agent,2022-11-29 16:00:03,499
+724,The charge has been reversed,agent,2022-03-07 08:08:37,125
+725,Can you check again?,customer,2021-09-30 03:53:21,86
+726,Your request is complete,customer,2021-08-13 22:56:56,202
+727,The charge has been reversed,customer,2024-10-15 21:20:17,14
+728,Your request is complete,customer,2025-04-25 06:22:15,322
+729,Your request is complete,customer,2023-10-17 04:55:13,205
+730,"Thanks, that fixed it",agent,2025-01-22 13:43:20,11
+731,"Thanks, that fixed it",agent,2023-01-15 14:33:18,55
+732,Your request is complete,customer,2024-03-31 12:17:09,411
+733,Can you check again?,customer,2022-11-18 14:14:17,444
+734,"Thanks, that fixed it",customer,2022-05-20 17:59:52,294
+735,"Thanks, that fixed it",customer,2022-11-07 02:33:05,180
+736,Please verify your identity,agent,2025-04-25 03:45:36,322
+737,Can you check again?,agent,2022-11-30 19:12:41,499
+738,Can you check again?,agent,2022-11-25 13:22:05,204
+739,We have reissued your card,agent,2023-04-27 17:29:33,225
+740,Your request is complete,agent,2024-10-30 16:28:33,29
+741,Your request is complete,customer,2025-01-24 01:10:28,352
+742,Can you check again?,customer,2023-10-11 00:47:35,171
+743,Can you check again?,agent,2024-02-08 20:30:05,98
+744,Can you check again?,agent,2025-06-13 01:35:49,428
+745,Can you check again?,agent,2023-06-01 03:04:41,91
+746,Your request is complete,customer,2022-05-21 12:39:06,554
+747,"Thanks, that fixed it",agent,2022-03-11 14:57:18,308
+748,We have reissued your card,customer,2023-08-30 00:17:25,391
+749,"Thanks, that fixed it",agent,2021-11-03 04:47:42,257
+750,We have reissued your card,agent,2021-05-05 17:39:48,248
+751,"Thanks, that fixed it",customer,2021-06-24 02:49:39,373
+752,Can you check again?,customer,2023-07-05 04:47:18,598
+753,Please verify your identity,agent,2024-09-02 00:25:40,132
+754,We have reissued your card,customer,2023-08-20 23:24:17,196
+755,We have reissued your card,agent,2023-05-13 04:18:54,361
+756,The charge has been reversed,customer,2024-05-12 11:07:51,95
+757,The charge has been reversed,customer,2021-02-20 04:59:57,259
+758,We have reissued your card,agent,2025-01-16 10:49:26,276
+759,We have reissued your card,customer,2022-06-20 00:33:23,236
+760,Your request is complete,agent,2025-09-13 10:19:18,460
+761,"Thanks, that fixed it",customer,2022-05-25 22:00:07,30
+762,The charge has been reversed,customer,2023-12-04 03:44:10,425
+763,Please verify your identity,customer,2025-09-03 04:12:08,585
+764,The charge has been reversed,customer,2021-07-22 17:59:22,481
+765,Please verify your identity,agent,2022-06-20 05:32:31,552
+766,The charge has been reversed,customer,2022-09-21 05:15:46,137
+767,"Thanks, that fixed it",customer,2025-05-28 04:37:10,274
+768,Please verify your identity,agent,2023-02-15 20:39:18,285
+769,Please verify your identity,customer,2021-08-04 06:35:56,419
+770,We have reissued your card,agent,2021-06-29 03:11:23,362
+771,The charge has been reversed,customer,2021-01-10 10:23:30,280
+772,Please verify your identity,customer,2021-07-08 07:07:16,342
+773,Your request is complete,agent,2023-07-21 02:28:43,39
+774,Please verify your identity,customer,2024-08-14 00:46:43,44
+775,We have reissued your card,customer,2021-09-22 10:27:02,296
+776,We have reissued your card,customer,2024-12-29 13:02:34,517
+777,Please verify your identity,agent,2022-07-20 15:17:23,471
+778,The charge has been reversed,agent,2021-10-06 12:12:00,492
+779,The charge has been reversed,customer,2024-01-02 01:05:21,1
+780,The charge has been reversed,agent,2024-04-27 07:49:51,82
+781,"Thanks, that fixed it",agent,2025-05-24 10:04:50,390
+782,Can you check again?,agent,2023-02-14 23:21:12,285
+783,Your request is complete,customer,2025-03-15 03:02:15,120
+784,Your request is complete,customer,2024-10-22 20:48:33,215
+785,Can you check again?,agent,2021-10-26 16:04:56,229
+786,Your request is complete,customer,2025-12-28 02:09:00,578
+787,Please verify your identity,agent,2024-12-30 05:09:46,389
+788,Can you check again?,agent,2023-05-14 04:56:02,466
+789,"Thanks, that fixed it",agent,2023-02-27 12:01:29,20
+790,We have reissued your card,agent,2024-07-22 07:06:07,329
+791,Can you check again?,customer,2024-06-19 01:17:05,239
+792,The charge has been reversed,agent,2023-07-11 04:05:58,200
+793,"Thanks, that fixed it",customer,2025-09-05 12:23:10,377
+794,Can you check again?,customer,2021-08-19 11:29:29,568
+795,The charge has been reversed,agent,2024-03-21 00:10:54,226
+796,Your request is complete,customer,2022-10-17 19:42:57,155
+797,Can you check again?,customer,2025-03-29 04:30:58,432
+798,Please verify your identity,customer,2023-03-06 23:48:53,52
+799,The charge has been reversed,customer,2022-06-20 07:46:31,236
+800,Your request is complete,agent,2024-12-25 01:17:11,385
+801,"Thanks, that fixed it",agent,2021-12-29 01:46:20,597
+802,The charge has been reversed,customer,2021-05-11 15:32:12,240
+803,Please verify your identity,customer,2021-08-27 10:16:20,510
+804,The charge has been reversed,agent,2025-08-05 07:18:44,573
+805,Your request is complete,customer,2023-09-19 16:42:07,311
+806,The charge has been reversed,customer,2021-06-12 15:44:49,260
+807,Please verify your identity,agent,2025-02-25 17:25:27,89
+808,The charge has been reversed,agent,2022-11-24 11:51:46,519
+809,The charge has been reversed,agent,2024-02-19 08:43:08,576
+810,The charge has been reversed,customer,2024-04-01 07:30:26,411
+811,Your request is complete,agent,2024-04-16 05:03:04,36
+812,The charge has been reversed,customer,2023-12-20 13:03:20,49
+813,The charge has been reversed,customer,2022-05-24 07:41:37,30
+814,Please verify your identity,customer,2025-09-09 04:53:02,71
+815,We have reissued your card,customer,2025-06-02 17:01:00,53
+816,Can you check again?,agent,2021-06-30 07:48:30,562
+817,Your request is complete,customer,2021-02-18 14:58:00,259
+818,Can you check again?,customer,2024-11-29 22:40:42,468
+819,The charge has been reversed,agent,2023-04-08 21:40:42,279
+820,Please verify your identity,agent,2022-09-30 04:43:17,351
+821,Your request is complete,agent,2024-03-15 23:49:49,376
+822,The charge has been reversed,agent,2025-09-03 07:26:20,585
+823,Please verify your identity,customer,2025-11-02 00:04:03,117
+824,We have reissued your card,customer,2023-02-13 12:52:58,364
+825,Can you check again?,agent,2024-09-13 18:59:10,478
+826,Can you check again?,customer,2023-10-16 12:21:33,275
+827,Can you check again?,agent,2021-04-06 01:18:24,241
+828,The charge has been reversed,agent,2022-06-01 00:12:29,252
+829,"Thanks, that fixed it",customer,2021-09-16 13:20:13,81
+830,Please verify your identity,agent,2021-05-28 04:47:01,503
+831,Please verify your identity,agent,2022-10-09 10:00:12,398
+832,We have reissued your card,customer,2022-09-30 19:48:23,351
+833,Your request is complete,customer,2025-08-08 09:03:06,396
+834,Please verify your identity,agent,2024-08-12 15:32:35,31
+835,Please verify your identity,agent,2023-03-23 14:03:00,140
+836,We have reissued your card,customer,2023-08-03 22:15:00,154
+837,Can you check again?,customer,2025-12-26 15:09:20,578
+838,Your request is complete,agent,2023-11-07 23:46:49,489
+839,Please verify your identity,agent,2021-12-22 20:57:34,209
+840,Your request is complete,agent,2024-07-05 17:26:23,394
+841,Can you check again?,customer,2021-12-06 18:00:01,399
+842,Your request is complete,agent,2022-07-24 02:45:39,423
+843,The charge has been reversed,agent,2024-02-15 19:37:25,447
+844,"Thanks, that fixed it",customer,2022-11-19 19:34:56,444
+845,Can you check again?,agent,2023-02-12 11:23:11,145
+846,Can you check again?,customer,2021-10-30 04:40:24,88
+847,Please verify your identity,customer,2023-07-03 22:58:19,278
+848,"Thanks, that fixed it",customer,2024-07-08 16:11:27,387
+849,Your request is complete,customer,2024-03-19 00:48:48,226
+850,"Thanks, that fixed it",agent,2024-06-01 19:00:31,408
+851,The charge has been reversed,customer,2023-05-16 17:35:59,265
+852,The charge has been reversed,customer,2022-02-15 05:17:41,341
+853,Your request is complete,agent,2021-04-05 09:53:35,241
+854,We have reissued your card,customer,2024-05-13 01:14:03,156
+855,"Thanks, that fixed it",agent,2023-01-16 22:32:31,186
+856,Your request is complete,agent,2024-06-11 17:39:06,245
+857,"Thanks, that fixed it",agent,2025-08-04 23:46:48,442
+858,Can you check again?,customer,2021-07-09 15:14:00,159
+859,The charge has been reversed,customer,2025-07-14 21:02:14,295
+860,Your request is complete,customer,2022-03-10 09:14:25,213
+861,Please verify your identity,agent,2022-04-30 22:00:17,293
+862,We have reissued your card,agent,2024-02-06 18:08:09,98
+863,Your request is complete,agent,2023-05-31 03:11:35,91
+864,Please verify your identity,agent,2021-09-12 16:39:50,38
+865,We have reissued your card,agent,2025-05-29 20:14:17,274
+866,Your request is complete,customer,2025-04-11 01:17:38,584
+867,Can you check again?,customer,2023-07-28 00:20:19,237
+868,Can you check again?,customer,2023-07-18 17:25:57,39
+869,Can you check again?,agent,2025-09-04 22:35:17,377
+870,Your request is complete,customer,2024-02-19 08:51:33,576
+871,The charge has been reversed,agent,2021-11-18 07:29:23,105
+872,The charge has been reversed,customer,2025-04-03 16:32:22,446
+873,Your request is complete,customer,2024-05-31 19:49:52,80
+874,Can you check again?,customer,2023-05-14 04:59:31,429
+875,Your request is complete,customer,2024-04-23 12:53:56,211
+876,The charge has been reversed,customer,2022-11-07 11:22:40,430
+877,"Thanks, that fixed it",agent,2021-03-31 06:58:30,545
+878,The charge has been reversed,customer,2022-11-29 10:50:26,499
+879,The charge has been reversed,agent,2023-11-12 06:55:29,395
+880,"Thanks, that fixed it",customer,2021-07-15 23:57:50,299
+881,Please verify your identity,customer,2025-09-25 11:16:53,176
+882,Can you check again?,customer,2023-05-08 04:22:46,15
+883,"Thanks, that fixed it",customer,2021-01-27 07:50:59,333
+884,Please verify your identity,customer,2022-09-05 03:53:42,214
+885,Please verify your identity,customer,2025-12-27 04:49:24,578
+886,"Thanks, that fixed it",agent,2024-02-16 03:21:50,447
+887,Please verify your identity,agent,2024-05-30 04:36:22,371
+888,"Thanks, that fixed it",customer,2021-05-17 11:02:44,407
+889,"Thanks, that fixed it",agent,2021-02-05 12:12:25,485
+890,Please verify your identity,customer,2021-08-16 13:52:06,202
+891,Can you check again?,customer,2022-08-12 14:11:29,185
+892,Your request is complete,customer,2024-07-09 17:56:22,387
+893,Your request is complete,agent,2023-09-18 16:20:24,46
+894,"Thanks, that fixed it",agent,2022-08-12 06:23:27,12
+895,Please verify your identity,agent,2022-04-16 23:29:11,207
+896,Can you check again?,agent,2021-09-02 02:51:58,48
+897,Can you check again?,agent,2021-02-21 03:59:05,379
+898,We have reissued your card,customer,2024-01-16 07:41:20,480
+899,Your request is complete,agent,2024-05-11 04:48:50,544
+900,Can you check again?,customer,2023-02-28 17:52:20,223
+901,Can you check again?,customer,2023-08-03 20:36:41,154
+902,"Thanks, that fixed it",agent,2022-08-27 20:26:32,25
+903,The charge has been reversed,agent,2024-12-28 15:55:48,389
+904,Can you check again?,customer,2025-02-04 19:34:48,57
+905,We have reissued your card,customer,2023-07-04 15:11:48,45
+906,Can you check again?,customer,2025-12-02 23:23:20,264
+907,Your request is complete,agent,2021-08-18 12:35:06,568
+908,Can you check again?,agent,2023-02-19 16:02:12,277
+909,"Thanks, that fixed it",agent,2023-02-09 16:52:32,32
+910,We have reissued your card,agent,2021-02-19 20:39:34,379
+911,The charge has been reversed,customer,2024-06-29 22:51:19,230
+912,"Thanks, that fixed it",agent,2025-04-01 09:00:11,75
+913,Your request is complete,customer,2023-02-02 03:41:10,170
+914,Can you check again?,agent,2022-10-09 21:18:52,398
+915,Can you check again?,agent,2021-01-26 12:07:59,586
+916,Your request is complete,agent,2021-02-20 07:30:15,511
+917,Can you check again?,agent,2022-08-10 01:42:24,445
+918,"Thanks, that fixed it",agent,2025-07-14 21:01:27,295
+919,We have reissued your card,agent,2024-02-06 05:16:55,583
+920,We have reissued your card,agent,2022-03-08 23:37:57,261
+921,We have reissued your card,customer,2024-09-13 22:45:40,526
+922,We have reissued your card,customer,2025-05-24 15:22:13,539
+923,The charge has been reversed,customer,2024-11-01 00:33:48,29
+924,"Thanks, that fixed it",agent,2023-08-06 16:53:45,323
+925,We have reissued your card,customer,2022-12-18 02:49:54,198
+926,We have reissued your card,customer,2025-03-13 06:47:55,120
+927,Please verify your identity,agent,2024-05-31 00:28:22,80
+928,The charge has been reversed,agent,2022-09-04 23:26:04,214
+929,We have reissued your card,customer,2023-03-03 23:43:49,174
+930,Can you check again?,customer,2022-11-25 03:18:35,462
+931,Your request is complete,agent,2024-12-01 18:17:13,221
+932,The charge has been reversed,agent,2022-09-04 22:36:04,5
+933,"Thanks, that fixed it",agent,2025-03-06 06:12:38,475
+934,Your request is complete,agent,2021-06-29 20:38:57,562
+935,Can you check again?,agent,2023-07-03 17:47:26,45
+936,"Thanks, that fixed it",customer,2023-03-05 02:39:22,353
+937,Can you check again?,customer,2022-04-18 17:31:56,207
+938,Please verify your identity,customer,2025-10-23 05:45:27,153
+939,The charge has been reversed,agent,2024-01-05 21:50:49,256
+940,We have reissued your card,customer,2021-11-28 20:13:29,123
+941,Can you check again?,agent,2024-06-17 00:32:33,320
+942,We have reissued your card,customer,2024-07-24 04:56:24,122
+943,Please verify your identity,customer,2024-10-29 21:27:42,41
+944,Please verify your identity,customer,2023-06-22 17:07:37,33
+945,Can you check again?,agent,2021-12-15 00:49:29,305
+946,The charge has been reversed,agent,2025-05-08 07:57:17,384
+947,We have reissued your card,agent,2022-12-07 15:47:51,146
+948,Your request is complete,agent,2025-09-03 13:38:55,377
+949,Your request is complete,agent,2022-09-27 21:41:17,515
+950,"Thanks, that fixed it",customer,2021-12-03 02:54:56,96
+951,The charge has been reversed,agent,2022-05-25 20:45:26,30
+952,Your request is complete,customer,2023-10-17 00:46:44,205
+953,The charge has been reversed,agent,2024-12-02 05:24:57,464
+954,We have reissued your card,agent,2025-07-14 20:03:05,295
+955,We have reissued your card,customer,2022-05-21 08:51:44,554
+956,The charge has been reversed,customer,2022-09-30 12:39:46,515
+957,Please verify your identity,customer,2023-03-03 07:15:02,488
+958,We have reissued your card,customer,2024-10-29 03:50:43,142
+959,Please verify your identity,agent,2023-05-15 02:39:42,466
+960,"Thanks, that fixed it",agent,2022-03-15 15:36:47,233
+961,The charge has been reversed,agent,2023-12-05 02:57:16,425
+962,"Thanks, that fixed it",customer,2023-01-27 09:59:54,78
+963,Please verify your identity,customer,2022-11-26 16:43:30,204
+964,"Thanks, that fixed it",customer,2023-11-30 09:46:18,183
+965,"Thanks, that fixed it",agent,2025-01-24 07:30:51,352
+966,Your request is complete,customer,2021-04-23 19:29:53,537
+967,Can you check again?,customer,2021-01-28 04:39:45,333
+968,We have reissued your card,customer,2023-06-23 00:51:30,33
+969,Please verify your identity,agent,2022-11-25 20:31:58,519
+970,Can you check again?,customer,2023-03-29 18:15:06,90
+971,"Thanks, that fixed it",customer,2024-06-14 02:58:14,245
+972,The charge has been reversed,agent,2025-12-27 15:37:16,578
+973,"Thanks, that fixed it",agent,2022-08-10 12:45:19,148
+974,The charge has been reversed,customer,2024-05-20 18:59:03,93
+975,Your request is complete,customer,2024-07-12 15:54:33,66
+976,Can you check again?,agent,2024-01-31 15:59:42,62
+977,The charge has been reversed,customer,2023-01-29 23:30:28,24
+978,Your request is complete,customer,2022-12-28 06:18:09,108
+979,Please verify your identity,customer,2022-10-10 08:45:40,398
+980,Can you check again?,customer,2023-07-27 20:35:44,574
+981,We have reissued your card,agent,2025-08-07 08:53:44,420
+982,"Thanks, that fixed it",customer,2023-12-18 13:06:08,129
+983,We have reissued your card,agent,2024-06-27 06:35:26,363
+984,Your request is complete,customer,2021-12-15 19:26:59,305
+985,The charge has been reversed,customer,2023-06-10 02:13:11,453
+986,Can you check again?,agent,2021-09-29 11:20:27,86
+987,"Thanks, that fixed it",agent,2024-02-16 18:42:22,317
+988,Can you check again?,customer,2023-05-27 04:39:06,194
+989,Please verify your identity,agent,2023-12-18 05:09:57,129
+990,The charge has been reversed,agent,2023-02-12 02:52:49,17
+991,Please verify your identity,customer,2025-06-23 07:17:32,414
+992,We have reissued your card,agent,2025-03-31 21:16:27,75
+993,Can you check again?,agent,2023-02-21 19:41:16,328
+994,Your request is complete,customer,2021-09-30 23:58:56,452
+995,The charge has been reversed,customer,2022-05-05 19:49:12,476
+996,"Thanks, that fixed it",customer,2022-03-12 00:58:44,213
+997,The charge has been reversed,customer,2023-04-12 05:47:49,409
+998,The charge has been reversed,customer,2021-06-15 00:00:41,167
+999,The charge has been reversed,agent,2024-07-02 15:13:37,457
+1000,The charge has been reversed,customer,2022-11-02 03:56:18,253
+1001,Can you check again?,agent,2023-04-10 03:30:26,279
+1002,"Thanks, that fixed it",customer,2021-06-19 10:34:31,551
+1003,Can you check again?,agent,2023-07-07 04:23:51,187
+1004,Can you check again?,agent,2025-09-02 13:37:03,182
+1005,"Thanks, that fixed it",customer,2023-09-19 02:01:10,311
+1006,Please verify your identity,customer,2024-07-08 01:18:37,387
+1007,We have reissued your card,agent,2024-05-20 06:40:46,224
+1008,Your request is complete,agent,2022-05-07 23:20:01,118
+1009,We have reissued your card,agent,2024-01-07 08:48:50,256
+1010,The charge has been reversed,customer,2023-03-01 14:50:22,271
+1011,Your request is complete,customer,2023-01-06 19:48:05,439
+1012,The charge has been reversed,agent,2023-09-07 10:11:29,291
+1013,Please verify your identity,customer,2023-05-08 10:40:06,234
+1014,Can you check again?,customer,2021-07-06 00:38:32,3
+1015,Your request is complete,agent,2021-07-05 12:19:36,3
+1016,Your request is complete,agent,2023-12-21 20:50:23,386
+1017,"Thanks, that fixed it",customer,2021-10-01 00:12:15,452
+1018,Can you check again?,agent,2022-12-21 07:34:45,72
+1019,Your request is complete,customer,2022-11-09 23:10:47,111
+1020,Can you check again?,agent,2022-08-10 10:24:48,445
+1021,The charge has been reversed,agent,2023-07-05 08:21:38,278
+1022,Can you check again?,agent,2025-08-09 02:01:48,18
+1023,The charge has been reversed,agent,2024-05-10 14:37:08,544
+1024,Please verify your identity,agent,2022-06-28 14:35:41,335
+1025,Your request is complete,customer,2023-08-07 07:57:15,6
+1026,"Thanks, that fixed it",agent,2021-08-04 08:26:34,419
+1027,Can you check again?,agent,2022-03-08 09:04:23,125
+1028,The charge has been reversed,customer,2021-12-07 03:12:50,249
+1029,Your request is complete,customer,2023-08-02 11:37:29,435
+1030,Please verify your identity,customer,2025-05-09 19:41:54,541
+1031,"Thanks, that fixed it",customer,2022-12-01 07:18:11,255
+1032,"Thanks, that fixed it",agent,2025-05-28 17:27:55,523
+1033,"Thanks, that fixed it",customer,2025-05-23 15:14:29,539
+1034,We have reissued your card,agent,2025-09-02 10:22:02,410
+1035,The charge has been reversed,customer,2023-09-18 19:18:39,46
+1036,Your request is complete,customer,2021-12-29 17:40:11,203
+1037,The charge has been reversed,customer,2021-03-07 09:38:44,355
+1038,Can you check again?,agent,2024-07-13 07:47:59,66
+1039,Please verify your identity,agent,2024-10-28 04:51:47,217
+1040,"Thanks, that fixed it",agent,2024-06-27 20:37:22,363
+1041,Please verify your identity,agent,2023-12-08 04:27:08,473
+1042,Please verify your identity,agent,2021-04-04 15:27:59,241
+1043,Please verify your identity,customer,2024-05-10 23:29:59,544
+1044,Your request is complete,customer,2024-01-17 08:46:00,480
+1045,Please verify your identity,customer,2021-12-06 08:49:14,184
+1046,Please verify your identity,customer,2022-02-18 05:39:26,21
+1047,The charge has been reversed,agent,2024-06-27 07:40:21,363
+1048,"Thanks, that fixed it",agent,2024-12-01 19:22:52,221
+1049,"Thanks, that fixed it",customer,2022-02-14 03:55:02,375
+1050,Can you check again?,agent,2025-01-05 05:57:05,94
+1051,Please verify your identity,agent,2024-09-15 09:55:53,424
+1052,The charge has been reversed,customer,2025-08-10 01:30:33,396
+1053,Please verify your identity,customer,2023-09-22 02:08:00,136
+1054,Your request is complete,agent,2025-12-09 05:42:31,143
+1055,We have reissued your card,customer,2025-05-26 20:01:08,532
+1056,Can you check again?,customer,2025-06-01 15:58:18,534
+1057,Your request is complete,agent,2024-02-08 16:51:17,98
+1058,Can you check again?,customer,2021-09-24 00:21:07,296
+1059,We have reissued your card,customer,2023-12-02 05:07:31,422
+1060,Can you check again?,agent,2022-10-27 03:33:42,51
+1061,We have reissued your card,customer,2021-04-15 20:24:14,147
+1062,The charge has been reversed,agent,2022-11-24 04:35:23,559
+1063,Your request is complete,customer,2021-11-18 16:59:58,105
+1064,The charge has been reversed,agent,2024-11-01 00:59:47,29
+1065,Please verify your identity,customer,2024-01-30 18:21:47,62
+1066,Can you check again?,customer,2021-03-12 03:55:21,567
+1067,We have reissued your card,agent,2025-10-18 10:19:16,113
+1068,We have reissued your card,agent,2022-05-14 06:45:58,76
+1069,Please verify your identity,agent,2023-05-14 15:32:25,466
+1070,We have reissued your card,customer,2021-09-07 08:24:59,22
+1071,Your request is complete,agent,2023-03-02 11:38:59,174
+1072,"Thanks, that fixed it",customer,2024-10-17 04:13:54,14
+1073,"Thanks, that fixed it",customer,2022-02-19 10:16:28,21
+1074,We have reissued your card,agent,2024-02-18 16:47:04,576
+1075,We have reissued your card,agent,2021-12-30 17:16:27,597
+1076,We have reissued your card,agent,2022-07-18 15:50:06,349
+1077,We have reissued your card,agent,2023-04-25 14:30:21,268
+1078,The charge has been reversed,agent,2022-11-25 05:16:59,519
+1079,We have reissued your card,customer,2021-07-23 07:29:57,481
+1080,"Thanks, that fixed it",customer,2022-02-18 23:32:37,588
+1081,The charge has been reversed,customer,2025-01-21 11:29:15,11
+1082,We have reissued your card,customer,2025-06-25 08:37:58,144
+1083,We have reissued your card,customer,2024-06-28 02:41:14,230
+1084,The charge has been reversed,customer,2023-07-09 09:43:57,482
+1085,"Thanks, that fixed it",agent,2024-09-14 20:49:34,424
+1086,The charge has been reversed,customer,2021-03-20 16:32:11,348
+1087,Please verify your identity,agent,2024-02-16 15:14:53,161
+1088,"Thanks, that fixed it",customer,2025-09-03 06:55:39,218
+1089,Can you check again?,customer,2024-12-01 17:01:22,221
+1090,Can you check again?,agent,2021-01-09 17:41:24,227
+1091,We have reissued your card,customer,2023-04-06 15:31:33,258
+1092,"Thanks, that fixed it",customer,2021-08-27 02:14:23,316
+1093,"Thanks, that fixed it",agent,2024-11-19 05:54:49,401
+1094,Your request is complete,customer,2022-10-09 11:51:02,121
+1095,"Thanks, that fixed it",agent,2022-03-05 20:02:39,83
+1096,We have reissued your card,customer,2021-11-21 14:10:15,538
+1097,Your request is complete,customer,2023-12-04 05:35:11,406
+1098,"Thanks, that fixed it",agent,2023-01-15 19:51:11,55
+1099,Your request is complete,agent,2022-05-24 07:30:20,30
+1100,Can you check again?,customer,2023-09-27 15:19:59,360
+1101,Your request is complete,agent,2021-05-24 17:29:30,469
+1102,The charge has been reversed,agent,2024-05-10 21:55:16,544
+1103,The charge has been reversed,customer,2022-08-06 15:49:53,474
+1104,Please verify your identity,agent,2025-08-06 21:48:20,420
+1105,The charge has been reversed,agent,2024-10-30 02:41:58,29
+1106,"Thanks, that fixed it",customer,2025-08-05 03:24:13,442
+1107,Can you check again?,agent,2023-04-23 06:19:22,201
+1108,Please verify your identity,agent,2023-05-20 08:12:33,165
+1109,We have reissued your card,customer,2023-07-07 17:03:13,187
+1110,The charge has been reversed,agent,2022-07-22 21:12:50,340
+1111,Can you check again?,agent,2023-02-16 01:49:52,285
+1112,Please verify your identity,agent,2021-03-23 15:00:15,43
+1113,Please verify your identity,agent,2023-05-19 04:49:08,508
+1114,We have reissued your card,customer,2021-07-07 23:23:17,159
+1115,Can you check again?,customer,2023-06-09 07:36:14,232
+1116,We have reissued your card,customer,2025-06-24 04:09:01,144
+1117,We have reissued your card,agent,2025-06-13 23:36:45,548
+1118,"Thanks, that fixed it",agent,2024-04-09 16:44:42,590
+1119,Please verify your identity,agent,2021-11-20 05:11:38,372
+1120,Please verify your identity,agent,2022-10-10 22:12:39,281
+1121,Your request is complete,agent,2022-11-08 19:05:13,111
+1122,The charge has been reversed,agent,2021-12-03 12:36:27,96
+1123,The charge has been reversed,customer,2022-11-26 11:03:24,519
+1124,"Thanks, that fixed it",customer,2021-01-20 23:50:58,208
+1125,Please verify your identity,customer,2023-02-28 01:31:56,114
+1126,Can you check again?,agent,2025-02-27 23:23:38,189
+1127,Can you check again?,agent,2023-03-24 19:40:21,140
+1128,The charge has been reversed,customer,2023-06-09 08:12:27,232
+1129,The charge has been reversed,customer,2023-01-26 23:20:14,78
+1130,We have reissued your card,customer,2024-08-08 08:06:01,313
+1131,Your request is complete,agent,2023-03-14 06:02:24,2
+1132,We have reissued your card,customer,2021-09-05 19:59:31,22
+1133,We have reissued your card,agent,2023-08-16 22:41:43,593
+1134,We have reissued your card,agent,2021-10-07 07:19:39,492
+1135,The charge has been reversed,agent,2021-12-24 08:23:52,209
+1136,The charge has been reversed,agent,2023-08-08 21:30:23,323
+1137,Can you check again?,agent,2022-05-14 14:01:02,76
+1138,Can you check again?,agent,2021-06-22 21:46:39,373
+1139,We have reissued your card,agent,2024-02-07 23:42:36,583
+1140,Please verify your identity,agent,2022-08-13 08:47:40,374
+1141,"Thanks, that fixed it",customer,2021-10-29 15:53:26,88
+1142,Can you check again?,agent,2024-05-31 07:12:56,80
+1143,Your request is complete,agent,2024-07-12 01:26:55,66
+1144,Your request is complete,agent,2023-03-30 15:42:48,90
+1145,"Thanks, that fixed it",agent,2023-03-18 13:47:37,358
+1146,The charge has been reversed,agent,2025-08-05 05:32:21,442
+1147,We have reissued your card,customer,2024-06-14 11:41:46,245
+1148,Please verify your identity,customer,2022-08-09 10:47:08,474
+1149,Your request is complete,customer,2022-09-06 04:01:08,214
+1150,"Thanks, that fixed it",customer,2021-08-28 09:37:11,316
+1151,The charge has been reversed,customer,2023-07-11 09:28:11,47
+1152,We have reissued your card,customer,2021-07-01 10:44:18,562
+1153,We have reissued your card,customer,2024-12-26 03:26:52,385
+1154,The charge has been reversed,agent,2023-12-01 03:37:32,516
+1155,"Thanks, that fixed it",customer,2021-03-05 23:23:35,355
+1156,Can you check again?,customer,2024-08-12 15:15:43,307
+1157,Please verify your identity,agent,2023-02-28 10:14:13,271
+1158,The charge has been reversed,agent,2024-08-07 10:14:29,313
+1159,"Thanks, that fixed it",customer,2024-02-24 19:41:23,119
+1160,The charge has been reversed,agent,2024-01-15 10:52:54,197
+1161,Your request is complete,agent,2025-03-28 10:31:58,432
+1162,Can you check again?,agent,2021-11-19 10:30:35,372
+1163,Your request is complete,agent,2023-05-05 22:04:37,15
+1164,Please verify your identity,customer,2024-12-26 04:36:54,385
+1165,"Thanks, that fixed it",agent,2025-04-24 13:53:40,322
+1166,Please verify your identity,customer,2021-07-06 21:58:15,3
+1167,"Thanks, that fixed it",customer,2024-01-28 20:40:57,149
+1168,The charge has been reversed,customer,2023-08-07 18:12:31,6
+1169,The charge has been reversed,customer,2021-04-08 15:19:40,222
+1170,We have reissued your card,customer,2023-10-25 05:18:33,321
+1171,Can you check again?,customer,2021-02-03 13:27:47,565
+1172,We have reissued your card,customer,2025-02-28 02:17:49,189
+1173,Can you check again?,customer,2021-04-07 14:34:19,23
+1174,The charge has been reversed,customer,2024-12-28 18:47:31,517
+1175,Your request is complete,agent,2023-08-27 06:27:31,73
+1176,Please verify your identity,agent,2025-04-11 17:40:55,584
+1177,Your request is complete,customer,2024-01-01 19:00:30,104
+1178,Please verify your identity,customer,2024-02-02 00:01:44,10
+1179,Your request is complete,customer,2025-08-24 10:16:55,304
+1180,Can you check again?,agent,2024-03-17 02:59:40,376
+1181,Please verify your identity,agent,2022-04-17 22:16:17,547
+1182,Can you check again?,customer,2024-10-27 19:21:10,217
+1183,"Thanks, that fixed it",customer,2022-12-28 07:13:43,108
+1184,Your request is complete,agent,2022-08-08 11:43:22,474
+1185,Please verify your identity,customer,2024-07-22 21:26:12,116
+1186,Your request is complete,agent,2023-02-15 17:41:21,285
+1187,"Thanks, that fixed it",agent,2025-03-03 13:03:11,267
+1188,Please verify your identity,agent,2025-02-19 09:22:40,591
+1189,Please verify your identity,customer,2023-12-11 06:28:00,130
+1190,The charge has been reversed,customer,2022-09-04 06:22:25,5
+1191,The charge has been reversed,customer,2024-10-09 04:29:21,491
+1192,"Thanks, that fixed it",agent,2023-04-26 03:52:03,268
+1193,Please verify your identity,agent,2025-05-23 09:03:54,539
+1194,"Thanks, that fixed it",customer,2022-09-28 13:50:32,351
+1195,Your request is complete,customer,2025-05-09 04:57:26,384
+1196,We have reissued your card,customer,2022-09-25 16:55:01,168
+1197,"Thanks, that fixed it",customer,2025-01-02 21:40:48,94
+1198,Your request is complete,agent,2021-06-12 11:29:33,247
+1199,The charge has been reversed,customer,2021-03-23 20:49:08,43
+1200,The charge has been reversed,agent,2021-12-25 01:17:06,209
+1201,"Thanks, that fixed it",agent,2021-12-18 02:50:49,571
+1202,Can you check again?,customer,2025-11-04 20:58:32,443
+1203,Please verify your identity,agent,2025-05-14 21:14:27,378
+1204,We have reissued your card,customer,2023-05-09 04:44:18,234
+1205,Can you check again?,agent,2022-06-15 05:13:14,563
+1206,We have reissued your card,agent,2021-11-22 04:19:51,538
+1207,Can you check again?,agent,2023-12-10 09:23:17,130
+1208,"Thanks, that fixed it",agent,2025-09-25 11:29:22,176
+1209,We have reissued your card,agent,2023-02-15 11:04:24,364
+1210,Can you check again?,agent,2023-04-12 15:24:08,368
+1211,Can you check again?,agent,2021-11-28 09:28:12,123
+1212,We have reissued your card,agent,2025-09-27 23:20:03,176
+1213,"Thanks, that fixed it",agent,2021-09-16 17:23:27,81
+1214,Can you check again?,agent,2022-04-07 19:28:50,497
+1215,Please verify your identity,agent,2023-06-10 09:23:01,453
+1216,Your request is complete,agent,2025-12-25 13:38:54,578
+1217,The charge has been reversed,agent,2024-12-02 07:28:41,509
+1218,"Thanks, that fixed it",agent,2025-03-04 12:47:51,267
+1219,We have reissued your card,agent,2024-06-18 16:34:51,320
+1220,Please verify your identity,agent,2023-08-04 15:24:18,524
+1221,Please verify your identity,agent,2023-04-11 12:04:50,368
+1222,"Thanks, that fixed it",agent,2023-07-11 17:47:00,47
+1223,We have reissued your card,agent,2023-04-12 18:12:15,409
+1224,Can you check again?,agent,2022-07-20 15:24:52,471
+1225,Can you check again?,agent,2024-01-17 04:28:21,197
+1226,The charge has been reversed,agent,2021-09-30 23:21:57,86
+1227,The charge has been reversed,customer,2022-09-06 05:14:38,214
+1228,Can you check again?,agent,2022-04-10 08:52:19,497
+1229,We have reissued your card,customer,2025-09-07 06:28:35,71
+1230,Please verify your identity,customer,2021-12-06 15:52:25,184
+1231,We have reissued your card,agent,2021-08-06 05:38:11,419
+1232,The charge has been reversed,customer,2022-09-08 13:28:59,290
+1233,We have reissued your card,customer,2023-02-08 08:25:09,32
+1234,We have reissued your card,customer,2022-12-17 06:59:11,192
+1235,We have reissued your card,agent,2024-11-05 19:19:01,131
+1236,"Thanks, that fixed it",customer,2025-08-21 02:08:04,318
+1237,Please verify your identity,customer,2023-02-09 22:42:03,17
+1238,Your request is complete,customer,2025-03-26 10:22:23,432
+1239,We have reissued your card,customer,2022-05-05 23:02:47,476
+1240,Can you check again?,customer,2021-07-07 23:20:24,342
+1241,"Thanks, that fixed it",customer,2023-04-10 05:37:37,279
+1242,Please verify your identity,customer,2023-08-03 21:02:59,435
+1243,Can you check again?,customer,2021-12-07 13:58:06,184
+1244,Your request is complete,customer,2024-11-14 23:37:20,431
+1245,Can you check again?,agent,2024-01-14 20:06:57,480
+1246,Please verify your identity,agent,2024-09-11 04:38:19,99
+1247,Your request is complete,customer,2021-04-21 08:43:38,560
+1248,Your request is complete,customer,2022-11-19 05:28:03,444
+1249,The charge has been reversed,agent,2021-06-25 08:21:25,112
+1250,Your request is complete,customer,2023-08-21 21:24:54,196
+1251,Please verify your identity,agent,2021-03-07 04:26:55,556
+1252,We have reissued your card,agent,2024-11-29 15:19:49,464
+1253,The charge has been reversed,agent,2024-03-25 02:08:29,251
+1254,Please verify your identity,agent,2025-09-05 02:34:44,182
+1255,Can you check again?,agent,2021-11-13 18:13:30,250
+1256,"Thanks, that fixed it",agent,2021-08-16 17:21:21,202
+1257,"Thanks, that fixed it",agent,2022-01-17 11:09:53,134
+1258,Can you check again?,agent,2024-07-13 10:05:49,66
+1259,The charge has been reversed,customer,2024-02-06 02:31:53,13
+1260,Please verify your identity,agent,2025-02-16 18:39:45,591
+1261,"Thanks, that fixed it",agent,2024-05-31 05:07:37,80
+1262,Can you check again?,customer,2025-11-21 01:46:15,346
+1263,"Thanks, that fixed it",agent,2023-05-13 04:51:08,466
+1264,"Thanks, that fixed it",customer,2021-07-15 11:39:52,282
+1265,The charge has been reversed,customer,2024-07-07 04:32:53,502
+1266,We have reissued your card,customer,2023-12-03 13:43:07,425
+1267,Please verify your identity,customer,2021-08-29 03:05:06,316
+1268,"Thanks, that fixed it",agent,2024-10-22 07:41:24,87
+1269,Your request is complete,agent,2022-08-08 20:34:45,148
+1270,The charge has been reversed,customer,2021-03-30 20:42:02,545
+1271,"Thanks, that fixed it",agent,2021-06-28 04:29:38,362
+1272,We have reissued your card,agent,2023-08-03 22:55:04,524
+1273,The charge has been reversed,agent,2025-10-16 21:26:43,113
+1274,"Thanks, that fixed it",customer,2023-05-05 15:33:20,63
+1275,"Thanks, that fixed it",customer,2022-07-25 07:39:34,423
+1276,"Thanks, that fixed it",agent,2025-06-11 19:33:18,428
+1277,Can you check again?,agent,2021-12-31 21:37:52,203
+1278,Please verify your identity,agent,2024-12-29 21:55:49,517
+1279,Your request is complete,agent,2021-11-17 22:34:08,105
+1280,Please verify your identity,customer,2023-03-06 05:29:41,52
+1281,The charge has been reversed,customer,2024-08-12 19:53:40,307
+1282,"Thanks, that fixed it",customer,2023-02-26 16:20:20,114
+1283,Please verify your identity,customer,2022-09-06 22:53:14,579
+1284,"Thanks, that fixed it",agent,2022-07-25 05:16:09,228
+1285,Please verify your identity,agent,2022-02-17 17:05:44,21
+1286,Your request is complete,customer,2022-04-20 03:39:46,246
+1287,"Thanks, that fixed it",agent,2022-07-17 22:52:25,493
+1288,"Thanks, that fixed it",customer,2025-08-26 04:11:32,304
+1289,Your request is complete,customer,2025-03-17 09:35:23,289
+1290,Your request is complete,agent,2023-08-08 15:31:23,587
+1291,"Thanks, that fixed it",customer,2023-08-30 04:50:16,324
+1292,Your request is complete,agent,2021-10-26 11:15:43,370
+1293,"Thanks, that fixed it",agent,2023-12-22 03:33:27,386
+1294,We have reissued your card,customer,2025-09-26 14:31:20,366
+1295,The charge has been reversed,agent,2021-09-22 22:21:01,296
+1296,We have reissued your card,customer,2023-05-19 01:46:21,508
+1297,We have reissued your card,agent,2021-04-15 17:20:38,441
+1298,Your request is complete,agent,2021-12-28 00:49:00,273
+1299,Please verify your identity,agent,2025-07-11 05:19:50,84
+1300,Please verify your identity,customer,2022-06-18 17:47:02,270
+1301,"Thanks, that fixed it",agent,2022-11-23 04:07:00,269
+1302,Please verify your identity,customer,2021-06-22 06:53:20,373
+1303,Can you check again?,agent,2022-12-09 07:05:38,199
+1304,Your request is complete,agent,2024-07-30 05:29:30,470
+1305,Please verify your identity,customer,2021-12-02 01:30:16,530
+1306,Can you check again?,agent,2024-05-10 03:06:47,564
+1307,We have reissued your card,agent,2024-03-28 14:29:21,193
+1308,Can you check again?,agent,2021-01-09 09:05:43,227
+1309,We have reissued your card,customer,2024-09-14 06:51:15,526
+1310,Your request is complete,customer,2024-09-06 20:55:42,69
+1311,Can you check again?,agent,2025-03-17 12:24:33,289
+1312,Please verify your identity,customer,2023-07-04 13:54:15,278
+1313,"Thanks, that fixed it",agent,2021-10-20 04:39:57,34
+1314,Please verify your identity,agent,2025-08-10 12:53:14,396
+1315,The charge has been reversed,agent,2023-12-18 03:14:52,525
+1316,We have reissued your card,agent,2022-08-19 08:56:35,330
+1317,We have reissued your card,customer,2022-09-03 02:25:10,521
+1318,We have reissued your card,agent,2024-03-21 02:08:59,286
+1319,Can you check again?,customer,2025-05-01 18:23:21,306
+1320,Your request is complete,customer,2025-06-07 20:15:44,479
+1321,Can you check again?,customer,2022-04-06 12:44:44,216
+1322,We have reissued your card,customer,2022-02-19 01:20:32,588
+1323,We have reissued your card,agent,2023-12-10 14:25:31,130
+1324,"Thanks, that fixed it",customer,2024-03-25 21:23:41,251
+1325,Can you check again?,customer,2023-06-01 19:32:06,438
+1326,Your request is complete,customer,2023-02-04 02:04:31,582
+1327,The charge has been reversed,agent,2024-09-10 17:12:09,99
+1328,Can you check again?,agent,2023-05-12 22:42:03,361
+1329,"Thanks, that fixed it",agent,2022-10-08 15:45:29,398
+1330,"Thanks, that fixed it",agent,2022-07-25 14:04:27,423
+1331,We have reissued your card,agent,2022-10-16 01:46:49,155
+1332,The charge has been reversed,customer,2021-12-03 19:47:59,96
+1333,"Thanks, that fixed it",customer,2025-03-13 10:13:57,120
+1334,We have reissued your card,customer,2022-11-17 08:37:31,336
+1335,The charge has been reversed,customer,2025-07-13 19:45:15,19
+1336,Your request is complete,customer,2025-05-27 22:14:54,523
+1337,Your request is complete,agent,2021-03-06 13:16:41,355
+1338,Your request is complete,agent,2025-08-25 01:01:58,304
+1339,We have reissued your card,agent,2024-12-04 03:24:00,509
+1340,Your request is complete,agent,2021-06-25 11:02:54,112
+1341,Please verify your identity,agent,2024-11-30 03:55:52,468
+1342,Please verify your identity,customer,2022-01-25 23:18:24,477
+1343,Your request is complete,customer,2025-09-07 03:13:40,71
+1344,The charge has been reversed,customer,2024-09-17 17:01:15,484
+1345,"Thanks, that fixed it",agent,2021-11-12 21:10:07,250
+1346,"Thanks, that fixed it",customer,2021-03-28 02:15:00,195
+1347,The charge has been reversed,agent,2025-03-19 03:23:40,166
+1348,Your request is complete,customer,2023-08-09 05:36:54,587
+1349,Please verify your identity,agent,2025-04-30 05:09:48,306
+1350,Can you check again?,agent,2022-11-25 20:31:46,519
+1351,We have reissued your card,customer,2025-04-24 23:46:35,322
+1352,Can you check again?,agent,2022-12-16 15:35:42,192
+1353,"Thanks, that fixed it",agent,2024-12-24 06:02:25,505
+1354,"Thanks, that fixed it",customer,2021-12-04 10:58:33,96
+1355,Can you check again?,customer,2024-02-13 18:59:29,16
+1356,The charge has been reversed,customer,2024-12-23 12:24:37,380
+1357,"Thanks, that fixed it",agent,2022-09-02 14:04:47,566
+1358,The charge has been reversed,customer,2023-10-24 11:04:12,405
+1359,Can you check again?,customer,2022-06-26 17:36:14,138
+1360,Please verify your identity,customer,2023-03-01 21:22:16,271
+1361,Please verify your identity,customer,2022-10-10 12:50:17,121
+1362,Your request is complete,agent,2021-04-15 02:12:44,441
+1363,Your request is complete,agent,2021-02-19 10:41:10,511
+1364,Can you check again?,customer,2021-01-08 17:42:00,280
+1365,The charge has been reversed,agent,2022-10-19 12:15:56,561
+1366,"Thanks, that fixed it",agent,2023-01-31 09:16:03,170
+1367,We have reissued your card,agent,2025-03-25 11:18:47,404
+1368,Can you check again?,customer,2025-01-25 06:04:41,352
+1369,Can you check again?,agent,2022-01-06 11:27:49,9
+1370,We have reissued your card,agent,2022-08-09 11:53:40,474
+1371,We have reissued your card,agent,2024-06-12 00:15:49,402
+1372,Can you check again?,agent,2022-07-20 22:54:18,471
+1373,We have reissued your card,customer,2025-01-17 05:27:04,575
+1374,We have reissued your card,agent,2021-08-21 11:30:40,135
+1375,Can you check again?,agent,2021-07-02 00:28:02,562
+1376,"Thanks, that fixed it",agent,2023-10-11 10:21:13,171
+1377,We have reissued your card,agent,2022-12-11 10:43:52,367
+1378,Your request is complete,customer,2025-10-07 04:46:31,220
+1379,Can you check again?,agent,2024-11-15 03:56:53,431
+1380,"Thanks, that fixed it",customer,2023-12-01 00:56:19,103
+1381,Can you check again?,agent,2022-12-29 01:53:02,191
+1382,We have reissued your card,customer,2022-11-26 08:52:04,519
+1383,Can you check again?,agent,2024-04-10 00:55:38,590
+1384,"Thanks, that fixed it",agent,2024-06-17 14:00:28,327
+1385,We have reissued your card,customer,2025-10-14 01:58:15,238
+1386,We have reissued your card,customer,2025-08-26 01:25:19,27
+1387,"Thanks, that fixed it",agent,2021-05-17 17:19:26,212
+1388,Your request is complete,customer,2023-07-03 06:10:52,45
+1389,We have reissued your card,customer,2024-02-14 01:21:38,16
+1390,Please verify your identity,agent,2024-03-28 18:53:56,193
+1391,Your request is complete,customer,2024-10-30 13:48:32,142
+1392,"Thanks, that fixed it",agent,2024-03-28 15:54:31,193
+1393,We have reissued your card,agent,2023-07-05 13:35:57,278
+1394,Please verify your identity,customer,2023-08-02 05:12:45,319
+1395,The charge has been reversed,agent,2023-07-08 14:09:26,210
+1396,We have reissued your card,agent,2024-06-26 14:26:23,531
+1397,The charge has been reversed,customer,2024-04-02 04:08:32,411
+1398,Your request is complete,customer,2023-02-16 05:29:34,285
+1399,"Thanks, that fixed it",agent,2025-07-16 06:02:30,101
+1400,Your request is complete,customer,2024-07-09 09:33:11,387
+1401,The charge has been reversed,agent,2024-02-18 09:35:24,576
+1402,"Thanks, that fixed it",agent,2022-05-21 18:11:16,179
+1403,The charge has been reversed,agent,2021-01-10 10:57:56,421
+1404,The charge has been reversed,customer,2025-05-28 08:37:38,274
+1405,The charge has been reversed,agent,2023-01-16 05:30:14,55
+1406,Please verify your identity,agent,2022-08-28 03:39:30,25
+1407,Please verify your identity,agent,2024-09-16 00:07:38,424
+1408,The charge has been reversed,customer,2021-01-20 16:34:19,208
+1409,"Thanks, that fixed it",agent,2024-10-29 05:11:35,142
+1410,Your request is complete,agent,2021-03-11 16:52:58,567
+1411,We have reissued your card,agent,2023-04-25 18:13:04,268
+1412,Please verify your identity,agent,2025-09-28 05:28:33,176
+1413,We have reissued your card,agent,2021-03-01 21:58:30,254
+1414,Please verify your identity,customer,2021-09-29 02:38:18,452
+1415,We have reissued your card,agent,2024-04-02 00:04:53,411
+1416,"Thanks, that fixed it",agent,2024-05-12 06:39:26,95
+1417,The charge has been reversed,customer,2025-07-12 04:41:51,19
+1418,Please verify your identity,customer,2025-09-08 21:30:58,71
+1419,Please verify your identity,agent,2025-10-30 19:23:39,463
+1420,"Thanks, that fixed it",agent,2021-08-17 19:40:57,568
+1421,Your request is complete,agent,2025-01-22 12:21:23,11
+1422,Your request is complete,customer,2024-03-30 14:46:22,411
+1423,Can you check again?,agent,2021-04-21 07:20:03,560
+1424,We have reissued your card,customer,2021-05-03 15:14:33,248
+1425,Can you check again?,agent,2022-02-15 20:58:47,272
+1426,Your request is complete,customer,2022-05-26 00:50:13,30
+1427,Please verify your identity,customer,2024-05-20 09:22:34,224
+1428,"Thanks, that fixed it",customer,2021-10-13 15:26:21,35
+1429,Your request is complete,agent,2022-12-18 04:26:19,198
+1430,"Thanks, that fixed it",customer,2021-10-17 20:16:14,34
+1431,The charge has been reversed,agent,2021-12-03 15:23:24,382
+1432,We have reissued your card,customer,2023-03-03 00:56:22,488
+1433,"Thanks, that fixed it",customer,2024-10-21 18:56:31,297
+1434,The charge has been reversed,customer,2024-12-02 02:55:01,221
+1435,"Thanks, that fixed it",agent,2024-06-11 16:46:05,245
+1436,We have reissued your card,customer,2022-04-09 19:38:11,465
+1437,The charge has been reversed,agent,2022-12-18 00:15:14,198
+1438,"Thanks, that fixed it",customer,2021-10-11 05:25:06,490
+1439,Can you check again?,customer,2024-01-01 09:03:05,104
+1440,Your request is complete,customer,2024-06-29 19:56:52,457
+1441,"Thanks, that fixed it",customer,2025-03-13 04:03:32,120
+1442,We have reissued your card,customer,2021-08-06 06:53:09,419
+1443,We have reissued your card,customer,2021-09-03 16:33:06,48
+1444,Your request is complete,customer,2025-09-27 13:03:12,176
+1445,"Thanks, that fixed it",customer,2021-04-27 11:26:15,581
+1446,Can you check again?,customer,2024-05-20 15:26:50,93
+1447,Your request is complete,agent,2024-06-03 03:20:34,408
+1448,Can you check again?,agent,2024-08-13 11:38:30,307
+1449,Can you check again?,agent,2024-04-16 16:56:16,354
+1450,Please verify your identity,customer,2022-02-08 16:55:34,303
+1451,Your request is complete,customer,2024-10-02 09:41:44,152
+1452,"Thanks, that fixed it",agent,2021-12-07 19:22:33,178
+1453,The charge has been reversed,customer,2024-04-24 04:35:08,365
+1454,The charge has been reversed,agent,2023-04-27 11:09:31,268
+1455,Can you check again?,customer,2024-11-18 11:00:23,533
+1456,Please verify your identity,agent,2024-08-01 01:32:16,413
+1457,We have reissued your card,agent,2022-12-29 08:47:48,108
+1458,"Thanks, that fixed it",agent,2021-05-12 21:36:13,240
+1459,We have reissued your card,customer,2021-12-04 22:38:25,382
+1460,The charge has been reversed,agent,2024-07-01 09:38:07,457
+1461,Your request is complete,agent,2023-05-31 23:57:21,546
+1462,Please verify your identity,customer,2024-06-27 05:26:40,363
+1463,Can you check again?,customer,2021-01-08 12:44:44,280
+1464,"Thanks, that fixed it",customer,2021-01-22 20:35:14,172
+1465,"Thanks, that fixed it",agent,2022-06-17 21:27:36,270
+1466,Your request is complete,agent,2023-04-24 04:02:06,201
+1467,"Thanks, that fixed it",agent,2025-06-26 07:28:43,144
+1468,"Thanks, that fixed it",customer,2023-12-02 18:59:09,406
+1469,Can you check again?,agent,2022-03-14 14:22:49,233
+1470,Your request is complete,agent,2021-01-23 16:36:53,172
+1471,Your request is complete,customer,2025-10-13 23:41:28,292
+1472,Can you check again?,customer,2025-12-08 09:49:53,143
+1473,The charge has been reversed,customer,2021-06-22 03:44:46,373
+1474,"Thanks, that fixed it",customer,2024-08-13 02:45:53,307
+1475,"Thanks, that fixed it",agent,2025-06-26 15:33:18,144
+1476,The charge has been reversed,customer,2023-07-05 15:50:19,187
+1477,The charge has been reversed,customer,2024-03-20 19:11:15,226
+1478,Please verify your identity,customer,2023-07-28 12:21:05,124
+1479,Please verify your identity,agent,2025-08-23 00:35:07,318
+1480,Can you check again?,agent,2021-08-16 23:11:43,568
+1481,"Thanks, that fixed it",customer,2025-02-27 20:25:32,89
+1482,The charge has been reversed,customer,2024-06-12 03:04:11,245
+1483,"Thanks, that fixed it",agent,2021-10-02 02:37:28,416
+1484,Please verify your identity,customer,2021-04-06 08:06:02,241
+1485,The charge has been reversed,agent,2024-10-09 04:05:24,491
+1486,"Thanks, that fixed it",customer,2024-07-05 22:54:43,502
+1487,The charge has been reversed,customer,2024-09-02 14:58:46,132
+1488,We have reissued your card,agent,2025-04-26 11:33:16,322
+1489,Your request is complete,customer,2021-02-12 00:15:40,263
+1490,Can you check again?,agent,2021-09-15 18:47:31,127
+1491,We have reissued your card,customer,2024-11-04 00:59:00,131
+1492,Can you check again?,customer,2023-08-11 23:25:23,596
+1493,Can you check again?,customer,2025-01-20 11:21:04,369
+1494,Can you check again?,agent,2022-09-24 22:12:03,168
+1495,Please verify your identity,customer,2021-03-29 09:51:09,195
+1496,Please verify your identity,customer,2023-08-03 10:35:49,319
+1497,We have reissued your card,customer,2024-06-14 18:10:57,506
+1498,"Thanks, that fixed it",agent,2024-04-08 01:11:49,590
+1499,Your request is complete,agent,2024-10-24 05:04:59,215
+1500,"Thanks, that fixed it",customer,2022-02-09 14:14:05,303
+1501,We have reissued your card,customer,2024-05-10 10:27:12,564
+1502,Please verify your identity,customer,2024-02-08 06:55:29,583
+1503,Can you check again?,customer,2021-04-24 03:20:37,126
+1504,We have reissued your card,customer,2022-12-22 05:48:42,72
+1505,The charge has been reversed,customer,2021-01-24 05:06:59,172
+1506,Your request is complete,agent,2021-10-24 00:01:20,589
+1507,Please verify your identity,agent,2024-10-20 13:52:05,87
+1508,Please verify your identity,agent,2022-11-22 11:37:56,559
+1509,Can you check again?,customer,2022-02-04 21:48:27,540
+1510,"Thanks, that fixed it",customer,2021-05-26 23:09:02,469
+1511,Please verify your identity,customer,2022-09-15 00:15:40,206
+1512,Please verify your identity,agent,2021-09-29 01:43:08,452
+1513,"Thanks, that fixed it",customer,2022-04-06 10:44:06,216
+1514,Your request is complete,customer,2024-07-21 16:18:32,116
+1515,"Thanks, that fixed it",customer,2024-08-07 04:31:52,313
+1516,The charge has been reversed,agent,2025-09-26 21:07:01,366
+1517,"Thanks, that fixed it",agent,2021-12-09 07:45:49,178
+1518,We have reissued your card,agent,2025-12-29 06:25:59,451
+1519,"Thanks, that fixed it",agent,2025-07-17 21:52:54,101
+1520,The charge has been reversed,agent,2023-12-02 08:26:53,516
+1521,The charge has been reversed,customer,2025-03-06 12:17:07,475
+1522,We have reissued your card,customer,2025-03-28 12:23:36,128
+1523,The charge has been reversed,agent,2025-08-10 04:46:44,18
+1524,Can you check again?,customer,2021-02-02 20:46:20,485
+1525,Please verify your identity,agent,2023-06-11 00:42:19,453
+1526,Can you check again?,agent,2023-05-12 16:35:22,361
+1527,Your request is complete,agent,2025-06-23 00:18:16,414
+1528,The charge has been reversed,customer,2022-04-09 13:54:39,497
+1529,The charge has been reversed,customer,2025-09-02 19:53:02,182
+1530,The charge has been reversed,customer,2023-08-04 21:25:40,524
+1531,We have reissued your card,agent,2022-06-29 01:40:55,138
+1532,We have reissued your card,customer,2024-06-03 13:29:43,408
+1533,Can you check again?,customer,2021-11-12 13:32:04,250
+1534,We have reissued your card,agent,2021-03-27 15:26:46,600
+1535,We have reissued your card,agent,2021-09-15 13:47:34,518
+1536,Your request is complete,agent,2025-07-17 05:04:41,550
+1537,Your request is complete,customer,2022-05-22 21:56:33,554
+1538,Please verify your identity,agent,2023-07-05 01:38:25,278
+1539,Your request is complete,customer,2025-03-06 19:32:53,475
+1540,Your request is complete,customer,2025-09-30 08:33:35,496
+1541,The charge has been reversed,agent,2023-08-05 20:20:03,6
+1542,We have reissued your card,agent,2023-02-22 02:10:12,328
+1543,The charge has been reversed,customer,2021-08-06 10:07:12,77
+1544,Please verify your identity,customer,2021-09-02 23:00:13,48
+1545,The charge has been reversed,customer,2023-08-28 01:05:04,73
+1546,Your request is complete,agent,2022-07-20 05:24:20,493
+1547,Can you check again?,customer,2024-08-13 07:41:05,307
+1548,Can you check again?,agent,2024-08-13 16:13:28,31
+1549,Can you check again?,agent,2021-10-27 00:35:05,370
+1550,We have reissued your card,agent,2025-02-04 06:20:28,57
+1551,Please verify your identity,agent,2023-04-15 16:44:50,449
+1552,"Thanks, that fixed it",agent,2024-01-31 11:33:34,472
+1553,Your request is complete,customer,2025-09-01 16:08:34,218
+1554,"Thanks, that fixed it",agent,2023-04-24 09:44:07,201
+1555,"Thanks, that fixed it",agent,2023-04-12 18:50:51,409
+1556,Your request is complete,agent,2021-09-23 11:19:10,296
+1557,"Thanks, that fixed it",agent,2022-03-27 12:37:07,4
+1558,The charge has been reversed,agent,2023-09-21 12:40:05,311
+1559,"Thanks, that fixed it",agent,2021-12-03 22:53:54,530
+1560,"Thanks, that fixed it",customer,2025-01-22 05:09:39,427
+1561,Please verify your identity,agent,2025-08-26 03:08:03,27
+1562,Can you check again?,customer,2024-08-06 03:39:01,570
+1563,Your request is complete,agent,2023-10-09 21:01:58,513
+1564,"Thanks, that fixed it",agent,2025-04-30 16:36:26,400
+1565,Can you check again?,agent,2021-07-07 09:24:58,107
+1566,We have reissued your card,customer,2025-04-01 12:02:35,75
+1567,Please verify your identity,customer,2023-07-04 18:37:45,45
+1568,Your request is complete,customer,2023-03-02 06:48:54,271
+1569,Can you check again?,agent,2022-09-29 21:55:35,515
+1570,Can you check again?,customer,2022-12-18 00:47:43,198
+1571,The charge has been reversed,agent,2025-06-07 15:41:01,479
+1572,Your request is complete,agent,2023-03-16 19:28:43,163
+1573,"Thanks, that fixed it",agent,2023-10-12 00:11:10,558
+1574,We have reissued your card,agent,2023-08-02 00:00:01,435
+1575,Your request is complete,agent,2022-08-09 20:23:41,67
+1576,The charge has been reversed,agent,2022-02-09 09:43:37,303
+1577,Your request is complete,customer,2023-04-25 05:45:46,599
+1578,We have reissued your card,agent,2025-01-18 14:43:16,64
+1579,"Thanks, that fixed it",customer,2024-11-16 19:13:15,549
+1580,"Thanks, that fixed it",customer,2021-11-13 05:57:00,250
+1581,Your request is complete,agent,2024-09-19 00:18:03,70
+1582,Please verify your identity,customer,2025-04-01 22:22:45,446
+1583,Can you check again?,customer,2025-01-18 15:21:22,64
+1584,Your request is complete,agent,2025-07-13 19:41:59,295
+1585,The charge has been reversed,customer,2024-05-18 11:50:15,224
+1586,We have reissued your card,customer,2022-06-26 22:49:57,335
+1587,"Thanks, that fixed it",customer,2024-12-25 09:26:49,483
+1588,We have reissued your card,customer,2025-10-29 23:29:36,463
+1589,We have reissued your card,customer,2022-04-17 23:28:40,246
+1590,The charge has been reversed,agent,2023-10-14 09:33:12,558
+1591,Can you check again?,agent,2024-07-08 02:00:36,387
+1592,The charge has been reversed,customer,2021-05-03 21:26:21,248
+1593,Please verify your identity,agent,2022-03-08 13:54:54,125
+1594,The charge has been reversed,customer,2023-06-05 08:15:09,569
+1595,Please verify your identity,agent,2025-09-07 15:56:57,71
+1596,Please verify your identity,customer,2022-03-07 06:36:09,125
+1597,The charge has been reversed,agent,2022-09-29 18:14:17,351
+1598,Your request is complete,customer,2023-10-12 05:45:19,558
+1599,Please verify your identity,customer,2025-09-30 16:51:43,496
+1600,Can you check again?,customer,2024-09-10 13:36:49,99
+1601,Please verify your identity,customer,2025-07-11 13:00:56,59
+1602,Please verify your identity,agent,2024-06-30 02:14:59,457
+1603,Can you check again?,customer,2021-08-13 17:50:54,202
+1604,Please verify your identity,customer,2022-08-13 06:51:07,185
+1605,Can you check again?,customer,2024-09-14 18:54:18,424
+1606,Your request is complete,customer,2024-03-18 10:09:19,158
+1607,Please verify your identity,customer,2025-07-10 18:07:59,84
+1608,"Thanks, that fixed it",agent,2022-08-14 01:32:53,12
+1609,Your request is complete,customer,2025-03-13 06:40:19,120
+1610,"Thanks, that fixed it",customer,2025-06-01 14:29:09,53
+1611,Can you check again?,agent,2025-03-30 18:42:34,302
+1612,We have reissued your card,agent,2021-09-02 00:59:36,283
+1613,"Thanks, that fixed it",agent,2025-12-25 01:16:50,284
+1614,Can you check again?,agent,2025-05-22 20:56:06,390
+1615,We have reissued your card,customer,2025-03-27 14:28:17,432
+1616,Please verify your identity,customer,2024-11-28 22:28:58,468
+1617,Please verify your identity,customer,2022-08-08 15:35:57,445
+1618,We have reissued your card,agent,2024-12-26 14:08:02,505
+1619,Please verify your identity,agent,2022-12-09 15:41:47,199
+1620,Can you check again?,customer,2021-07-14 11:25:08,504
+1621,"Thanks, that fixed it",agent,2023-02-12 17:40:20,145
+1622,Can you check again?,agent,2023-08-04 15:43:09,524
+1623,"Thanks, that fixed it",customer,2024-03-28 07:56:05,312
+1624,Your request is complete,customer,2022-01-07 21:19:41,9
+1625,Your request is complete,agent,2024-06-01 00:41:15,408
+1626,Your request is complete,agent,2023-07-29 08:43:59,574
+1627,The charge has been reversed,customer,2024-10-08 17:51:34,426
+1628,Can you check again?,customer,2023-12-22 15:44:12,60
+1629,"Thanks, that fixed it",customer,2023-05-15 11:30:23,265
+1630,"Thanks, that fixed it",agent,2024-11-18 23:23:17,401
+1631,Can you check again?,agent,2023-12-15 00:21:15,150
+1632,"Thanks, that fixed it",customer,2021-12-30 09:55:47,203
+1633,We have reissued your card,agent,2024-02-17 16:51:48,576
+1634,Can you check again?,customer,2022-03-06 02:24:56,83
+1635,"Thanks, that fixed it",customer,2024-06-30 01:30:53,457
+1636,Can you check again?,agent,2024-09-17 04:52:39,42
+1637,The charge has been reversed,agent,2021-12-17 20:02:06,571
+1638,The charge has been reversed,customer,2022-12-05 20:48:30,146
+1639,We have reissued your card,customer,2022-06-19 23:14:00,270
+1640,"Thanks, that fixed it",customer,2025-12-08 19:36:42,143
+1641,The charge has been reversed,agent,2023-12-09 04:47:50,473
+1642,Can you check again?,agent,2023-09-18 17:05:49,79
+1643,The charge has been reversed,customer,2021-07-14 16:33:41,299
+1644,We have reissued your card,customer,2025-06-04 07:39:59,534
+1645,Your request is complete,agent,2024-10-13 00:24:57,56
+1646,Please verify your identity,customer,2024-06-12 01:18:24,402
+1647,The charge has been reversed,customer,2023-12-04 03:20:53,406
+1648,Your request is complete,agent,2023-10-25 23:10:10,321
+1649,Can you check again?,agent,2023-07-11 22:21:24,200
+1650,The charge has been reversed,customer,2023-02-20 12:54:40,277
+1651,We have reissued your card,agent,2021-02-02 15:59:32,485
+1652,We have reissued your card,customer,2021-09-04 03:00:45,48
+1653,Can you check again?,agent,2021-03-05 22:19:20,556
+1654,Your request is complete,customer,2024-10-21 22:46:05,87
+1655,Can you check again?,customer,2024-06-01 14:03:43,80
+1656,The charge has been reversed,customer,2021-11-02 18:09:02,257
+1657,Your request is complete,agent,2022-08-10 06:14:37,148
+1658,Your request is complete,customer,2024-05-13 14:13:51,156
+1659,Can you check again?,customer,2021-08-29 08:08:40,316
+1660,Can you check again?,agent,2023-10-18 09:00:33,553
+1661,Please verify your identity,agent,2023-07-09 03:50:40,210
+1662,Your request is complete,agent,2024-07-28 12:34:44,470
+1663,Can you check again?,customer,2024-05-31 16:18:50,371
+1664,"Thanks, that fixed it",agent,2021-10-13 03:48:06,35
+1665,The charge has been reversed,agent,2024-09-11 21:40:31,526
+1666,We have reissued your card,agent,2021-09-15 21:48:01,127
+1667,The charge has been reversed,customer,2023-05-15 03:09:51,429
+1668,We have reissued your card,agent,2025-05-19 18:04:25,243
+1669,Please verify your identity,customer,2025-01-24 19:51:02,352
+1670,Can you check again?,agent,2023-07-20 01:08:24,39
+1671,We have reissued your card,customer,2022-09-01 17:19:45,566
+1672,Your request is complete,agent,2025-09-03 00:11:44,585
+1673,Your request is complete,customer,2025-03-26 11:45:42,520
+1674,We have reissued your card,customer,2025-03-31 14:13:38,302
+1675,"Thanks, that fixed it",customer,2024-03-18 15:29:18,226
+1676,Please verify your identity,agent,2025-01-21 07:23:18,11
+1677,The charge has been reversed,customer,2023-06-09 17:17:16,232
+1678,Please verify your identity,agent,2022-09-09 04:48:07,290
+1679,Please verify your identity,customer,2023-11-30 20:43:13,103
+1680,Please verify your identity,customer,2022-02-07 07:12:27,303
+1681,Can you check again?,customer,2021-08-17 12:43:40,568
+1682,Your request is complete,customer,2021-03-29 15:39:38,195
+1683,The charge has been reversed,customer,2022-06-26 16:37:29,335
+1684,"Thanks, that fixed it",agent,2021-12-08 01:39:10,399
+1685,Can you check again?,agent,2025-12-05 02:01:33,264
+1686,We have reissued your card,customer,2024-09-11 18:14:06,526
+1687,The charge has been reversed,agent,2024-02-18 04:02:11,231
+1688,The charge has been reversed,agent,2021-09-27 06:12:18,219
+1689,Can you check again?,customer,2021-06-20 13:09:58,551
+1690,Your request is complete,customer,2021-12-08 04:40:32,249
+1691,The charge has been reversed,customer,2023-06-21 13:33:40,33
+1692,"Thanks, that fixed it",agent,2024-12-21 01:19:02,380
+1693,Can you check again?,agent,2021-11-20 02:33:37,105
+1694,We have reissued your card,customer,2022-08-13 07:54:53,185
+1695,We have reissued your card,customer,2021-08-13 07:01:43,332
+1696,We have reissued your card,customer,2021-12-23 02:08:14,209
+1697,Please verify your identity,agent,2021-01-21 13:29:44,172
+1698,Can you check again?,customer,2024-03-22 14:51:26,286
+1699,The charge has been reversed,agent,2024-04-15 09:40:59,36
+1700,The charge has been reversed,customer,2022-05-18 06:12:41,459
+1701,Your request is complete,customer,2025-05-27 13:30:45,532
+1702,"Thanks, that fixed it",customer,2025-07-16 20:00:12,101
+1703,The charge has been reversed,customer,2024-08-02 05:42:06,413
+1704,Can you check again?,agent,2023-04-13 11:51:06,409
+1705,We have reissued your card,agent,2024-09-15 15:35:27,478
+1706,Please verify your identity,agent,2023-03-07 13:13:38,52
+1707,"Thanks, that fixed it",agent,2023-06-17 01:34:08,383
+1708,Please verify your identity,customer,2024-03-24 19:18:08,251
+1709,The charge has been reversed,customer,2021-02-19 20:44:52,379
+1710,Please verify your identity,customer,2023-09-20 21:02:32,311
+1711,Please verify your identity,customer,2025-09-13 10:14:32,460
+1712,"Thanks, that fixed it",customer,2022-11-11 12:31:18,111
+1713,Your request is complete,agent,2021-11-29 11:51:30,123
+1714,Can you check again?,agent,2023-07-31 21:54:51,300
+1715,The charge has been reversed,agent,2025-08-08 05:06:01,396
+1716,"Thanks, that fixed it",agent,2025-04-25 04:18:55,322
+1717,Can you check again?,customer,2022-10-29 03:59:17,51
+1718,The charge has been reversed,customer,2025-07-14 15:22:39,19
+1719,Please verify your identity,agent,2024-09-15 00:56:49,42
+1720,Please verify your identity,customer,2023-08-01 00:30:43,319
+1721,Your request is complete,agent,2023-03-16 20:15:56,163
+1722,The charge has been reversed,customer,2024-02-18 11:44:40,576
+1723,"Thanks, that fixed it",agent,2022-10-21 21:13:01,392
+1724,Your request is complete,agent,2024-01-19 13:45:22,8
+1725,We have reissued your card,customer,2021-12-31 03:52:02,597
+1726,The charge has been reversed,customer,2021-03-28 06:29:09,195
+1727,Can you check again?,agent,2023-01-15 03:49:57,186
+1728,"Thanks, that fixed it",customer,2023-11-30 23:07:10,516
+1729,Your request is complete,agent,2023-12-15 00:50:00,150
+1730,Please verify your identity,customer,2025-01-18 08:20:01,266
+1731,Can you check again?,agent,2022-11-16 22:13:32,336
+1732,Please verify your identity,agent,2024-10-02 11:22:44,152
+1733,We have reissued your card,agent,2025-05-27 22:18:42,274
+1734,Please verify your identity,customer,2025-09-04 13:35:36,585
+1735,Your request is complete,agent,2023-07-28 08:07:54,574
+1736,Can you check again?,customer,2022-11-02 07:47:38,253
+1737,Please verify your identity,customer,2021-02-20 10:30:21,379
+1738,"Thanks, that fixed it",customer,2023-01-08 21:26:48,439
+1739,The charge has been reversed,agent,2025-10-13 19:45:05,238
+1740,Can you check again?,agent,2024-06-24 16:18:33,572
+1741,We have reissued your card,agent,2025-10-06 08:56:01,220
+1742,The charge has been reversed,customer,2021-12-29 12:15:31,597
+1743,Can you check again?,customer,2023-06-10 13:42:17,453
+1744,Your request is complete,customer,2025-09-04 04:39:31,585
+1745,Can you check again?,agent,2025-01-17 13:14:21,276
+1746,Please verify your identity,agent,2022-10-19 15:18:24,561
+1747,Your request is complete,agent,2021-01-13 15:54:41,301
+1748,Can you check again?,agent,2021-05-06 06:22:56,248
+1749,"Thanks, that fixed it",customer,2024-02-17 13:50:38,161
+1750,Your request is complete,customer,2025-01-18 16:41:09,64
+1751,We have reissued your card,agent,2023-07-09 13:57:42,482
+1752,Can you check again?,agent,2024-07-05 18:22:43,502
+1753,We have reissued your card,agent,2021-11-13 04:20:54,334
+1754,Can you check again?,customer,2021-08-21 05:59:57,135
+1755,Your request is complete,agent,2025-09-04 06:19:47,585
+1756,Can you check again?,customer,2022-04-18 04:58:27,547
+1757,Can you check again?,customer,2024-10-19 21:00:17,87
+1758,Can you check again?,customer,2022-03-06 12:13:17,125
+1759,We have reissued your card,customer,2023-10-19 07:52:29,553
+1760,We have reissued your card,customer,2021-09-14 06:39:29,518
+1761,We have reissued your card,customer,2024-12-30 13:36:03,389
+1762,Please verify your identity,agent,2021-11-22 15:05:02,538
+1763,Can you check again?,agent,2023-05-14 11:46:19,181
+1764,We have reissued your card,customer,2024-02-17 18:37:29,576
+1765,Your request is complete,agent,2021-03-28 20:57:25,433
+1766,Your request is complete,customer,2023-01-20 23:30:22,543
+1767,We have reissued your card,customer,2024-11-06 07:53:37,131
+1768,Can you check again?,agent,2023-07-10 17:18:11,437
+1769,We have reissued your card,customer,2023-07-01 08:51:28,522
+1770,"Thanks, that fixed it",agent,2023-06-01 08:14:48,91
+1771,We have reissued your card,customer,2023-09-07 18:54:17,291
+1772,The charge has been reversed,customer,2024-03-30 08:39:44,312
+1773,Can you check again?,agent,2022-08-29 11:16:20,25
+1774,We have reissued your card,customer,2021-06-19 19:15:00,235
+1775,We have reissued your card,agent,2021-03-01 14:15:27,500
+1776,Can you check again?,agent,2024-11-20 01:46:45,401
+1777,We have reissued your card,customer,2025-01-15 12:18:42,575
+1778,Please verify your identity,agent,2024-06-09 10:45:17,337
+1779,The charge has been reversed,customer,2025-03-09 11:02:14,448
+1780,Can you check again?,agent,2025-05-23 06:42:55,390
+1781,Please verify your identity,agent,2025-06-30 23:33:14,106
+1782,Can you check again?,agent,2022-06-12 01:36:24,529
+1783,We have reissued your card,agent,2023-02-22 15:14:01,328
+1784,Your request is complete,agent,2023-10-18 14:33:47,275
+1785,"Thanks, that fixed it",customer,2025-05-27 22:49:59,523
+1786,We have reissued your card,agent,2023-11-10 06:51:18,395
+1787,Your request is complete,customer,2025-08-26 02:38:57,27
+1788,Your request is complete,agent,2024-09-30 04:42:00,152
+1789,"Thanks, that fixed it",agent,2021-03-25 20:18:04,600
+1790,Please verify your identity,agent,2025-05-02 13:38:25,306
+1791,"Thanks, that fixed it",customer,2025-07-17 14:12:36,550
+1792,Your request is complete,agent,2025-10-13 14:09:44,238
+1793,The charge has been reversed,agent,2021-10-01 00:49:24,86
+1794,"Thanks, that fixed it",customer,2021-03-04 19:08:39,556
+1795,"Thanks, that fixed it",agent,2024-11-20 10:41:34,533
+1796,Can you check again?,customer,2021-06-12 19:20:53,260
+1797,"Thanks, that fixed it",agent,2022-05-24 09:11:10,30
+1798,We have reissued your card,customer,2021-04-17 19:42:11,147
+1799,Please verify your identity,customer,2022-07-25 03:41:28,423
+1800,Can you check again?,agent,2023-03-05 12:20:09,52

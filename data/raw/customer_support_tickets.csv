@@ -1,0 +1,601 @@
+id,created_date,customer_id,description,employee_id,status,subject
+1,2023-12-30 15:23:03,391,Customer called in,6,resolved,Loan question
+2,2023-03-13 09:43:46,743,Customer called in,206,resolved,Card blocked
+3,2021-07-04 14:38:02,356,Raised at a branch,17,closed,Online banking login
+4,2022-03-25 11:32:58,901,Raised in the app,65,resolved,Wire transfer
+5,2022-09-03 11:03:56,1,Raised by email,237,resolved,Loan question
+6,2023-08-05 09:12:02,17,Raised at a branch,243,closed,Dispute a charge
+7,2025-09-20 20:08:46,160,Customer called in,231,resolved,Update address
+8,2024-01-16 20:35:20,909,Customer called in,119,resolved,Loan question
+9,2022-01-06 10:27:13,406,Raised by email,285,resolved,Update address
+10,2024-02-01 17:46:40,432,Raised in the app,249,resolved,Wire transfer
+11,2025-01-20 14:28:27,727,Raised by email,255,resolved,Wire transfer
+12,2022-08-11 10:51:20,367,Raised by email,164,closed,Dispute a charge
+13,2024-02-04 12:38:10,5,Raised at a branch,97,resolved,Loan question
+14,2024-10-14 14:28:40,1191,Raised by email,99,resolved,Wire transfer
+15,2023-05-05 12:10:49,563,Raised in the app,194,resolved,Wire transfer
+16,2024-02-11 16:54:42,603,Raised at a branch,174,closed,Wire transfer
+17,2023-02-09 18:57:18,203,Raised in the app,193,resolved,Card blocked
+18,2025-08-08 11:32:42,295,Raised at a branch,42,resolved,Update address
+19,2025-07-11 15:42:26,1,Customer called in,157,resolved,Card blocked
+20,2023-02-26 18:18:24,68,Raised at a branch,299,resolved,Loan question
+21,2022-02-17 15:22:03,908,Raised by email,131,resolved,Online banking login
+22,2021-09-05 13:18:17,68,Raised by email,167,closed,Wire transfer
+23,2021-04-06 09:06:06,2,Raised by email,56,resolved,Loan question
+24,2023-01-27 10:56:30,425,Raised in the app,252,resolved,Loan question
+25,2022-08-27 12:04:56,125,Raised in the app,290,resolved,Loan question
+26,2023-04-30 09:38:27,3,Raised at a branch,98,resolved,Update address
+27,2025-08-23 09:34:31,80,Raised in the app,178,resolved,Loan question
+28,2025-07-21 13:35:52,307,Raised in the app,174,closed,Online banking login
+29,2024-10-29 13:14:10,212,Raised by email,268,resolved,Card blocked
+30,2022-05-23 19:02:39,67,Customer called in,289,resolved,Loan question
+31,2024-08-11 17:43:34,245,Raised by email,58,resolved,Loan question
+32,2023-02-07 15:53:14,30,Raised at a branch,101,resolved,Online banking login
+33,2023-06-21 11:11:22,1047,Raised at a branch,12,resolved,Dispute a charge
+34,2021-10-17 17:16:06,448,Customer called in,7,closed,Dispute a charge
+35,2021-10-12 15:01:04,31,Raised in the app,64,resolved,Dispute a charge
+36,2024-04-15 08:55:55,18,Raised by email,251,resolved,Wire transfer
+37,2022-01-27 17:37:26,279,Raised by email,72,resolved,Dispute a charge
+38,2021-09-10 16:55:47,819,Raised in the app,80,resolved,Update address
+39,2023-07-18 15:31:32,1164,Raised in the app,44,closed,Dispute a charge
+40,2023-06-15 17:58:47,12,Customer called in,1,resolved,Wire transfer
+41,2024-10-29 17:18:28,618,Customer called in,44,resolved,Online banking login
+42,2024-09-14 11:14:46,103,Raised by email,147,closed,Loan question
+43,2021-03-22 16:24:59,382,Raised at a branch,219,resolved,Dispute a charge
+44,2024-08-13 13:13:19,203,Raised at a branch,122,resolved,Loan question
+45,2023-07-02 10:31:09,18,Raised by email,79,resolved,Card blocked
+46,2023-09-16 07:15:32,252,Raised by email,122,resolved,Update address
+47,2023-07-10 09:35:01,1134,Raised in the app,83,closed,Online banking login
+48,2021-09-01 09:21:42,4,Customer called in,2,resolved,Update address
+49,2023-12-20 12:45:59,1032,Raised by email,285,closed,Update address
+50,2023-07-20 11:02:04,1031,Raised at a branch,161,resolved,Wire transfer
+51,2022-10-26 10:47:33,389,Customer called in,107,closed,Wire transfer
+52,2023-03-04 15:08:34,368,Raised at a branch,113,resolved,Wire transfer
+53,2025-05-31 11:10:26,432,Raised by email,186,resolved,Loan question
+54,2021-03-25 13:18:49,177,Raised at a branch,62,resolved,Loan question
+55,2023-01-14 10:22:53,249,Raised in the app,244,resolved,Update address
+56,2024-10-10 13:44:42,313,Customer called in,15,resolved,Wire transfer
+57,2025-02-03 16:25:19,169,Raised in the app,92,resolved,Update address
+58,2025-09-09 11:07:22,901,Raised in the app,281,resolved,Loan question
+59,2025-07-10 01:58:18,43,Raised by email,184,resolved,Dispute a charge
+60,2023-12-19 16:32:11,1158,Customer called in,62,resolved,Loan question
+61,2023-04-13 16:53:21,94,Raised by email,100,resolved,Loan question
+62,2024-01-28 17:47:09,823,Raised at a branch,243,resolved,Dispute a charge
+63,2023-05-04 10:10:20,14,Raised by email,205,closed,Online banking login
+64,2025-01-17 15:35:24,146,Raised in the app,198,resolved,Wire transfer
+65,2022-06-24 10:19:02,559,Raised at a branch,59,resolved,Dispute a charge
+66,2024-07-11 13:57:25,859,Raised in the app,66,resolved,Card blocked
+67,2022-08-09 13:18:47,470,Customer called in,300,resolved,Dispute a charge
+68,2025-07-04 06:19:41,448,Raised in the app,103,resolved,Dispute a charge
+69,2024-09-05 11:51:47,818,Raised in the app,101,resolved,Wire transfer
+70,2024-09-17 19:46:18,1115,Raised at a branch,201,resolved,Dispute a charge
+71,2025-09-06 12:02:03,88,Customer called in,247,resolved,Wire transfer
+72,2022-12-20 16:49:54,436,Customer called in,148,resolved,Wire transfer
+73,2023-08-26 16:48:16,51,Raised at a branch,268,resolved,Loan question
+74,2021-01-11 08:17:04,33,Raised by email,170,resolved,Loan question
+75,2025-03-30 08:18:15,51,Customer called in,221,resolved,Card blocked
+76,2022-05-13 14:44:02,1192,Raised by email,135,resolved,Wire transfer
+77,2021-08-05 15:41:38,1189,Raised at a branch,29,resolved,Wire transfer
+78,2023-01-26 17:11:22,179,Raised in the app,12,resolved,Wire transfer
+79,2023-09-18 09:07:40,770,Raised at a branch,191,resolved,Online banking login
+80,2024-05-29 17:47:03,725,Raised at a branch,28,resolved,Dispute a charge
+81,2021-09-14 18:21:19,3,Raised in the app,120,resolved,Wire transfer
+82,2024-04-24 10:54:36,1,Customer called in,222,resolved,Wire transfer
+83,2022-03-05 16:03:58,1195,Raised by email,37,resolved,Dispute a charge
+84,2025-07-10 11:53:52,626,Raised by email,211,resolved,Wire transfer
+85,2021-01-17 08:26:59,4,Customer called in,71,resolved,Online banking login
+86,2021-09-28 18:56:05,117,Customer called in,175,resolved,Update address
+87,2024-10-19 13:23:16,734,Raised by email,3,closed,Card blocked
+88,2021-10-29 09:07:06,154,Customer called in,196,resolved,Card blocked
+89,2025-02-25 13:39:47,1088,Raised by email,290,resolved,Online banking login
+90,2023-03-28 15:49:36,1122,Customer called in,144,resolved,Loan question
+91,2023-05-29 11:41:53,847,Raised at a branch,35,resolved,Wire transfer
+92,2025-09-19 17:39:29,204,Raised at a branch,134,resolved,Dispute a charge
+93,2024-05-18 08:39:54,459,Raised at a branch,116,resolved,Card blocked
+94,2025-01-02 15:48:40,351,Raised by email,116,resolved,Online banking login
+95,2024-05-09 18:14:09,250,Raised at a branch,70,resolved,Dispute a charge
+96,2021-12-01 15:08:15,791,Raised at a branch,229,closed,Dispute a charge
+97,2024-09-25 05:27:14,164,Raised by email,68,resolved,Online banking login
+98,2024-02-06 14:24:00,1003,Customer called in,261,resolved,Dispute a charge
+99,2024-09-10 09:24:31,1015,Raised by email,95,closed,Wire transfer
+100,2022-02-24 10:15:23,105,Raised at a branch,16,resolved,Card blocked
+101,2025-07-15 08:10:41,603,Raised at a branch,78,closed,Loan question
+102,2025-12-31 10:56:18,960,Raised in the app,140,resolved,Online banking login
+103,2023-11-29 16:27:30,3,Raised in the app,61,resolved,Dispute a charge
+104,2023-12-30 12:51:38,413,Raised at a branch,249,resolved,Dispute a charge
+105,2021-11-17 18:04:11,176,Raised at a branch,251,resolved,Dispute a charge
+106,2025-06-29 12:16:22,350,Raised by email,244,resolved,Dispute a charge
+107,2021-07-06 12:33:30,696,Raised in the app,184,resolved,Online banking login
+108,2022-12-27 21:24:46,457,Customer called in,111,closed,Card blocked
+109,2022-10-21 12:47:48,80,Raised in the app,121,resolved,Online banking login
+110,2022-10-14 21:42:08,541,Customer called in,215,resolved,Wire transfer
+111,2022-11-08 14:04:06,1200,Raised in the app,249,resolved,Wire transfer
+112,2021-06-24 12:58:00,268,Raised in the app,259,closed,Update address
+113,2025-10-15 10:21:56,260,Raised at a branch,60,resolved,Update address
+114,2023-02-25 07:57:49,290,Raised in the app,277,resolved,Dispute a charge
+115,2023-09-09 16:09:16,1094,Raised in the app,17,resolved,Online banking login
+116,2024-07-20 12:34:23,128,Raised in the app,261,resolved,Card blocked
+117,2025-10-30 09:26:25,7,Raised by email,251,resolved,Update address
+118,2022-05-07 11:31:17,573,Raised at a branch,275,resolved,Wire transfer
+119,2024-02-22 14:05:22,1051,Raised at a branch,111,resolved,Wire transfer
+120,2025-03-12 17:57:45,484,Raised at a branch,243,resolved,Card blocked
+121,2022-10-09 11:21:39,13,Raised in the app,95,resolved,Online banking login
+122,2024-07-21 17:40:40,918,Raised at a branch,12,resolved,Wire transfer
+123,2021-11-28 08:29:10,98,Raised by email,220,resolved,Update address
+124,2023-07-27 16:44:21,763,Raised in the app,144,closed,Dispute a charge
+125,2022-03-05 16:13:09,97,Raised at a branch,58,closed,Online banking login
+126,2021-04-21 15:07:40,6,Raised by email,250,resolved,Wire transfer
+127,2021-09-14 16:25:35,961,Raised in the app,126,resolved,Loan question
+128,2025-03-26 14:24:54,19,Raised in the app,143,closed,Wire transfer
+129,2023-12-16 18:20:45,10,Raised at a branch,261,resolved,Wire transfer
+130,2023-12-09 13:46:28,213,Raised at a branch,18,resolved,Update address
+131,2024-11-03 13:06:01,934,Raised at a branch,112,resolved,Online banking login
+132,2024-09-01 08:32:49,530,Raised by email,165,resolved,Wire transfer
+133,2022-05-02 09:02:50,877,Raised in the app,122,resolved,Update address
+134,2022-01-15 11:11:38,657,Raised in the app,120,resolved,Loan question
+135,2021-08-18 15:51:08,69,Raised by email,240,resolved,Loan question
+136,2023-09-21 10:10:09,197,Raised by email,214,closed,Card blocked
+137,2022-09-18 09:39:15,629,Customer called in,271,resolved,Dispute a charge
+138,2022-06-26 15:00:18,1053,Raised at a branch,246,resolved,Update address
+139,2022-08-14 10:02:31,21,Raised by email,184,closed,Update address
+140,2023-03-22 13:28:03,48,Raised in the app,174,resolved,Card blocked
+141,2022-01-20 07:36:29,959,Raised by email,205,resolved,Wire transfer
+142,2024-10-28 17:47:01,149,Customer called in,214,resolved,Loan question
+143,2025-12-07 09:09:10,1130,Raised by email,105,resolved,Card blocked
+144,2025-06-23 15:40:17,272,Raised in the app,249,closed,Card blocked
+145,2023-02-11 15:00:57,47,Raised by email,103,resolved,Wire transfer
+146,2022-12-05 16:23:12,1,Customer called in,284,closed,Wire transfer
+147,2021-04-15 15:59:51,331,Raised in the app,173,closed,Dispute a charge
+148,2022-08-08 16:44:21,98,Raised by email,160,resolved,Update address
+149,2024-01-28 16:42:58,5,Raised by email,139,resolved,Dispute a charge
+150,2023-12-12 17:41:25,89,Raised at a branch,287,resolved,Dispute a charge
+151,2021-07-21 07:49:27,305,Raised in the app,293,closed,Wire transfer
+152,2024-09-29 16:39:19,36,Customer called in,39,resolved,Dispute a charge
+153,2025-10-21 14:17:50,318,Customer called in,294,resolved,Dispute a charge
+154,2023-08-03 15:57:02,1117,Customer called in,260,resolved,Wire transfer
+155,2022-10-15 20:35:34,204,Raised by email,70,resolved,Card blocked
+156,2024-05-10 22:24:56,858,Raised at a branch,94,resolved,Wire transfer
+157,2025-10-05 10:33:07,699,Raised at a branch,206,resolved,Update address
+158,2024-03-15 12:28:25,174,Raised in the app,219,resolved,Dispute a charge
+159,2021-07-07 08:04:50,35,Raised by email,149,resolved,Update address
+160,2025-05-14 19:17:39,1,Raised at a branch,65,resolved,Dispute a charge
+161,2024-02-16 08:53:17,136,Raised by email,117,resolved,Wire transfer
+162,2021-12-04 17:41:40,305,Raised by email,280,resolved,Card blocked
+163,2023-03-14 12:13:52,903,Raised in the app,113,resolved,Update address
+164,2022-02-25 16:28:55,629,Raised by email,55,resolved,Update address
+165,2023-05-19 08:14:51,822,Raised by email,38,closed,Update address
+166,2025-03-17 16:06:28,114,Customer called in,51,resolved,Online banking login
+167,2021-06-13 06:58:07,272,Raised in the app,82,closed,Card blocked
+168,2022-09-23 17:54:53,48,Raised in the app,271,resolved,Update address
+169,2021-12-13 13:29:03,29,Raised by email,225,resolved,Update address
+170,2023-01-30 14:43:11,78,Raised in the app,244,resolved,Card blocked
+171,2023-10-10 10:51:51,612,Raised at a branch,248,resolved,Loan question
+172,2021-01-21 11:59:32,879,Raised in the app,70,resolved,Update address
+173,2025-06-09 11:41:27,30,Raised by email,238,resolved,Update address
+174,2023-03-02 09:37:26,10,Raised by email,54,closed,Card blocked
+175,2024-08-26 11:36:56,281,Raised in the app,69,resolved,Online banking login
+176,2025-09-25 09:51:25,206,Raised by email,108,resolved,Wire transfer
+177,2023-02-18 16:14:20,446,Raised at a branch,214,resolved,Loan question
+178,2021-12-06 11:57:06,748,Customer called in,21,resolved,Wire transfer
+179,2022-05-20 09:27:30,94,Raised at a branch,100,resolved,Dispute a charge
+180,2022-11-06 16:26:59,425,Customer called in,193,resolved,Update address
+181,2023-05-11 15:59:06,385,Raised by email,88,resolved,Online banking login
+182,2025-09-02 13:18:14,1199,Raised in the app,189,closed,Loan question
+183,2023-11-27 16:05:32,678,Raised by email,243,resolved,Card blocked
+184,2021-12-05 17:54:13,389,Raised in the app,267,resolved,Online banking login
+185,2022-08-11 15:52:47,1084,Raised by email,52,resolved,Online banking login
+186,2023-01-14 16:50:09,677,Raised by email,156,resolved,Update address
+187,2023-07-05 09:47:24,111,Raised at a branch,221,resolved,Wire transfer
+188,2024-06-25 12:24:47,188,Customer called in,160,closed,Online banking login
+189,2025-02-27 08:22:24,142,Raised in the app,285,closed,Card blocked
+190,2024-09-16 16:17:48,692,Raised in the app,143,resolved,Card blocked
+191,2022-12-28 14:20:16,198,Raised at a branch,167,resolved,Wire transfer
+192,2022-12-16 08:32:30,870,Raised in the app,37,resolved,Dispute a charge
+193,2024-03-27 09:12:26,1022,Raised at a branch,197,resolved,Wire transfer
+194,2023-05-24 13:16:09,966,Customer called in,88,resolved,Dispute a charge
+195,2021-03-27 15:53:22,863,Raised in the app,113,resolved,Online banking login
+196,2023-08-20 09:23:02,936,Raised at a branch,173,resolved,Loan question
+197,2024-01-14 11:52:33,275,Raised at a branch,282,resolved,Wire transfer
+198,2022-12-17 15:55:59,100,Raised in the app,133,closed,Online banking login
+199,2022-12-08 14:14:45,294,Raised in the app,137,resolved,Dispute a charge
+200,2023-07-10 16:14:07,43,Raised by email,11,resolved,Wire transfer
+201,2023-04-22 10:16:37,1115,Raised at a branch,126,resolved,Dispute a charge
+202,2021-08-13 17:44:34,29,Raised at a branch,19,resolved,Update address
+203,2021-12-29 15:53:52,321,Raised by email,7,resolved,Wire transfer
+204,2022-11-24 11:30:55,604,Raised in the app,160,resolved,Loan question
+205,2023-10-15 13:34:57,94,Raised at a branch,26,resolved,Update address
+206,2022-09-12 07:18:36,965,Raised in the app,28,closed,Wire transfer
+207,2022-04-16 16:47:48,56,Raised by email,185,resolved,Update address
+208,2021-01-20 13:06:28,925,Raised in the app,278,closed,Wire transfer
+209,2021-12-22 14:14:00,606,Raised in the app,115,resolved,Card blocked
+210,2023-07-07 18:54:18,11,Raised in the app,182,resolved,Wire transfer
+211,2024-04-22 16:51:42,549,Customer called in,192,resolved,Update address
+212,2021-05-17 16:06:48,36,Raised in the app,215,resolved,Online banking login
+213,2022-03-10 06:03:27,6,Raised in the app,46,closed,Card blocked
+214,2022-09-04 10:39:22,36,Raised by email,154,resolved,Loan question
+215,2024-10-22 13:21:12,142,Raised in the app,257,resolved,Dispute a charge
+216,2022-04-06 09:52:12,582,Raised at a branch,155,resolved,Loan question
+217,2024-10-26 17:46:19,18,Raised at a branch,233,resolved,Online banking login
+218,2025-08-31 09:17:17,1134,Raised in the app,93,resolved,Loan question
+219,2021-09-24 19:50:32,759,Raised in the app,197,closed,Card blocked
+220,2025-10-04 11:23:05,60,Customer called in,161,resolved,Wire transfer
+221,2024-11-29 10:12:23,914,Customer called in,227,closed,Loan question
+222,2021-04-06 13:46:56,474,Raised in the app,212,resolved,Loan question
+223,2023-02-26 12:32:26,659,Customer called in,168,resolved,Online banking login
+224,2024-05-17 15:14:02,538,Raised in the app,124,resolved,Update address
+225,2023-04-26 15:12:30,1,Customer called in,180,resolved,Update address
+226,2024-03-18 12:04:56,814,Customer called in,222,resolved,Card blocked
+227,2021-01-08 15:02:14,964,Raised by email,108,resolved,Update address
+228,2022-07-23 20:58:58,395,Customer called in,120,resolved,Wire transfer
+229,2021-10-23 17:05:40,137,Raised at a branch,202,resolved,Dispute a charge
+230,2024-06-27 12:21:13,1082,Raised in the app,10,resolved,Update address
+231,2024-02-16 10:45:48,325,Raised in the app,224,resolved,Online banking login
+232,2023-06-07 09:42:32,53,Raised in the app,22,resolved,Dispute a charge
+233,2022-03-14 12:27:52,7,Raised by email,219,resolved,Card blocked
+234,2023-05-06 14:37:57,895,Customer called in,281,resolved,Card blocked
+235,2021-06-17 15:34:15,248,Raised in the app,22,resolved,Wire transfer
+236,2022-06-17 13:57:22,842,Raised at a branch,198,resolved,Update address
+237,2023-07-26 18:50:02,1092,Customer called in,6,resolved,Card blocked
+238,2025-10-11 10:45:36,822,Customer called in,163,resolved,Dispute a charge
+239,2024-06-17 17:53:44,498,Raised at a branch,81,resolved,Online banking login
+240,2021-05-11 15:25:14,31,Raised by email,143,closed,Online banking login
+241,2021-04-03 11:41:54,399,Customer called in,35,resolved,Card blocked
+242,2022-05-24 09:40:04,712,Raised by email,277,resolved,Loan question
+243,2025-05-17 14:06:04,657,Raised at a branch,48,resolved,Card blocked
+244,2022-08-31 23:59:59,239,Raised at a branch,36,resolved,Online banking login
+245,2024-06-11 12:26:43,841,Raised in the app,228,closed,Wire transfer
+246,2022-04-17 08:17:23,118,Customer called in,63,resolved,Card blocked
+247,2021-06-12 10:59:15,244,Raised at a branch,180,resolved,Card blocked
+248,2021-05-03 09:30:25,698,Customer called in,275,closed,Wire transfer
+249,2021-12-05 15:27:43,882,Raised at a branch,278,resolved,Wire transfer
+250,2021-11-11 15:40:20,67,Customer called in,60,resolved,Online banking login
+251,2024-03-24 12:06:02,954,Raised by email,277,resolved,Update address
+252,2022-05-30 15:10:36,1127,Raised at a branch,281,closed,Card blocked
+253,2022-10-31 12:32:00,847,Raised by email,79,closed,Wire transfer
+254,2021-02-28 17:33:31,633,Raised in the app,83,resolved,Dispute a charge
+255,2022-11-29 17:24:25,1101,Raised in the app,162,resolved,Loan question
+256,2024-01-05 06:37:04,866,Raised by email,161,resolved,Wire transfer
+257,2021-10-31 22:37:50,400,Raised in the app,142,resolved,Online banking login
+258,2023-04-05 13:04:59,247,Raised in the app,38,resolved,Update address
+259,2021-02-18 14:35:15,272,Raised by email,254,resolved,Update address
+260,2021-06-11 22:51:20,539,Customer called in,109,closed,Dispute a charge
+261,2022-03-07 15:34:09,639,Raised by email,213,resolved,Dispute a charge
+262,2024-02-27 10:05:53,165,Raised in the app,299,resolved,Loan question
+263,2021-02-09 11:18:20,847,Raised by email,214,resolved,Update address
+264,2025-12-02 11:38:09,1014,Customer called in,41,closed,Wire transfer
+265,2023-05-13 18:05:07,736,Raised by email,258,resolved,Wire transfer
+266,2025-01-15 10:20:53,353,Raised by email,135,resolved,Dispute a charge
+267,2025-03-02 14:54:15,679,Raised at a branch,172,resolved,Update address
+268,2023-04-24 18:08:12,465,Customer called in,171,resolved,Card blocked
+269,2022-11-20 19:29:00,13,Raised in the app,117,resolved,Wire transfer
+270,2022-06-17 16:00:00,71,Raised in the app,185,closed,Loan question
+271,2023-02-27 11:53:55,672,Raised in the app,247,resolved,Card blocked
+272,2022-02-13 19:41:30,4,Customer called in,191,resolved,Loan question
+273,2021-12-25 15:34:52,1172,Raised at a branch,227,resolved,Wire transfer
+274,2025-05-27 19:39:54,90,Customer called in,62,resolved,Loan question
+275,2023-10-16 11:04:56,920,Raised in the app,95,resolved,Card blocked
+276,2025-01-15 13:37:57,447,Raised in the app,4,resolved,Wire transfer
+277,2023-02-18 12:03:25,702,Customer called in,205,resolved,Online banking login
+278,2023-07-03 09:10:25,865,Raised at a branch,267,closed,Wire transfer
+279,2023-04-07 16:11:22,869,Customer called in,164,resolved,Update address
+280,2021-01-08 09:58:35,453,Raised at a branch,148,resolved,Loan question
+281,2022-10-09 09:55:08,905,Raised by email,83,resolved,Card blocked
+282,2021-07-14 18:52:24,1,Raised at a branch,39,closed,Dispute a charge
+283,2021-08-31 13:39:07,631,Raised at a branch,163,resolved,Online banking login
+284,2025-12-22 17:32:59,24,Raised by email,107,resolved,Update address
+285,2023-02-14 20:12:04,365,Raised by email,92,resolved,Update address
+286,2024-03-20 13:26:02,20,Raised by email,156,resolved,Card blocked
+287,2025-05-10 21:34:16,75,Raised at a branch,1,resolved,Card blocked
+288,2025-04-13 00:16:54,132,Customer called in,150,resolved,Online banking login
+289,2025-03-16 14:44:01,618,Raised in the app,208,resolved,Wire transfer
+290,2022-09-08 09:56:44,763,Raised by email,225,resolved,Loan question
+291,2023-09-05 10:17:56,141,Raised by email,80,resolved,Dispute a charge
+292,2025-10-12 14:48:46,472,Customer called in,140,resolved,Wire transfer
+293,2022-04-29 06:35:42,869,Raised by email,295,resolved,Online banking login
+294,2022-05-19 04:53:40,233,Raised in the app,233,resolved,Update address
+295,2025-07-13 08:33:43,29,Raised in the app,48,resolved,Online banking login
+296,2021-09-21 09:08:54,2,Raised at a branch,111,resolved,Card blocked
+297,2024-10-20 09:17:57,22,Raised in the app,26,resolved,Update address
+298,2023-04-04 19:51:55,1196,Raised at a branch,158,resolved,Wire transfer
+299,2021-07-13 15:33:44,906,Raised at a branch,14,closed,Dispute a charge
+300,2023-07-30 14:06:18,243,Raised by email,51,resolved,Dispute a charge
+301,2021-01-11 08:12:59,190,Raised by email,258,closed,Loan question
+302,2025-03-28 18:45:49,1,Customer called in,152,resolved,Update address
+303,2022-02-06 14:18:31,225,Raised by email,37,closed,Online banking login
+304,2025-08-23 15:54:15,51,Raised at a branch,231,resolved,Update address
+305,2021-12-14 16:32:23,114,Raised by email,286,resolved,Online banking login
+306,2025-04-29 14:50:44,306,Raised by email,35,resolved,Card blocked
+307,2024-08-12 15:00:51,7,Raised at a branch,156,resolved,Dispute a charge
+308,2022-03-10 10:23:17,217,Raised at a branch,116,resolved,Wire transfer
+309,2021-11-17 14:59:36,628,Raised in the app,36,resolved,Card blocked
+310,2021-02-17 10:57:59,1,Raised by email,85,resolved,Dispute a charge
+311,2023-09-18 17:19:55,2,Raised at a branch,51,closed,Loan question
+312,2024-03-27 14:36:43,179,Raised at a branch,69,resolved,Loan question
+313,2024-08-06 16:49:52,264,Customer called in,129,closed,Wire transfer
+314,2024-12-03 21:09:54,799,Raised by email,202,resolved,Update address
+315,2025-06-03 16:18:27,677,Raised in the app,225,resolved,Card blocked
+316,2021-08-26 16:18:16,1020,Customer called in,215,resolved,Loan question
+317,2024-02-16 13:42:01,1170,Customer called in,40,resolved,Update address
+318,2025-08-20 11:10:08,584,Raised by email,121,closed,Update address
+319,2023-07-31 16:31:09,837,Raised by email,254,closed,Loan question
+320,2024-06-16 09:58:45,70,Raised in the app,104,resolved,Online banking login
+321,2023-10-23 10:32:36,3,Raised at a branch,18,resolved,Dispute a charge
+322,2025-04-24 08:40:38,185,Customer called in,78,resolved,Loan question
+323,2023-08-06 10:20:05,445,Customer called in,30,resolved,Update address
+324,2023-08-28 09:37:47,145,Raised at a branch,73,resolved,Dispute a charge
+325,2025-03-04 09:24:44,190,Customer called in,162,resolved,Loan question
+326,2021-04-11 13:11:23,1044,Raised by email,62,resolved,Loan question
+327,2024-06-14 17:51:20,350,Raised at a branch,146,resolved,Wire transfer
+328,2023-02-20 16:41:11,722,Raised at a branch,265,resolved,Wire transfer
+329,2024-07-21 18:01:50,237,Raised at a branch,74,resolved,Online banking login
+330,2022-08-18 12:22:07,750,Customer called in,226,resolved,Card blocked
+331,2025-11-04 16:12:31,1,Raised in the app,287,resolved,Wire transfer
+332,2021-08-10 14:09:48,146,Customer called in,292,resolved,Loan question
+333,2021-01-25 15:52:23,383,Raised at a branch,180,resolved,Wire transfer
+334,2021-11-11 12:38:44,288,Raised in the app,21,resolved,Card blocked
+335,2022-06-26 11:26:46,289,Customer called in,279,resolved,Update address
+336,2022-11-15 15:16:07,208,Raised in the app,18,resolved,Dispute a charge
+337,2024-06-08 08:31:28,365,Raised at a branch,199,closed,Update address
+338,2022-06-21 16:58:51,72,Raised at a branch,294,resolved,Wire transfer
+339,2022-06-22 13:33:42,151,Raised by email,98,resolved,Online banking login
+340,2022-07-20 08:25:17,1182,Raised at a branch,235,resolved,Wire transfer
+341,2022-02-12 09:30:53,57,Raised at a branch,163,closed,Online banking login
+342,2021-07-06 22:18:58,367,Customer called in,43,resolved,Online banking login
+343,2024-04-03 17:20:09,828,Raised by email,76,resolved,Dispute a charge
+344,2023-06-14 15:43:08,454,Raised by email,10,resolved,Card blocked
+345,2023-04-08 11:01:29,3,Raised at a branch,4,resolved,Loan question
+346,2025-11-19 15:08:53,187,Raised at a branch,96,resolved,Card blocked
+347,2023-09-26 12:01:45,1090,Raised in the app,64,closed,Dispute a charge
+348,2021-03-20 09:41:53,462,Raised in the app,6,closed,Card blocked
+349,2022-07-17 15:10:36,6,Customer called in,247,resolved,Loan question
+350,2024-02-07 15:44:25,9,Raised in the app,73,resolved,Dispute a charge
+351,2022-09-28 13:25:11,310,Raised by email,289,closed,Wire transfer
+352,2025-01-22 12:39:58,544,Raised at a branch,82,resolved,Update address
+353,2023-03-02 13:56:57,56,Raised in the app,275,resolved,Loan question
+354,2024-04-16 10:56:39,84,Raised at a branch,56,resolved,Card blocked
+355,2021-03-05 15:46:20,2,Raised in the app,208,resolved,Wire transfer
+356,2021-08-29 09:02:56,129,Raised at a branch,298,closed,Update address
+357,2024-05-20 13:19:36,1147,Raised at a branch,196,resolved,Update address
+358,2023-03-15 15:36:04,45,Raised at a branch,161,resolved,Wire transfer
+359,2022-03-05 12:52:29,167,Raised by email,17,closed,Dispute a charge
+360,2023-09-25 13:12:25,416,Customer called in,220,resolved,Wire transfer
+361,2023-05-10 14:20:19,251,Raised at a branch,274,resolved,Wire transfer
+362,2021-06-26 13:36:44,339,Raised by email,142,closed,Wire transfer
+363,2024-06-26 17:59:46,981,Raised at a branch,205,resolved,Wire transfer
+364,2023-02-12 15:33:18,894,Raised by email,277,resolved,Online banking login
+365,2024-04-21 17:46:37,38,Customer called in,293,closed,Dispute a charge
+366,2025-09-26 12:06:45,708,Customer called in,54,resolved,Card blocked
+367,2022-12-10 13:53:53,471,Customer called in,242,resolved,Card blocked
+368,2023-04-10 09:26:26,102,Raised in the app,76,closed,Dispute a charge
+369,2025-01-18 15:55:13,1032,Raised in the app,56,resolved,Update address
+370,2021-10-25 19:03:07,743,Raised by email,264,resolved,Online banking login
+371,2024-05-29 17:24:55,4,Raised at a branch,205,resolved,Loan question
+372,2021-11-18 11:30:30,323,Raised in the app,217,closed,Update address
+373,2021-06-21 14:11:41,235,Customer called in,111,resolved,Card blocked
+374,2022-08-12 17:38:33,214,Raised in the app,78,resolved,Dispute a charge
+375,2022-02-11 15:33:15,1,Customer called in,120,resolved,Online banking login
+376,2024-03-15 22:55:04,49,Raised at a branch,209,resolved,Card blocked
+377,2025-09-02 15:18:40,38,Customer called in,82,resolved,Wire transfer
+378,2025-05-12 16:09:12,447,Raised at a branch,224,resolved,Loan question
+379,2021-02-19 09:10:30,515,Raised by email,299,resolved,Wire transfer
+380,2024-12-20 12:35:29,892,Raised at a branch,273,resolved,Dispute a charge
+381,2023-03-16 10:44:19,42,Raised at a branch,201,resolved,Update address
+382,2021-12-03 11:25:02,1,Raised in the app,278,closed,Dispute a charge
+383,2023-06-15 17:58:56,427,Raised by email,257,closed,Loan question
+384,2025-05-06 11:52:42,1124,Raised at a branch,22,resolved,Card blocked
+385,2024-12-23 09:39:39,151,Raised at a branch,248,resolved,Card blocked
+386,2023-12-21 09:19:32,577,Raised in the app,145,resolved,Dispute a charge
+387,2024-07-07 17:51:55,504,Raised by email,275,resolved,Card blocked
+388,2021-07-05 11:03:13,837,Raised by email,115,resolved,Wire transfer
+389,2024-12-28 11:33:14,8,Raised in the app,299,closed,Wire transfer
+390,2025-05-22 10:37:55,1048,Raised at a branch,152,resolved,Online banking login
+391,2023-08-27 16:22:49,2,Raised by email,281,resolved,Update address
+392,2022-10-20 13:27:54,91,Raised in the app,237,resolved,Wire transfer
+393,2021-05-22 14:32:02,102,Raised by email,82,closed,Dispute a charge
+394,2024-07-04 10:08:23,681,Raised at a branch,18,resolved,Loan question
+395,2023-11-09 09:15:28,90,Raised by email,176,resolved,Card blocked
+396,2025-08-07 15:03:41,468,Raised in the app,233,resolved,Wire transfer
+397,2022-09-14 12:18:01,48,Customer called in,103,resolved,Dispute a charge
+398,2022-10-08 11:19:29,392,Raised at a branch,32,resolved,Online banking login
+399,2021-12-05 20:22:39,99,Raised in the app,243,resolved,Dispute a charge
+400,2025-04-29 09:16:59,362,Raised at a branch,203,resolved,Dispute a charge
+401,2024-11-17 13:09:43,11,Raised in the app,15,resolved,Update address
+402,2024-06-10 11:03:04,1042,Customer called in,298,resolved,Card blocked
+403,2024-07-03 16:07:52,37,Raised by email,251,resolved,Loan question
+404,2025-03-25 09:35:36,618,Raised in the app,8,resolved,Update address
+405,2023-10-22 15:21:58,759,Customer called in,170,resolved,Online banking login
+406,2023-12-01 12:34:16,967,Raised by email,195,resolved,Dispute a charge
+407,2021-05-14 11:38:48,72,Raised by email,191,resolved,Online banking login
+408,2024-05-31 14:52:43,785,Raised at a branch,201,resolved,Dispute a charge
+409,2023-04-11 17:08:54,1,Raised in the app,115,resolved,Loan question
+410,2025-09-01 17:16:50,453,Raised at a branch,143,resolved,Wire transfer
+411,2024-03-30 12:39:32,107,Customer called in,103,resolved,Loan question
+412,2022-11-01 13:46:40,683,Raised at a branch,98,closed,Online banking login
+413,2024-07-30 11:02:47,1157,Raised in the app,51,closed,Online banking login
+414,2025-06-22 13:37:52,695,Raised at a branch,174,resolved,Wire transfer
+415,2025-11-12 15:23:46,246,Raised at a branch,236,resolved,Loan question
+416,2021-10-01 14:15:52,832,Raised in the app,109,closed,Online banking login
+417,2022-03-26 15:09:26,748,Customer called in,184,resolved,Card blocked
+418,2022-03-09 10:07:31,66,Raised in the app,202,closed,Dispute a charge
+419,2021-08-03 19:43:11,379,Customer called in,233,closed,Wire transfer
+420,2025-08-06 13:12:49,227,Raised at a branch,250,resolved,Wire transfer
+421,2021-01-07 13:05:55,1004,Customer called in,168,resolved,Dispute a charge
+422,2023-11-29 20:53:28,426,Raised in the app,266,resolved,Dispute a charge
+423,2022-07-22 17:51:55,1088,Customer called in,134,resolved,Update address
+424,2024-09-14 08:14:36,338,Raised in the app,116,resolved,Wire transfer
+425,2023-12-02 21:01:11,374,Raised in the app,137,resolved,Loan question
+426,2024-10-06 09:25:23,436,Raised by email,254,resolved,Loan question
+427,2025-01-19 17:37:33,244,Raised at a branch,173,resolved,Wire transfer
+428,2025-06-10 11:34:34,1055,Raised at a branch,128,resolved,Update address
+429,2023-05-12 07:02:29,1153,Raised by email,162,resolved,Card blocked
+430,2022-11-07 09:43:20,63,Raised by email,42,resolved,Update address
+431,2024-11-14 13:43:46,868,Raised in the app,248,resolved,Update address
+432,2025-03-26 09:05:07,801,Customer called in,93,closed,Update address
+433,2021-03-26 08:32:20,1186,Raised in the app,25,resolved,Loan question
+434,2022-11-13 11:10:33,192,Customer called in,258,resolved,Online banking login
+435,2023-08-01 08:36:51,1,Raised by email,77,resolved,Card blocked
+436,2022-08-30 14:12:58,48,Customer called in,58,resolved,Online banking login
+437,2023-07-10 11:11:56,1117,Raised in the app,169,resolved,Loan question
+438,2023-05-30 14:44:20,133,Raised in the app,183,resolved,Wire transfer
+439,2023-01-06 10:22:33,741,Raised in the app,291,resolved,Wire transfer
+440,2021-05-31 10:38:02,21,Raised at a branch,163,resolved,Update address
+441,2021-04-12 17:43:20,1017,Raised by email,252,resolved,Online banking login
+442,2025-08-02 14:51:48,270,Customer called in,245,resolved,Online banking login
+443,2025-11-04 13:46:15,22,Customer called in,210,resolved,Card blocked
+444,2022-11-17 09:58:11,494,Raised at a branch,160,closed,Card blocked
+445,2022-08-07 14:56:40,2,Raised by email,96,resolved,Dispute a charge
+446,2025-04-01 09:00:39,993,Raised by email,1,closed,Online banking login
+447,2024-02-13 09:22:43,108,Raised at a branch,240,resolved,Update address
+448,2025-03-06 17:44:23,836,Raised by email,117,resolved,Wire transfer
+449,2023-04-15 14:40:32,288,Raised at a branch,295,resolved,Dispute a charge
+450,2025-09-03 13:42:42,98,Raised at a branch,12,closed,Online banking login
+451,2025-12-28 18:50:36,334,Customer called in,76,resolved,Loan question
+452,2021-09-28 13:51:13,123,Raised by email,201,closed,Wire transfer
+453,2023-06-08 10:25:18,1062,Raised in the app,282,closed,Update address
+454,2022-03-06 10:13:46,163,Customer called in,49,resolved,Online banking login
+455,2022-12-28 18:04:21,145,Raised by email,32,resolved,Wire transfer
+456,2021-06-15 11:50:37,350,Raised in the app,65,resolved,Wire transfer
+457,2024-06-29 15:45:38,55,Raised in the app,271,resolved,Dispute a charge
+458,2025-03-07 15:12:33,196,Customer called in,250,resolved,Wire transfer
+459,2022-05-17 16:57:14,580,Raised by email,120,resolved,Card blocked
+460,2025-09-12 10:46:38,739,Raised at a branch,169,closed,Dispute a charge
+461,2025-10-11 11:01:45,252,Raised by email,166,resolved,Wire transfer
+462,2022-11-22 14:56:25,520,Raised by email,66,resolved,Loan question
+463,2025-10-28 10:36:40,15,Customer called in,225,resolved,Card blocked
+464,2024-11-29 08:58:46,97,Customer called in,143,resolved,Loan question
+465,2022-04-08 11:11:59,687,Raised at a branch,241,resolved,Online banking login
+466,2023-05-12 16:33:27,74,Raised at a branch,162,resolved,Card blocked
+467,2024-01-10 15:11:11,232,Raised by email,249,resolved,Dispute a charge
+468,2024-11-28 14:54:58,295,Customer called in,33,resolved,Update address
+469,2021-05-24 11:25:10,198,Customer called in,193,resolved,Update address
+470,2024-07-28 11:47:34,386,Customer called in,248,closed,Loan question
+471,2022-07-18 17:04:34,11,Raised by email,26,resolved,Update address
+472,2024-01-30 12:08:55,89,Raised by email,115,resolved,Loan question
+473,2023-12-06 06:19:26,519,Raised by email,150,closed,Update address
+474,2022-08-06 14:32:07,573,Raised at a branch,274,resolved,Update address
+475,2025-03-05 13:47:54,396,Raised at a branch,61,resolved,Loan question
+476,2022-05-04 11:10:25,429,Customer called in,222,resolved,Online banking login
+477,2022-01-25 08:08:38,28,Raised in the app,25,resolved,Update address
+478,2024-09-13 13:29:49,941,Customer called in,103,resolved,Loan question
+479,2025-06-06 12:56:23,866,Raised by email,195,resolved,Wire transfer
+480,2024-01-14 15:49:50,298,Raised by email,43,resolved,Wire transfer
+481,2021-07-20 14:25:32,8,Raised at a branch,246,resolved,Wire transfer
+482,2023-07-08 12:33:18,292,Customer called in,120,resolved,Update address
+483,2024-12-25 08:58:39,515,Raised by email,178,closed,Card blocked
+484,2024-09-15 09:06:55,168,Raised by email,197,resolved,Loan question
+485,2021-02-02 13:28:49,113,Customer called in,114,resolved,Wire transfer
+486,2022-12-28 14:01:12,34,Raised at a branch,159,resolved,Update address
+487,2023-01-24 19:25:12,32,Raised at a branch,189,closed,Card blocked
+488,2023-02-28 15:32:33,107,Raised in the app,84,resolved,Loan question
+489,2023-11-07 10:27:49,581,Customer called in,132,resolved,Card blocked
+490,2021-10-08 10:54:10,156,Raised at a branch,74,closed,Wire transfer
+491,2024-10-08 13:48:03,384,Raised in the app,240,resolved,Online banking login
+492,2021-10-04 12:05:15,735,Customer called in,101,resolved,Update address
+493,2022-07-17 15:17:12,45,Raised at a branch,269,resolved,Card blocked
+494,2023-03-19 10:03:57,20,Raised in the app,258,closed,Online banking login
+495,2025-03-03 16:21:37,456,Raised in the app,95,resolved,Update address
+496,2025-09-29 11:02:59,92,Customer called in,188,resolved,Loan question
+497,2022-04-07 09:17:31,28,Raised at a branch,100,resolved,Update address
+498,2022-09-22 18:07:21,71,Raised in the app,149,resolved,Online banking login
+499,2022-11-28 10:53:14,696,Raised at a branch,183,resolved,Update address
+500,2021-02-28 16:17:41,59,Customer called in,49,closed,Wire transfer
+501,2025-04-10 11:07:34,549,Raised at a branch,245,closed,Update address
+502,2024-07-04 08:56:40,60,Raised in the app,85,resolved,Card blocked
+503,2021-05-26 13:01:38,1188,Customer called in,161,resolved,Card blocked
+504,2021-07-12 07:19:40,362,Raised in the app,252,resolved,Loan question
+505,2024-12-23 15:52:51,277,Raised in the app,196,resolved,Loan question
+506,2024-06-13 07:48:57,787,Raised at a branch,151,closed,Dispute a charge
+507,2025-02-13 13:46:05,373,Raised at a branch,48,closed,Update address
+508,2023-05-17 22:49:21,513,Raised by email,190,closed,Update address
+509,2024-12-01 10:20:50,1060,Raised by email,58,resolved,Wire transfer
+510,2021-08-26 10:09:09,29,Raised at a branch,67,resolved,Dispute a charge
+511,2021-02-17 16:51:26,552,Raised at a branch,191,resolved,Loan question
+512,2024-01-25 12:15:05,899,Raised in the app,270,resolved,Online banking login
+513,2023-10-07 09:53:27,944,Raised at a branch,50,resolved,Update address
+514,2022-03-31 14:12:33,15,Raised in the app,25,resolved,Online banking login
+515,2022-09-27 16:13:18,670,Customer called in,161,closed,Card blocked
+516,2023-11-29 14:59:47,351,Raised at a branch,146,closed,Loan question
+517,2024-12-28 07:47:37,813,Raised at a branch,248,resolved,Card blocked
+518,2021-09-13 09:37:23,207,Customer called in,213,resolved,Loan question
+519,2022-11-23 19:46:16,1021,Customer called in,140,resolved,Online banking login
+520,2025-03-25 10:38:55,438,Raised at a branch,274,resolved,Update address
+521,2022-09-02 10:49:44,176,Raised by email,112,closed,Card blocked
+522,2023-06-28 15:18:33,375,Raised by email,235,closed,Loan question
+523,2025-05-27 12:50:59,670,Customer called in,162,resolved,Online banking login
+524,2023-08-02 10:52:44,83,Raised by email,153,resolved,Wire transfer
+525,2023-12-15 14:00:29,503,Raised in the app,103,resolved,Wire transfer
+526,2024-09-11 15:28:08,807,Raised in the app,184,resolved,Card blocked
+527,2021-05-25 08:29:48,539,Raised by email,23,resolved,Card blocked
+528,2022-06-13 15:10:17,140,Customer called in,100,closed,Wire transfer
+529,2022-06-09 15:52:26,861,Raised in the app,153,resolved,Update address
+530,2021-12-01 14:26:41,117,Raised in the app,32,resolved,Loan question
+531,2024-06-26 09:08:23,28,Raised at a branch,295,closed,Update address
+532,2025-05-25 09:10:56,825,Customer called in,31,resolved,Online banking login
+533,2024-11-18 10:49:19,35,Raised by email,23,resolved,Wire transfer
+534,2025-06-01 15:48:01,364,Raised in the app,79,resolved,Card blocked
+535,2021-01-07 14:30:30,12,Raised by email,255,resolved,Wire transfer
+536,2024-03-23 09:54:39,255,Raised in the app,121,resolved,Wire transfer
+537,2021-04-22 15:08:09,155,Customer called in,26,resolved,Online banking login
+538,2021-11-21 10:12:06,281,Raised at a branch,210,resolved,Dispute a charge
+539,2025-05-22 06:47:47,715,Customer called in,238,resolved,Wire transfer
+540,2022-02-04 11:53:45,799,Raised at a branch,241,resolved,Loan question
+541,2025-05-07 15:38:43,25,Customer called in,115,closed,Update address
+542,2021-07-13 10:26:46,763,Customer called in,122,closed,Update address
+543,2023-01-18 19:29:39,1,Raised in the app,16,closed,Online banking login
+544,2024-05-08 15:02:36,1051,Customer called in,124,resolved,Card blocked
+545,2021-03-30 09:45:36,108,Raised at a branch,281,resolved,Online banking login
+546,2023-05-31 15:14:36,566,Raised in the app,51,resolved,Dispute a charge
+547,2022-04-17 17:59:22,310,Customer called in,124,resolved,Card blocked
+548,2025-06-12 15:16:08,212,Raised in the app,89,resolved,Card blocked
+549,2024-11-16 10:46:41,1088,Raised at a branch,176,resolved,Card blocked
+550,2025-07-14 14:37:49,5,Raised in the app,151,resolved,Dispute a charge
+551,2021-06-19 08:36:23,873,Raised at a branch,17,closed,Dispute a charge
+552,2022-06-18 11:40:22,8,Customer called in,29,resolved,Card blocked
+553,2023-10-16 11:37:55,355,Customer called in,138,resolved,Online banking login
+554,2022-05-21 00:50:45,1,Customer called in,105,resolved,Dispute a charge
+555,2021-09-23 11:39:57,11,Raised in the app,28,resolved,Loan question
+556,2021-03-04 17:25:41,572,Raised by email,188,resolved,Card blocked
+557,2023-05-07 14:44:14,1104,Raised in the app,257,resolved,Dispute a charge
+558,2023-10-11 10:09:26,7,Raised at a branch,148,closed,Update address
+559,2022-11-21 17:26:17,14,Raised at a branch,207,resolved,Update address
+560,2021-04-18 10:11:34,706,Raised in the app,252,closed,Online banking login
+561,2022-10-17 10:52:14,54,Raised at a branch,10,resolved,Online banking login
+562,2021-06-29 09:22:28,243,Customer called in,92,resolved,Card blocked
+563,2022-06-13 06:10:08,17,Raised in the app,199,resolved,Online banking login
+564,2024-05-08 10:19:27,48,Raised in the app,295,resolved,Update address
+565,2021-02-03 13:05:54,499,Raised at a branch,240,closed,Wire transfer
+566,2022-08-31 08:04:12,10,Customer called in,265,resolved,Card blocked
+567,2021-03-11 11:31:00,548,Customer called in,136,resolved,Dispute a charge
+568,2021-08-16 11:32:02,804,Raised at a branch,191,resolved,Online banking login
+569,2023-06-02 15:06:57,932,Raised at a branch,115,resolved,Update address
+570,2024-08-04 20:48:55,801,Raised by email,272,resolved,Online banking login
+571,2021-12-17 15:45:31,1154,Raised in the app,289,resolved,Wire transfer
+572,2024-06-22 10:06:15,36,Raised at a branch,51,resolved,Update address
+573,2025-08-04 10:12:41,585,Raised at a branch,114,resolved,Online banking login
+574,2023-07-27 16:15:45,359,Raised at a branch,290,resolved,Wire transfer
+575,2025-01-15 08:00:47,210,Raised in the app,79,resolved,Online banking login
+576,2024-02-17 14:54:01,1036,Raised at a branch,166,closed,Card blocked
+577,2025-03-31 13:58:23,454,Raised by email,1,closed,Online banking login
+578,2025-12-25 11:37:01,111,Raised at a branch,91,resolved,Dispute a charge
+579,2022-09-05 08:33:31,202,Raised in the app,84,resolved,Card blocked
+580,2023-08-12 10:51:21,1190,Raised in the app,95,resolved,Card blocked
+581,2021-04-25 10:48:29,1152,Raised at a branch,182,resolved,Wire transfer
+582,2023-02-02 09:40:53,698,Raised in the app,25,closed,Loan question
+583,2024-02-05 12:19:38,797,Customer called in,226,resolved,Loan question
+584,2025-04-09 08:41:49,98,Raised by email,144,resolved,Wire transfer
+585,2025-09-01 14:50:12,659,Customer called in,183,resolved,Loan question
+586,2021-01-23 14:30:25,237,Raised in the app,35,resolved,Loan question
+587,2023-08-08 09:45:17,268,Raised in the app,89,closed,Update address
+588,2022-02-17 15:35:17,1,Raised in the app,162,resolved,Card blocked
+589,2021-10-21 09:56:15,268,Raised in the app,4,resolved,Loan question
+590,2024-04-07 17:07:39,389,Raised by email,141,resolved,Dispute a charge
+591,2025-02-16 18:20:06,412,Customer called in,300,resolved,Online banking login
+592,2021-10-18 12:04:13,61,Raised by email,55,closed,Loan question
+593,2023-08-16 11:22:33,779,Raised in the app,163,resolved,Wire transfer
+594,2022-10-31 10:41:15,995,Raised by email,38,resolved,Loan question
+595,2023-04-30 13:25:02,123,Raised by email,27,resolved,Wire transfer
+596,2023-08-11 13:45:36,715,Raised by email,132,resolved,Online banking login
+597,2021-12-28 09:36:44,312,Raised at a branch,61,resolved,Card blocked
+598,2023-07-02 14:02:33,5,Raised by email,71,resolved,Update address
+599,2023-04-23 21:01:09,463,Raised in the app,266,resolved,Dispute a charge
+600,2021-03-25 13:55:18,397,Raised at a branch,273,resolved,Online banking login

@@ -1,0 +1,61 @@
+id,branch_id,cash_balance,location_description,status
+1,8,88826.31,Branch lobby,in_service
+2,11,103695.54,Drive-through,out_of_service
+3,18,12048.32,Shopping mall,in_service
+4,9,7944.78,Train station,in_service
+5,5,118735.78,Supermarket,in_service
+6,2,118029.34,Train station,in_service
+7,19,64030.96,Drive-through,in_service
+8,5,40719.26,Shopping mall,in_service
+9,12,58183.52,Shopping mall,in_service
+10,14,53942.08,Airport,in_service
+11,10,82320.35,Airport,in_service
+12,3,86608.28,Supermarket,in_service
+13,8,48853.04,Airport,in_service
+14,17,20795.48,Shopping mall,in_service
+15,17,97043.18,Drive-through,in_service
+16,18,15308.21,Supermarket,in_service
+17,11,48609.52,Airport,in_service
+18,13,89212.13,Train station,in_service
+19,7,17157.15,Train station,in_service
+20,20,80247.82,Branch lobby,in_service
+21,13,56739.63,Shopping mall,in_service
+22,19,60024.63,Airport,in_service
+23,8,47290.71,Supermarket,in_service
+24,17,48077.81,Train station,in_service
+25,16,108235.28,Shopping mall,in_service
+26,6,116082.69,Supermarket,in_service
+27,9,11373.77,Train station,in_service
+28,8,38029.55,Train station,in_service
+29,13,119481.59,Drive-through,in_service
+30,5,83629.75,Airport,in_service
+31,5,36615.70,Shopping mall,in_service
+32,10,114065.11,Train station,in_service
+33,10,18531.06,Shopping mall,in_service
+34,11,79208.01,Branch lobby,in_service
+35,1,70600.57,Train station,in_service
+36,16,89096.52,Train station,in_service
+37,8,88498.38,Train station,in_service
+38,5,116546.33,Drive-through,out_of_service
+39,6,115426.28,Airport,in_service
+40,18,29082.88,Drive-through,in_service
+41,12,29290.77,Airport,in_service
+42,15,41830.34,Drive-through,in_service
+43,15,79835.19,Train station,in_service
+44,13,55127.25,Shopping mall,in_service
+45,9,67730.08,Train station,in_service
+46,2,108870.17,Drive-through,in_service
+47,6,111040.46,Drive-through,in_service
+48,19,54123.59,Drive-through,in_service
+49,2,88851.27,Branch lobby,in_service
+50,5,8227.66,Airport,in_service
+51,16,35180.34,Train station,in_service
+52,16,99322.71,Branch lobby,in_service
+53,9,105898.41,Train station,in_service
+54,5,61608.60,Supermarket,in_service
+55,20,104768.69,Airport,in_service
+56,15,72387.69,Shopping mall,in_service
+57,11,89788.06,Train station,in_service
+58,17,60518.44,Branch lobby,in_service
+59,4,21241.95,Shopping mall,in_service
+60,11,40653.76,Drive-through,in_service

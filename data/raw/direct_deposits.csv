@@ -1,0 +1,601 @@
+id,account_id,active_status,amount,employer_name,frequency
+1,1772,stopped,2978.87,Hagenes - Rolfson,monthly
+2,1322,active,4624.09,"Swaniawski, Krajcik and Hegmann",weekly
+3,531,active,6023.43,"McGlynn, Kulas and Blick-Goodwin",biweekly
+4,1659,stopped,8813.69,Sporer - Runolfsdottir,biweekly
+5,221,active,4686.86,Kemmer Group,monthly
+6,466,active,3482.28,Lynch-Runolfsson - Streich,monthly
+7,766,active,821.27,Kunze LLC,biweekly
+8,641,active,993.83,Gleichner Group,biweekly
+9,442,active,9166.90,Conn - Miller,biweekly
+10,575,active,4395.55,Senger - Upton,biweekly
+11,831,active,2329.31,Beatty - Smith,monthly
+12,67,active,2252.22,Ebert - Kling,biweekly
+13,1802,active,1507.92,Beier and Sons,monthly
+14,1785,active,7824.04,O'Hara Inc,biweekly
+15,1129,active,5884.19,Hilpert - Nikolaus,monthly
+16,205,active,9396.83,"Nitzsche, Beer and O'Connell",weekly
+17,1548,active,7774.11,Dietrich Group,monthly
+18,685,active,10240.14,Hoppe - Fay,biweekly
+19,854,active,1166.03,Luettgen and Sons,monthly
+20,1675,stopped,1398.92,Ziemann - Bednar,monthly
+21,1567,stopped,10997.52,"Klein, Corkery and Moen",monthly
+22,1734,active,1192.76,"Klocko, King and Carroll",biweekly
+23,1979,stopped,5948.16,"Gislason, Walker and Gorczany-Wintheiser",monthly
+24,786,active,9516.56,Torphy - Kshlerin,monthly
+25,674,active,4306.15,Renner Group,monthly
+26,1741,stopped,1189.36,Sawayn and Sons,weekly
+27,1946,active,7896.30,"Jerde, Jacobs and Klein",monthly
+28,1899,active,808.05,"Ernser, Feeney and Kuhic",monthly
+29,556,active,1681.80,"Pouros, Larkin and Bernhard",monthly
+30,375,active,1077.48,Cassin Inc,biweekly
+31,1335,stopped,1462.99,Maggio and Sons,monthly
+32,291,stopped,1177.57,Heidenreich - Lindgren,monthly
+33,760,active,4367.72,Haag and Sons,biweekly
+34,342,active,9312.86,"Howe, Lang and Prohaska",weekly
+35,192,active,5494.63,Kovacek Inc,biweekly
+36,504,active,7655.09,Leannon - McKenzie,biweekly
+37,285,active,1216.14,"Cruickshank, Steuber and Reichel",monthly
+38,33,active,10644.39,Cormier Inc,biweekly
+39,940,stopped,1900.29,O'Keefe Group,monthly
+40,1945,active,4873.15,Feil - Beier,biweekly
+41,644,active,8602.70,Pfannerstill LLC,biweekly
+42,1021,active,6211.49,Bergstrom LLC,biweekly
+43,433,active,6308.75,"Will, Rosenbaum and Torp",biweekly
+44,1685,active,8591.97,"Nader, Waelchi and King",biweekly
+45,1317,active,3026.70,Daugherty LLC,weekly
+46,933,active,9237.08,Skiles - Balistreri,monthly
+47,1473,stopped,2762.63,Steuber - Hand,biweekly
+48,1881,active,2604.25,"Marvin, Powlowski and Heathcote",biweekly
+49,1863,active,11656.86,"Reichel, Dare-Johns and Powlowski",monthly
+50,302,active,10869.03,Hilll Inc,monthly
+51,521,active,5417.46,Harris LLC,biweekly
+52,1431,active,11292.20,"Romaguera, Williamson and Langworth",weekly
+53,719,active,2208.83,"Roberts, Nader and Wiegand",biweekly
+54,533,active,918.91,Feeney Inc,monthly
+55,124,active,7867.48,Klein Group,biweekly
+56,1011,active,5108.23,Maggio - Wisozk,monthly
+57,1259,active,10048.07,Mills - Moen,monthly
+58,1288,active,2679.91,Hayes-Bernier - Weimann,biweekly
+59,1556,active,806.69,McLaughlin - Wilderman,monthly
+60,1322,active,7176.29,Shields Group,monthly
+61,652,active,7318.99,Denesik - Crona,monthly
+62,1696,stopped,9642.14,Ruecker - Crooks,biweekly
+63,1459,active,10431.49,Wiegand and Sons,biweekly
+64,239,active,834.90,Kuphal and Sons,monthly
+65,597,active,5944.29,Stracke and Sons,biweekly
+66,1951,active,1742.48,Mohr Inc,monthly
+67,1447,active,10584.30,Reynolds Inc,monthly
+68,1371,active,801.91,"Tillman, Dare and Rosenbaum",biweekly
+69,202,active,3312.06,"Harber, Nikolaus and Kub",monthly
+70,1512,active,2002.61,Oberbrunner - Torphy,biweekly
+71,748,active,6659.10,"Ryan, Kunde and Runolfsson",monthly
+72,1624,stopped,8935.63,"Spencer, Beer and Watsica-Grimes",monthly
+73,1912,active,822.40,Kihn and Sons,biweekly
+74,992,active,3090.16,"Cronin, Mohr and Daugherty",monthly
+75,614,stopped,2216.51,"Turner, Dare and Heaney",monthly
+76,1710,active,1186.10,Jaskolski and Sons,biweekly
+77,1306,active,2690.34,Pacocha - Medhurst,monthly
+78,1077,stopped,831.91,Rau - Rolfson,monthly
+79,1776,stopped,11010.41,"Schuster, Heidenreich and Flatley",biweekly
+80,763,active,11980.52,Gleason - Russel,biweekly
+81,810,active,3236.06,"Erdman, Moen and Larkin",biweekly
+82,1919,stopped,871.87,Boyle - Lesch,monthly
+83,1644,active,4836.81,Fay Group,biweekly
+84,1028,active,822.30,"Hamill, Prohaska and Ruecker",biweekly
+85,1528,active,832.43,Stokes - Sporer,monthly
+86,1094,active,9317.40,Dooley Inc,biweekly
+87,830,active,9042.50,Fahey - Rice,monthly
+88,1655,active,6311.38,"Schumm, Hansen and Treutel",biweekly
+89,1384,active,2787.96,"Roberts, Walter and Runte",biweekly
+90,1392,active,9971.64,Rodriguez - Olson,monthly
+91,283,active,4393.14,Douglas LLC,monthly
+92,936,active,1209.61,Kreiger Inc,biweekly
+93,1531,active,9174.63,"Rice, Bayer and Champlin",biweekly
+94,873,active,800.69,Predovic - Schuster,biweekly
+95,868,stopped,3474.95,Brakus - Thiel,biweekly
+96,90,active,6765.92,Mitchell - Farrell,biweekly
+97,1056,active,1009.04,"Koelpin, Corwin and Homenick",biweekly
+98,1144,active,11723.50,Huel - Pollich,biweekly
+99,1802,active,5747.15,"Beer, Thiel and Zulauf",monthly
+100,758,active,7198.93,"Fritsch, Roob and Von",monthly
+101,768,active,10109.91,"Lehner, Johnston and Rau",monthly
+102,1981,active,1321.92,Kunde - Glover-Dach,monthly
+103,309,active,11522.84,Spencer and Sons,monthly
+104,1717,active,1137.73,"Casper, Kris and Von",biweekly
+105,1158,active,5068.84,Wilkinson LLC,weekly
+106,762,active,3852.61,Carroll Group,monthly
+107,52,active,1804.73,Runolfsson - Howell,monthly
+108,107,active,6353.75,Murazik - Stracke,biweekly
+109,701,active,998.39,Wyman Inc,monthly
+110,1302,active,1023.37,Olson - Ullrich-Farrell,biweekly
+111,1509,stopped,4127.98,Legros - Watsica,biweekly
+112,1799,active,8092.42,"Emmerich, Moen and Little",biweekly
+113,254,active,2356.69,"Treutel, Ortiz and Parker",biweekly
+114,1745,active,10377.11,"Johns, Breitenberg-Kertzmann and Ratke",weekly
+115,41,active,5583.84,Conroy Group,biweekly
+116,708,active,1447.93,Mertz - Schoen,monthly
+117,1630,active,1827.11,DuBuque LLC,monthly
+118,1071,active,7475.43,Ziemann Group,biweekly
+119,1273,stopped,3189.52,Collins - Okuneva,biweekly
+120,682,active,3703.05,Rice-Borer and Sons,biweekly
+121,1853,active,2166.47,Gibson Inc,biweekly
+122,787,stopped,808.57,Huels - Von,biweekly
+123,423,active,4833.95,Veum LLC,biweekly
+124,1968,active,7257.64,Schinner Inc,biweekly
+125,1140,active,10107.55,"Stehr, Lesch and Graham",weekly
+126,1728,active,2652.82,Torphy Inc,biweekly
+127,178,active,5950.42,Kilback - Cremin,monthly
+128,1835,stopped,5034.61,Abernathy LLC,monthly
+129,159,active,2271.63,"Bauch, Krajcik and Funk",biweekly
+130,420,active,5071.46,Kling - Dach,weekly
+131,786,active,873.86,Feil - Bayer,biweekly
+132,724,active,1566.32,"Keebler, Rohan and Spencer",weekly
+133,1881,active,927.80,Schaden and Sons,biweekly
+134,1671,active,1942.71,"Wiegand, Bailey and Langosh",biweekly
+135,747,active,3222.84,Cummings - Ritchie,biweekly
+136,79,active,1292.08,"Bechtelar, Funk and Luettgen",biweekly
+137,1835,active,4508.37,Kirlin and Sons,monthly
+138,283,stopped,4205.89,Kemmer - Leuschke,monthly
+139,457,active,9020.11,Labadie - Goldner,biweekly
+140,514,active,11457.36,Purdy - Murray,weekly
+141,710,active,1027.22,Buckridge - Bernhard,biweekly
+142,907,active,3487.49,Rosenbaum - Kessler-Lockman,monthly
+143,186,active,4320.43,Walsh-Shields and Sons,weekly
+144,955,active,1374.05,Wyman - Streich,monthly
+145,1079,active,4394.58,Gottlieb - Stroman,weekly
+146,1231,active,3690.95,Hirthe Group,monthly
+147,1317,active,8904.23,Ebert - King,biweekly
+148,783,active,1420.53,"O'Connell, Bauch and White",monthly
+149,367,active,10653.34,"Champlin, Stark and Koss",monthly
+150,872,active,2361.94,Hyatt Group,monthly
+151,1199,active,10077.12,Feeney-Bednar Group,monthly
+152,1256,active,9505.36,Wisozk LLC,biweekly
+153,1917,active,10575.79,Brown - Barton,biweekly
+154,240,stopped,11752.00,Schimmel - Runolfsdottir,monthly
+155,1983,active,1570.78,"Kunde, Rempel and Predovic",weekly
+156,1573,active,860.31,"Thompson, Rau and Kihn-McDermott",weekly
+157,1701,active,7980.83,Kutch LLC,monthly
+158,1862,active,8947.11,"Boehm, Streich and Considine",monthly
+159,762,active,11298.27,"Roberts, Batz-Robel and Runolfsson",monthly
+160,848,stopped,7609.12,Deckow - Mann,biweekly
+161,1467,active,6597.76,"Rodriguez, Hilpert and Christiansen",weekly
+162,355,active,6119.47,Terry - Wyman,monthly
+163,1756,active,10961.54,Simonis Inc,biweekly
+164,28,active,1960.40,"Jenkins, Dietrich and Muller",monthly
+165,170,stopped,5380.22,Schimmel Inc,monthly
+166,1981,active,2882.70,Schamberger Inc,biweekly
+167,896,active,850.40,"Rodriguez, Dach and Schuppe",biweekly
+168,1482,active,6403.29,Gislason Inc,weekly
+169,1049,active,3387.32,Homenick Group,biweekly
+170,865,active,967.12,"Ritchie, Kub and Russel",weekly
+171,1946,active,2951.21,Wolf LLC,biweekly
+172,417,active,1765.77,"Hettinger, Ledner and O'Hara",monthly
+173,213,active,3973.33,"Harris, Leffler and Rosenbaum",monthly
+174,1454,active,2050.86,Hahn-Turner Inc,biweekly
+175,1505,active,11063.12,"Streich, Huel and Glover",monthly
+176,432,active,5686.82,Glover - Pacocha,biweekly
+177,1491,active,986.91,Watsica-Legros - Muller,weekly
+178,670,active,6997.86,Johns Group,weekly
+179,268,active,11413.68,Haag - Roberts,monthly
+180,37,active,827.92,Jakubowski - Huel,biweekly
+181,1322,stopped,921.49,"Mayer-Bins, McKenzie and Rodriguez",weekly
+182,208,stopped,1807.13,Hartmann Inc,biweekly
+183,8,active,1957.39,"Huel, Bradtke and Cartwright",biweekly
+184,647,active,5634.48,Wehner Inc,biweekly
+185,1126,active,990.33,"Krajcik, Morissette and O'Reilly",monthly
+186,1149,active,4481.11,"Boyle, Morar and Goldner",biweekly
+187,210,active,5716.69,Torp - Buckridge,biweekly
+188,440,active,4206.04,Romaguera and Sons,biweekly
+189,1063,active,7567.21,"Wilkinson-Sanford, Wunsch and Kerluke",weekly
+190,1293,active,2052.54,Lakin - Anderson,monthly
+191,305,stopped,947.89,Hegmann - Harris,biweekly
+192,313,active,4682.87,Hayes - Mitchell,monthly
+193,1773,active,4362.67,"Schinner, Bogan and Kutch",monthly
+194,233,active,10757.20,Robel - Waters,biweekly
+195,1826,active,1133.72,Cassin - Kunze,weekly
+196,987,active,843.08,"Paucek, White and Russel",biweekly
+197,1076,active,812.77,"Jones, Larson and Powlowski",monthly
+198,1785,active,11330.89,Durgan-Breitenberg LLC,biweekly
+199,458,active,2494.61,Wuckert - Veum,biweekly
+200,614,active,1467.67,"Barton, Mitchell and Abbott",biweekly
+201,1137,active,971.39,Beahan and Sons,biweekly
+202,944,active,5534.89,"Schroeder, Wintheiser and Kling",monthly
+203,6,active,2702.15,Beatty - Senger,monthly
+204,795,active,1473.92,"Johnson, Hand and Brekke",monthly
+205,465,active,11494.13,Friesen - Rodriguez,biweekly
+206,429,active,2768.99,Fahey - Pfeffer,monthly
+207,494,active,2605.56,Bauch - Schultz,biweekly
+208,714,active,7276.48,"Hartmann, Lemke and O'Connell",monthly
+209,1170,active,1495.62,Kovacek Inc,monthly
+210,996,active,909.97,Schaefer Inc,monthly
+211,164,active,6118.73,"Berge, Gutkowski and Torphy",biweekly
+212,1023,active,10924.37,Bechtelar - Blanda,monthly
+213,1407,active,3761.69,Emard - Schmidt-Kautzer,monthly
+214,1578,active,8420.65,Murray - Rippin,monthly
+215,124,active,2512.22,O'Keefe - Leuschke-Green,monthly
+216,250,stopped,11365.52,"Douglas, Harris and Bednar",monthly
+217,1963,active,2385.91,Keebler Group,biweekly
+218,437,active,3471.50,Russel - Zieme,biweekly
+219,1457,active,3722.77,"Feil, Ziemann and Yundt",biweekly
+220,1421,active,9868.29,Terry Inc,biweekly
+221,242,active,842.61,Haag - Cassin,biweekly
+222,312,stopped,2881.15,Cartwright LLC,monthly
+223,1189,active,2028.14,"Kutch, Welch and Langworth",biweekly
+224,878,active,11182.20,Gleason - Heaney-Kunde,monthly
+225,1211,active,2389.88,Dicki Inc,biweekly
+226,1099,stopped,876.76,"McDermott-Toy, Luettgen and Green",weekly
+227,1336,active,938.52,"Abbott, Wiegand and Schimmel",monthly
+228,579,active,5852.10,"Kovacek, Fay and Pacocha",biweekly
+229,660,active,7500.15,"Buckridge, Prohaska and Ebert",biweekly
+230,239,active,4054.74,"Kassulke, Wintheiser and Balistreri",monthly
+231,1137,stopped,1640.48,Wunsch LLC,monthly
+232,404,active,3957.94,Torphy Inc,monthly
+233,892,active,7286.41,Marks-Medhurst and Sons,monthly
+234,1106,active,3111.92,"Johns, Wolff and Schimmel",monthly
+235,1973,active,1091.73,"Little, Corwin and Adams",monthly
+236,1814,active,6020.02,Medhurst-Kuvalis LLC,monthly
+237,1275,stopped,3977.09,"Labadie, Hegmann and Runolfsdottir",biweekly
+238,597,active,9294.69,Hoppe and Sons,biweekly
+239,90,stopped,6161.93,"O'Reilly, Stiedemann and Heathcote",monthly
+240,443,active,5106.89,Leannon Inc,biweekly
+241,811,active,3537.01,Langosh - Kertzmann,biweekly
+242,1081,stopped,3767.91,Nitzsche - Gusikowski,biweekly
+243,1035,active,3643.45,Hartmann Group,biweekly
+244,1534,active,1146.64,Spinka - Paucek,biweekly
+245,351,active,823.06,Steuber - Hane,monthly
+246,1481,stopped,4645.40,Toy - Stracke,monthly
+247,111,active,9271.45,"Wolff, Dooley-Koepp and Hessel",biweekly
+248,42,active,6338.28,Greenholt - Kling,monthly
+249,1869,active,1203.95,"Gleichner, Predovic and Donnelly",biweekly
+250,367,active,5292.10,McDermott Inc,biweekly
+251,1485,active,1446.34,Emard - Huel,monthly
+252,1560,active,8408.73,Brown LLC,monthly
+253,1737,active,2944.98,Romaguera Inc,monthly
+254,93,active,2423.96,"Barrows, Rosenbaum and Hauck",biweekly
+255,670,active,7371.61,"Crist, Zboncak-West and Mante",weekly
+256,53,active,8675.17,Mohr Group,biweekly
+257,1114,active,880.01,Tromp - Grimes,weekly
+258,297,active,1697.42,Lehner - Hauck,biweekly
+259,978,active,2791.11,"Botsford, Jenkins and Konopelski",biweekly
+260,1961,active,4442.05,"Langworth, Leannon and Barton",weekly
+261,1550,stopped,9120.24,Rogahn - Nolan,weekly
+262,913,active,2242.55,Dickinson - Nitzsche,monthly
+263,1597,active,3543.96,"Carter, Ritchie and Schmitt",biweekly
+264,224,stopped,5976.95,"Schroeder, McDermott and Ruecker",weekly
+265,1344,active,1203.11,Mann-Torphy - Jenkins,monthly
+266,973,active,825.38,Leuschke - Williamson,biweekly
+267,260,active,3370.85,Rippin LLC,biweekly
+268,605,active,7425.23,Vandervort - Kautzer-Gibson,biweekly
+269,1739,active,7568.85,Veum LLC,biweekly
+270,1399,active,1414.35,Cole - Gusikowski,monthly
+271,344,active,6654.61,Hermiston - Stoltenberg,biweekly
+272,1781,active,6964.41,Murphy and Sons,biweekly
+273,1257,stopped,2027.39,"McLaughlin, Hammes and Lesch",biweekly
+274,1095,active,811.67,"Morissette, Strosin and Legros",weekly
+275,1604,active,2547.70,Littel - Barrows,biweekly
+276,1367,active,1606.15,"Beer, Bruen and Osinski",biweekly
+277,1786,active,1232.50,Huel - Franey,monthly
+278,613,active,3403.62,"Cruickshank, Kirlin and Schmidt",biweekly
+279,1597,active,7286.90,Bosco Group,biweekly
+280,600,active,3944.76,"Watsica, Blick and Keebler",biweekly
+281,1003,stopped,5162.31,"Stiedemann, Conn and O'Reilly",biweekly
+282,1713,active,2415.85,Feest and Sons,monthly
+283,1185,active,4246.95,Becker Group,biweekly
+284,972,active,1202.54,O'Connell - Lubowitz,biweekly
+285,613,active,7071.16,"Casper, Hills and Carroll",biweekly
+286,464,active,3813.36,"Ullrich, DuBuque and Dare",biweekly
+287,1216,active,1013.33,"Ratke, Harris-Bauch and Buckridge",weekly
+288,1051,active,863.62,Ortiz and Sons,biweekly
+289,523,active,805.48,Fay - Cremin,biweekly
+290,1262,active,10955.73,White Inc,monthly
+291,1009,active,997.68,Bernhard - Schamberger,biweekly
+292,706,stopped,8867.79,"Turner, Hermann and Kshlerin",monthly
+293,1734,active,2653.68,"Rippin, Howell and Parisian",biweekly
+294,1472,stopped,10551.43,"Wiza, Erdman and Gulgowski",monthly
+295,486,active,1526.96,Torp Group,weekly
+296,1821,active,3697.50,"Murazik, Crona and Friesen",monthly
+297,1810,active,936.55,"Parisian, Jones and Braun",biweekly
+298,1012,active,2411.21,Turner and Sons,monthly
+299,1588,active,1018.05,Medhurst - Altenwerth,monthly
+300,969,active,8430.77,Hammes-Considine and Sons,biweekly
+301,1698,active,7801.32,Tromp Inc,weekly
+302,1217,active,911.85,Murazik and Sons,monthly
+303,1542,active,7228.41,Romaguera Inc,biweekly
+304,1267,stopped,8557.47,Schumm - Sanford,biweekly
+305,1401,active,2932.76,Mayer Group,biweekly
+306,162,active,1267.90,Breitenberg - Simonis,biweekly
+307,387,active,5475.18,Rau - Hilpert,weekly
+308,304,active,8606.34,"Olson, Sporer and Torphy",biweekly
+309,534,active,1894.82,Willms - Reynolds,biweekly
+310,1632,active,2651.00,Ankunding-Bode - Ruecker,monthly
+311,1707,active,861.22,"O'Hara, Osinski and Daniel-Larson",monthly
+312,1904,active,6987.88,"Homenick, Beer and Bashirian",biweekly
+313,549,active,5457.88,Hoppe and Sons,biweekly
+314,88,active,2522.36,Wehner - Grady,biweekly
+315,941,active,7570.65,"Robel-Herman, Kessler and Quigley",biweekly
+316,1083,active,2015.77,Reichert - McDermott,monthly
+317,1349,active,1440.72,Prosacco and Sons,biweekly
+318,204,active,1012.81,"Beatty, Rowe and Rohan",weekly
+319,1221,active,3964.48,Abbott - Terry,biweekly
+320,777,active,5440.03,Lubowitz LLC,biweekly
+321,609,active,1139.15,Hudson - Nicolas,biweekly
+322,1403,active,2369.73,"Smith, Goyette and Ratke",biweekly
+323,226,stopped,4191.54,"Leffler, Swift and McClure",monthly
+324,1000,active,811.75,Conroy - O'Reilly,biweekly
+325,1164,active,6540.75,Spinka - Walter,weekly
+326,533,active,1427.62,Lesch Group,biweekly
+327,800,active,10744.46,Shields LLC,biweekly
+328,201,active,6499.33,Ullrich-Miller - Ondricka,biweekly
+329,113,active,7813.17,Ruecker LLC,biweekly
+330,1219,active,4202.89,Homenick - Dickens,weekly
+331,784,active,1752.28,Davis Inc,biweekly
+332,1905,stopped,888.22,Feil-Jakubowski Inc,biweekly
+333,1119,active,6770.57,Hills Group,monthly
+334,1120,active,8014.54,Gorczany and Sons,weekly
+335,974,stopped,8433.46,Medhurst and Sons,biweekly
+336,874,active,10320.57,Stroman - Schumm,weekly
+337,1325,active,3551.18,Bechtelar Inc,monthly
+338,1961,active,1128.26,Beatty - Gerlach,biweekly
+339,1469,active,812.70,Dickinson LLC,biweekly
+340,1609,active,3404.86,"Maggio, Parisian and Heller",biweekly
+341,26,active,9107.95,Kreiger and Sons,monthly
+342,233,active,9543.51,"Hermann, O'Keefe and Nienow",biweekly
+343,147,active,3875.83,Thompson - Goldner,biweekly
+344,85,active,2320.45,Feeney Inc,weekly
+345,1430,active,1813.71,Ruecker LLC,biweekly
+346,131,active,7454.54,Lind - Batz,monthly
+347,430,active,4425.61,Schaefer - Hegmann,biweekly
+348,1521,stopped,2202.24,"Wunsch, Howe and Hyatt",biweekly
+349,1401,active,1398.56,"Maggio, Hintz and Kiehn",biweekly
+350,1599,active,9595.80,Davis - Mraz-Paucek,biweekly
+351,1564,active,4933.01,"Jast, Dicki and Nikolaus",monthly
+352,1306,active,955.96,Lebsack - Marks,monthly
+353,1013,active,6670.30,O'Keefe - Kuhic,monthly
+354,923,active,929.91,Erdman and Sons,monthly
+355,574,active,2262.66,"Kirlin, Klocko and Fahey",monthly
+356,95,active,5262.00,Huel and Sons,biweekly
+357,307,active,2810.36,Leannon Inc,biweekly
+358,1841,active,1140.27,Crona and Sons,biweekly
+359,988,active,8663.80,Cronin-Goyette LLC,weekly
+360,1539,active,1915.17,Bradtke Inc,biweekly
+361,1125,active,4938.53,Senger Group,weekly
+362,801,active,10535.76,"Bosco, Bergnaum and Rolfson",monthly
+363,806,active,1535.57,Schimmel Inc,monthly
+364,1347,active,9118.52,Marks Group,monthly
+365,872,active,5152.07,Cartwright LLC,monthly
+366,818,stopped,1052.48,"Carroll, Hintz and Wilkinson",weekly
+367,1473,active,3162.86,Abbott Inc,biweekly
+368,306,active,1044.41,"Hermiston, Roberts and Brown",biweekly
+369,1563,stopped,7123.65,O'Connell and Sons,biweekly
+370,216,active,9739.35,"Schroeder, Moore and McDermott",weekly
+371,1382,active,1900.76,"Littel, McKenzie and Christiansen",monthly
+372,241,active,2846.55,Wilkinson - Turcotte,biweekly
+373,869,active,806.96,"Rowe, Schimmel and Ondricka",weekly
+374,1866,active,3702.06,Altenwerth Group,monthly
+375,1475,active,8274.26,"Goldner, Hackett and Reichel",monthly
+376,1506,active,1504.87,Anderson - Torp,biweekly
+377,3,active,2871.07,"Howell, Miller and Lemke",weekly
+378,1937,active,4439.31,"Frami, Wiza and Sporer",biweekly
+379,712,active,1471.44,Kohler - Barrows,biweekly
+380,1538,active,8873.89,Williamson Inc,monthly
+381,434,active,5184.52,Ortiz - Quigley,monthly
+382,1448,active,2458.59,Lehner LLC,monthly
+383,1593,active,8398.05,Graham - Bode,biweekly
+384,980,stopped,1203.71,"Mitchell, Steuber and Mosciski",biweekly
+385,386,active,3208.25,"Hilll, Schmitt and O'Reilly",biweekly
+386,1336,active,8306.69,"Cole, Stanton and Moore",monthly
+387,75,active,5396.40,Luettgen - Schuppe,monthly
+388,657,active,801.86,"Gibson, Bogan and Hartmann",weekly
+389,193,active,2849.51,Hilll - Doyle,biweekly
+390,1102,stopped,7594.59,Metz LLC,biweekly
+391,1992,stopped,1224.04,VonRueden and Sons,biweekly
+392,1946,active,9574.01,Brown Inc,biweekly
+393,1053,stopped,3994.83,"Fritsch, Stark and Koss",monthly
+394,1740,active,2098.66,Hyatt - Roberts,monthly
+395,270,active,7295.29,"Lowe, Thompson and Bruen",biweekly
+396,1109,active,5692.16,Zboncak and Sons,monthly
+397,340,active,10441.07,Bergnaum - Herman,biweekly
+398,693,active,901.57,Rau Group,monthly
+399,671,active,5805.26,"Heidenreich, Barrows and Renner",biweekly
+400,615,active,4740.48,"Reichel, Yundt and Huel",biweekly
+401,962,active,8641.26,Erdman-Schneider - Langworth,monthly
+402,1451,active,2521.50,Crist - Runolfsdottir,biweekly
+403,633,active,11533.55,Vandervort - Mertz,biweekly
+404,828,active,850.52,Lakin Group,monthly
+405,1144,active,3106.81,"Becker, Wolf and Pfeffer",monthly
+406,1531,active,803.13,Bednar - Beer,weekly
+407,1755,stopped,836.30,Schulist - Kuhn,monthly
+408,93,active,8971.03,"McDermott-Tremblay, Hoppe and Kutch",monthly
+409,96,active,8012.27,Roob - Gottlieb,monthly
+410,349,stopped,4256.68,Koepp - Hudson-Kuhlman,biweekly
+411,1225,active,895.10,Shanahan - Nitzsche,biweekly
+412,12,active,2189.90,Lind - Grimes,weekly
+413,825,active,1301.96,"Bogan, Nitzsche and King",monthly
+414,1323,active,1945.46,Greenholt - McGlynn,biweekly
+415,434,stopped,930.91,"Prohaska, Bradtke-Schaefer and Sawayn",monthly
+416,1226,active,10310.00,Harber - Auer,monthly
+417,1674,active,10031.57,"Leannon, Effertz and Boehm",monthly
+418,370,active,3921.41,Green Inc,weekly
+419,343,stopped,4289.09,Carroll Group,biweekly
+420,1567,active,1186.37,Parker Inc,biweekly
+421,1109,active,2383.69,"MacGyver, Dare and Hand-Schowalter",monthly
+422,6,active,1933.54,"Kozey, Boyer-Marvin and Brekke",weekly
+423,464,active,2731.46,Champlin Group,weekly
+424,644,active,8662.76,Borer-Cruickshank Inc,weekly
+425,1789,active,2342.70,Harber and Sons,biweekly
+426,1574,active,4388.10,"Dickens, Wyman and Fisher",biweekly
+427,1446,active,3222.09,West LLC,biweekly
+428,1102,active,5786.55,Botsford LLC,biweekly
+429,237,active,1581.20,Kemmer and Sons,biweekly
+430,1358,active,4099.58,"Schaefer, Ondricka and Moore",biweekly
+431,450,stopped,8059.81,Gulgowski - O'Hara,biweekly
+432,312,active,3257.16,"Tromp, Stracke and Wintheiser",monthly
+433,1389,active,5914.59,Morar - Toy,monthly
+434,856,active,5464.18,"Dare, Will and Williamson",biweekly
+435,324,active,801.50,Pacocha Inc,biweekly
+436,1780,active,6486.31,Stark - Ferry-Doyle,monthly
+437,658,active,10048.63,Boyer - Wunsch,biweekly
+438,945,active,1660.63,Schroeder - Greenholt,monthly
+439,1321,active,2832.30,Schuster - Spinka,biweekly
+440,235,active,9635.04,Hickle - Prohaska,biweekly
+441,1143,active,2551.87,"Halvorson, McClure and Jacobi",monthly
+442,672,active,2182.63,Schuppe - Grady,biweekly
+443,678,stopped,9360.36,Klein LLC,biweekly
+444,1594,active,5148.54,"Labadie, Keebler and Price",monthly
+445,1080,active,6422.32,"Feeney, McClure and Fadel",weekly
+446,1321,active,816.17,"Raynor, Powlowski and Streich",biweekly
+447,1223,stopped,8507.29,Adams - Blanda,weekly
+448,1817,active,1031.68,Botsford - Jaskolski,biweekly
+449,1991,active,5492.22,Altenwerth - Schultz,biweekly
+450,723,active,1384.06,Hane - Jacobson,biweekly
+451,207,stopped,913.23,Murazik - Dibbert,biweekly
+452,1010,active,807.59,Ondricka Group,monthly
+453,410,active,6932.29,"Marquardt, Murray and Mayert",monthly
+454,1023,active,4987.95,Lynch LLC,biweekly
+455,285,active,1165.42,"Braun, Hand and Will",monthly
+456,1175,active,803.50,Schuppe Group,biweekly
+457,1981,active,1863.00,Crona Inc,biweekly
+458,144,active,8142.04,VonRueden - Kertzmann,biweekly
+459,930,stopped,6110.73,Nienow - Greenfelder-Barton,monthly
+460,722,active,5265.66,Cremin and Sons,monthly
+461,1304,active,1881.34,"Welch, Kessler and Schamberger",biweekly
+462,498,active,10257.02,Carroll - Romaguera,weekly
+463,58,stopped,1525.96,Hermann Group,biweekly
+464,1784,active,9325.30,Dooley - Jakubowski,biweekly
+465,204,active,1142.70,Bins Inc,weekly
+466,1790,active,10724.45,"Williamson, Grant and Purdy",biweekly
+467,526,active,3559.92,Jast and Sons,monthly
+468,1585,active,2801.62,Fisher Inc,biweekly
+469,1043,active,1792.16,Olson Inc,weekly
+470,352,active,3544.52,Gottlieb - Bergstrom,biweekly
+471,1477,active,1183.96,Balistreri Group,monthly
+472,1727,active,7435.46,Cassin Group,biweekly
+473,1689,active,6980.72,Schiller-Oberbrunner Inc,biweekly
+474,1098,stopped,5788.05,"Fritsch, Konopelski and Berge",weekly
+475,1321,active,2867.99,"Barton, Williamson and Bernier",biweekly
+476,432,active,5752.65,"Schimmel, Schowalter and Steuber-Auer",monthly
+477,1610,active,7952.73,Grant - Daniel,biweekly
+478,1905,active,1023.87,Will Group,weekly
+479,1223,active,4811.61,Predovic Group,monthly
+480,683,active,901.54,"Trantow, Brekke and Oberbrunner",biweekly
+481,692,active,6275.24,Wunsch - Lakin,monthly
+482,398,active,883.53,Franey - Lockman,biweekly
+483,414,active,800.53,Thompson - Johnston,monthly
+484,1534,active,5289.72,"Grant, Osinski and Ondricka",weekly
+485,87,active,4454.08,"Senger, Osinski and Kohler",monthly
+486,958,active,8150.60,Lakin - Kozey,biweekly
+487,1160,active,5079.72,"Stokes, Mohr and Funk",monthly
+488,969,stopped,5271.31,"Barton, Schulist and Jacobi",biweekly
+489,1328,stopped,5724.77,Auer and Sons,monthly
+490,1103,active,1016.71,Pacocha-Zieme - Strosin,monthly
+491,1818,active,10739.45,Collier LLC,weekly
+492,1118,active,3472.06,Kilback Inc,monthly
+493,730,active,3029.30,Jakubowski Group,monthly
+494,1453,active,6138.55,"Wuckert, Hackett and Muller",biweekly
+495,1606,active,1304.98,"Rodriguez, Boyle and O'Conner",monthly
+496,435,active,9865.33,"Hessel, Homenick and Von",monthly
+497,1135,active,901.74,"Stoltenberg, Hermann and Bins",biweekly
+498,1589,active,9219.98,Hartmann Group,weekly
+499,1607,active,10592.74,Dibbert Inc,monthly
+500,754,stopped,3102.91,"Blanda, Beier and Smith",monthly
+501,1544,active,1520.78,"Kiehn, Heidenreich and Rowe",monthly
+502,1783,active,10987.81,Howe Group,weekly
+503,1884,active,2020.76,"Wisoky, Sanford and Reinger",monthly
+504,1497,active,956.85,Marks - Johnson,monthly
+505,1856,active,2662.71,Hartmann LLC,monthly
+506,775,active,4714.65,Davis Group,biweekly
+507,54,active,1125.91,Will LLC,weekly
+508,1945,stopped,1236.63,"Paucek, Christiansen and Emard",biweekly
+509,203,active,4317.03,Crona-Herzog Group,biweekly
+510,649,active,6387.71,Powlowski - Kiehn,weekly
+511,683,active,808.80,Macejkovic and Sons,monthly
+512,1900,active,1360.52,Hermann - Parker,biweekly
+513,33,active,6818.59,"Greenfelder, Herzog and Carroll",weekly
+514,1097,active,7002.61,"Welch, Kling and Mohr",weekly
+515,794,stopped,1965.22,Legros - Paucek,biweekly
+516,567,active,2735.28,Hettinger Inc,biweekly
+517,1887,active,6412.45,"Pagac, Ziemann and O'Keefe",monthly
+518,1360,active,4523.13,Crona - Feest,biweekly
+519,792,active,800.40,"Strosin, Pfeffer and Koepp-Predovic",monthly
+520,1239,active,7300.55,"Hudson, Bergnaum and Jaskolski",monthly
+521,748,active,5006.90,"Jakubowski, Kling and Bergstrom",monthly
+522,831,active,9315.12,Fay - Fritsch,weekly
+523,948,active,11126.36,"Oberbrunner, Swift and Kerluke",biweekly
+524,1236,stopped,2211.07,"Stokes, Beier and Hegmann",biweekly
+525,1067,active,6322.24,"Gutmann, Streich and VonRueden",monthly
+526,1144,active,7567.44,"Gleichner, Emmerich and Ernser",monthly
+527,459,active,1927.05,Jacobs - Hayes,biweekly
+528,792,active,3042.27,"Schimmel, Kiehn and Dickinson",monthly
+529,649,stopped,2293.43,"Padberg-Gerlach, Senger and Grant",monthly
+530,1534,active,1359.08,Medhurst - Effertz,biweekly
+531,170,active,1318.81,Morissette - Little,biweekly
+532,961,active,8539.74,Schulist - Feeney,biweekly
+533,1521,active,6753.48,Stokes - Dicki,biweekly
+534,514,active,4443.16,Klocko Inc,biweekly
+535,366,active,1292.62,Volkman - Runolfsdottir,weekly
+536,438,active,3303.62,"Spencer, Stark and Jacobs",biweekly
+537,751,active,3752.48,Wyman - Stokes,biweekly
+538,353,active,864.41,Ruecker and Sons,biweekly
+539,1822,stopped,8259.58,"Kris, Bernhard and Casper",biweekly
+540,1039,active,970.69,Wilkinson - Schimmel,weekly
+541,181,active,9844.42,Kovacek and Sons,weekly
+542,248,active,2985.40,"Kling, Jakubowski and Casper",biweekly
+543,116,active,8433.24,Bashirian and Sons,weekly
+544,1949,active,6538.95,Hartmann - Romaguera,monthly
+545,1348,active,817.99,Cummerata - Beahan,biweekly
+546,786,active,5006.40,"Schmitt, Gerhold and Gerhold",monthly
+547,1540,stopped,5797.89,Cassin and Sons,biweekly
+548,484,active,8864.37,"Mraz, McKenzie and Heller",biweekly
+549,460,active,939.56,Kihn - Heathcote,biweekly
+550,1046,active,5968.67,Metz - Towne,biweekly
+551,546,active,3158.42,Weimann-Herzog - Emmerich,monthly
+552,408,active,3677.30,"Sipes, Gerlach and McDermott",monthly
+553,1391,active,918.63,Windler Inc,biweekly
+554,1255,active,2836.23,"Hickle, Turcotte and Bogisich",monthly
+555,1405,active,6263.22,Rogahn Inc,monthly
+556,916,active,1482.88,Mosciski Group,biweekly
+557,1047,active,826.52,Muller LLC,biweekly
+558,1607,active,10530.43,O'Kon and Sons,biweekly
+559,740,stopped,5047.88,"Lockman, Franecki and Marvin",monthly
+560,372,active,1671.45,Price Group,biweekly
+561,564,active,3327.81,Toy LLC,biweekly
+562,1363,stopped,1792.14,Hills - Emmerich,monthly
+563,1333,active,3143.48,Ankunding - Stracke,biweekly
+564,502,active,4699.20,Hartmann - Corkery,biweekly
+565,1385,active,4478.19,"Bernhard-Rodriguez, Cruickshank and Waelchi",monthly
+566,1654,active,7121.11,"Romaguera, Lakin and Cassin",biweekly
+567,1710,active,2816.53,Huel - Swaniawski-Heathcote,biweekly
+568,126,active,3506.14,Barton - Mayert,biweekly
+569,1249,active,835.55,Luettgen LLC,biweekly
+570,495,active,8744.33,"Stiedemann, Wunsch and Thompson",biweekly
+571,1329,active,1023.33,Crooks - Bernier,biweekly
+572,1796,stopped,11354.45,Grady LLC,monthly
+573,553,stopped,2020.42,"Mueller, Nikolaus-Jacobi and Reynolds",weekly
+574,1706,active,1251.45,"Littel, Rogahn and Morissette",weekly
+575,1363,active,2766.82,Mante - Kunde,monthly
+576,511,active,916.86,Stanton - Littel,monthly
+577,925,active,7306.35,Price Group,weekly
+578,920,stopped,1055.52,"Runte, Keebler and Schmeler",weekly
+579,1114,stopped,1228.05,Waelchi - Boyer,biweekly
+580,1479,active,3723.03,Luettgen - Daniel,biweekly
+581,1742,active,2970.12,Stanton - Macejkovic,biweekly
+582,1486,active,1280.34,Waelchi - Fisher,biweekly
+583,1694,active,950.18,Hartmann LLC,biweekly
+584,1303,active,1031.92,Bogan and Sons,biweekly
+585,1671,active,1167.39,Ryan - Medhurst,biweekly
+586,717,active,8854.37,"Davis-Larkin, Walker and Romaguera",weekly
+587,626,active,5176.83,Jakubowski LLC,monthly
+588,1415,active,1753.87,Leffler Inc,biweekly
+589,441,active,1202.81,Quitzon - Goldner,monthly
+590,1905,active,5816.91,"Sporer, Bartoletti-Schaden and Cole",biweekly
+591,1882,active,862.51,Brekke Inc,biweekly
+592,440,stopped,4455.81,Graham - Bayer,biweekly
+593,585,active,1236.40,Mann LLC,biweekly
+594,1230,active,3479.67,Schmeler - Tromp,biweekly
+595,1298,active,1491.75,"Auer, Hoeger and Berge",monthly
+596,963,active,852.08,"McLaughlin, Windler and Yundt",monthly
+597,1507,stopped,1147.60,Krajcik Inc,biweekly
+598,238,active,1315.46,"Kulas, Rohan and Cassin",monthly
+599,102,active,5970.19,Ferry - Schneider,biweekly
+600,1690,stopped,1274.50,Kerluke Inc,monthly

@@ -1,0 +1,201 @@
+id,business_name,customer_id,merchant_category_code,status
+1,Weber and Sons,130,5541,active
+2,"Shields, Green and Hammes",406,7011,active
+3,Brown - Schultz,165,5411,active
+4,Kiehn-King - Lindgren,172,5732,active
+5,Schaden - Beahan,1079,5999,active
+6,Ledner - Quitzon,422,7011,active
+7,Collins Group,87,5999,active
+8,O'Keefe - West,663,5999,active
+9,Bruen and Sons,904,5411,active
+10,Koelpin - Konopelski,688,5812,active
+11,Kemmer - Pagac,884,5812,active
+12,Fahey - Turner,174,5999,active
+13,Stoltenberg-Fritsch - Feest,285,5541,suspended
+14,Johnston Inc,378,7011,active
+15,Fay - Johnson-Leuschke,1081,7011,active
+16,Farrell Group,70,5411,active
+17,"Zboncak, Hermann and Mueller",383,5541,suspended
+18,"Zemlak, Shanahan and Mitchell",544,5812,active
+19,Crona - Boyer,286,5999,active
+20,"Mante, O'Kon and Steuber",395,5999,active
+21,Cremin - Kertzmann,60,5411,active
+22,"Volkman, Davis and Wisozk",266,5732,active
+23,Schinner and Sons,1048,5541,active
+24,Kertzmann - Hessel,626,5541,active
+25,Lockman LLC,951,5541,suspended
+26,"Cassin, Pollich and Kshlerin",1193,5812,suspended
+27,"Hane, Rippin and Sanford",258,5541,active
+28,Rosenbaum - Will,568,5541,active
+29,Stanton - Gulgowski,150,5541,suspended
+30,Roberts - Abbott,924,5541,active
+31,Kuhn LLC,488,5999,active
+32,Volkman - Ankunding-Kiehn,315,5411,active
+33,"Hodkiewicz, Davis-Bogisich and Nienow",538,5541,active
+34,Morar-Blanda Group,1053,5999,active
+35,Mann and Sons,264,5541,active
+36,Hirthe and Sons,868,5541,active
+37,Cassin and Sons,160,7011,active
+38,"Simonis, Zulauf and Skiles",1069,5812,active
+39,Lueilwitz - Jacobi,1129,5411,active
+40,"Hagenes, Rippin and Pollich",798,5732,active
+41,Deckow - Bradtke,192,7011,active
+42,"Smith, Fadel and Mayert",786,5541,active
+43,Collins Inc,573,5999,active
+44,Morar LLC,884,7011,active
+45,Casper - Bahringer,67,5411,active
+46,"Schroeder, Erdman and Durgan",1155,5411,active
+47,Ankunding - Friesen,334,5541,active
+48,"Hickle-Ebert, Flatley and McDermott",629,5812,active
+49,Douglas LLC,222,5411,active
+50,Corwin Group,989,5812,active
+51,Zboncak - Jacobs,441,5541,active
+52,Feeney Inc,14,5999,active
+53,Huels-Armstrong Inc,612,5999,active
+54,Ernser - Tremblay,1161,5812,active
+55,Hudson - Runolfsdottir,976,5812,active
+56,Rohan - Flatley,271,5999,active
+57,Stroman - Walter,974,5812,active
+58,Jast Inc,347,5541,active
+59,Trantow Group,15,5999,active
+60,"Lemke, Hand and Erdman",285,5541,active
+61,"Feest, Huels and Ernser",925,5999,active
+62,"Wiegand, Kutch and Mueller",703,5411,active
+63,"Cassin, Quitzon and Cassin",359,5999,active
+64,Hamill - Connelly,944,5411,active
+65,Considine - Kuhic,1032,5999,active
+66,"Gutmann, Schoen and Moen",632,5999,active
+67,Walsh - Olson,326,5999,active
+68,Hackett - Hand,602,5999,active
+69,Kuhn - Kuhlman,1178,5411,active
+70,"Koch, Tremblay and Reichert",692,5732,active
+71,Lesch-Upton - Bradtke,940,7011,active
+72,"Kshlerin, Krajcik and Lueilwitz",319,5411,active
+73,"Schneider, Nicolas and West",570,7011,active
+74,Effertz LLC,1053,5999,active
+75,Terry Inc,647,5411,active
+76,"McClure, Schroeder and Kreiger",1055,7011,active
+77,Schmeler - Rath,307,5812,active
+78,Schultz LLC,1133,5541,active
+79,Okuneva - Olson,54,5732,active
+80,"Schaefer, Hills and Bartell",820,5812,active
+81,Kuhlman - Greenholt,62,5999,suspended
+82,"Reichel, Bailey and Cormier",430,5411,active
+83,Wintheiser LLC,359,5999,active
+84,Smith - Armstrong,149,5812,active
+85,Moore and Sons,241,5411,active
+86,"Boyle, Schmeler and Goldner",386,5411,active
+87,Altenwerth-Koss Inc,315,5411,active
+88,Lakin - Ward,143,5999,active
+89,Wilkinson - Kris,489,5812,active
+90,Emard - Gusikowski,915,7011,active
+91,Moen - Willms,596,7011,active
+92,Greenfelder Inc,639,5411,active
+93,Stehr LLC,67,5732,active
+94,Sanford - Kulas,1118,5812,active
+95,"Fahey, Hills and Hayes",713,5732,active
+96,Heidenreich - Spinka,686,5732,active
+97,"Altenwerth, Feil and Simonis",1149,5999,active
+98,"Fahey, Marquardt and Hirthe",815,5541,active
+99,"Nienow, Bauch and Runolfsson",1136,5999,active
+100,"VonRueden, Hayes and Tromp",728,5732,suspended
+101,"Tromp, Pagac and Beier",1035,5999,active
+102,Ziemann - Towne,26,5732,suspended
+103,Satterfield Inc,1041,5411,active
+104,Goyette Inc,931,7011,active
+105,"Dietrich, Schamberger and Howe",113,5812,active
+106,"Ortiz-Kulas, Zboncak and Kuvalis",1186,5541,active
+107,Stamm - Corwin,636,5411,active
+108,Terry - McClure,87,5732,active
+109,Bartell - Witting,266,5732,active
+110,Sawayn and Sons,1013,7011,active
+111,King - Kovacek,122,5732,active
+112,Herman - Carroll,595,7011,active
+113,Rosenbaum - Kirlin,349,7011,active
+114,Kertzmann - Towne,932,5541,active
+115,"Prosacco, Maggio and Turner",736,5999,active
+116,Veum - Satterfield,439,5411,active
+117,"Stoltenberg, Brekke and Goldner",308,5411,active
+118,"Rosenbaum, Dare and Lubowitz",560,7011,active
+119,"Dare, Bruen and Schultz",982,5812,active
+120,Yost - Lemke,1181,5411,active
+121,"Rath, Altenwerth and Kertzmann",630,5411,active
+122,"Murazik, Bogisich and Thiel",296,5541,active
+123,Reilly Inc,1074,5812,active
+124,Bahringer - Vandervort,869,5411,active
+125,Koelpin and Sons,344,5732,active
+126,Lowe-Bailey Inc,824,5732,active
+127,"Rippin, Veum and Balistreri",380,5732,active
+128,"Bauch, Stroman and Wolff",894,5812,active
+129,"Bednar, White-Walter and Hilll",332,5541,active
+130,Grady - West,1182,5541,suspended
+131,Watsica Group,1038,5541,active
+132,Skiles - Ebert,643,5732,active
+133,"Baumbach, Larkin and Goldner",429,5411,active
+134,Abbott - Stehr,1139,5541,active
+135,"Spinka, Pfannerstill and Lueilwitz",1084,5541,suspended
+136,Bradtke LLC,715,5541,active
+137,"Lynch, Steuber and Reinger",814,5541,active
+138,Morissette-Mills LLC,249,5812,active
+139,"Cummerata, McGlynn and Durgan",653,5812,active
+140,"Kuhlman, Little and Casper",707,5411,active
+141,"Parisian, Hyatt and Wisozk",845,7011,active
+142,"Christiansen, Kiehn and Bednar",1028,5732,active
+143,Hermiston LLC,518,5541,active
+144,"Fadel, Legros and Haley",506,5812,active
+145,Leannon - Beahan,706,5541,active
+146,"Donnelly, Rath and Beatty",975,7011,active
+147,"Gleichner, Adams and Conroy",279,7011,active
+148,Sauer - Willms,651,5541,active
+149,"Witting, Harris and Larkin",355,5541,suspended
+150,Tillman Inc,1027,7011,active
+151,"Kuvalis-Bartell, Jakubowski and Breitenberg",602,5999,active
+152,Nienow Inc,1153,5999,active
+153,Franey - Russel,636,5812,active
+154,Boyer - Bayer,4,7011,active
+155,"Morissette, Goyette-Armstrong and Hettinger",1081,5999,active
+156,"McDermott, Brekke-Boyer and Collier",902,5999,active
+157,"Stamm, Durgan and Green",1026,5411,active
+158,"Mann, Price and Harris",993,7011,active
+159,"Klocko, Johnston and Ernser",510,5999,active
+160,Legros Inc,1138,5541,active
+161,Little - Cremin,262,5411,suspended
+162,Pfannerstill - Armstrong,1079,5999,active
+163,"Mertz, McDermott and Balistreri",904,5999,active
+164,"McClure, Howe and Schaden",804,7011,active
+165,Aufderhar Group,911,7011,active
+166,Hegmann Group,971,5999,active
+167,Daniel - Pfannerstill,939,5999,active
+168,Spencer Inc,344,5812,active
+169,"Tremblay, Larson and Hilpert",304,5732,active
+170,Considine - Brekke,285,5411,active
+171,"Balistreri, Witting and Hagenes",301,5541,active
+172,Howell - Greenholt,111,7011,active
+173,O'Reilly - Doyle,470,5541,active
+174,Will - Watsica,48,5732,active
+175,Bednar LLC,529,5541,active
+176,Stamm LLC,836,5541,active
+177,Anderson Group,595,5411,active
+178,Howe Group,897,7011,active
+179,Torp - Osinski,917,5732,active
+180,Hackett - Willms,386,5411,active
+181,Strosin - Wiegand,145,5411,active
+182,Bogan Group,775,7011,active
+183,Stehr LLC,1084,7011,active
+184,"Jones, Parker and Willms",531,7011,active
+185,Hane - Macejkovic,975,5812,active
+186,Nitzsche - Rau,825,5541,active
+187,"Bosco, Langosh and Daniel",1017,7011,active
+188,"Swaniawski, Feeney and Kassulke",1139,5999,active
+189,Monahan - Botsford,1128,5999,active
+190,"Bednar, Bode and Mraz",1002,5812,active
+191,Parisian Group,447,5541,active
+192,Mertz - Johnston,825,5732,active
+193,"Dietrich, Shields and Huel",913,5732,active
+194,Hoppe - Muller,1094,7011,active
+195,Bernier LLC,92,5732,suspended
+196,"Bergnaum, Rowe and Nikolaus",640,5999,active
+197,"Crist, Bailey and Heaney",1031,7011,active
+198,Walsh Group,240,7011,active
+199,Koch Inc,274,5411,active
+200,Flatley Group,580,5999,active

@@ -1,0 +1,61 @@
+id,branch_id,name
+1,7,Retail Banking
+2,16,Operations
+3,1,Lending
+4,2,Operations
+5,17,Retail Banking
+6,12,Wealth Management
+7,1,Customer Service
+8,17,Lending
+9,10,Retail Banking
+10,10,Retail Banking
+11,9,Operations
+12,3,Lending
+13,2,Retail Banking
+14,14,Operations
+15,15,Lending
+16,6,Retail Banking
+17,16,Lending
+18,15,Lending
+19,6,Retail Banking
+20,8,Operations
+21,12,Retail Banking
+22,15,Lending
+23,7,Lending
+24,3,Retail Banking
+25,10,Lending
+26,7,Retail Banking
+27,3,Lending
+28,11,Operations
+29,7,Operations
+30,5,Lending
+31,16,Operations
+32,7,Retail Banking
+33,7,Operations
+34,6,Operations
+35,17,Operations
+36,1,Operations
+37,7,Retail Banking
+38,6,Operations
+39,7,Retail Banking
+40,4,Retail Banking
+41,7,Lending
+42,3,Operations
+43,4,Retail Banking
+44,13,Lending
+45,2,Retail Banking
+46,3,Lending
+47,7,Retail Banking
+48,16,Retail Banking
+49,9,Lending
+50,12,Operations
+51,17,Retail Banking
+52,9,Lending
+53,2,Lending
+54,3,Retail Banking
+55,9,Lending
+56,10,Lending
+57,1,Lending
+58,13,Lending
+59,11,Lending
+60,11,Lending
